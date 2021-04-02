@@ -1,0 +1,4388 @@
+[
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What is wind and humidity expected to be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid will itbe?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Ok, and how windy and humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What is about the humidity and the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Is it supposed to be humid or windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Cool, now how windy and humid is it expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Is the day going to be windy? How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "And what will wind and humidity conditions be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be windy or humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will there be wind and humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will there we alot of wind? DO you like it will be very humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What will the wind speed be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "I see, may I know the humidity and windiness too",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Can you tell me also how windy is going to be, and also the expected level of humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the humidity and wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How about humidity and wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be very humid or windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the humidity there, how is it going to be? Also can you tell me the how windy will be there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Can you tell me how windy and humid it will be there that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about humidity and wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Isi it gonna be windy and humid there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What will the humidity level and wind be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What will the humidity be like and how windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Is it going to be windy and what is the expected humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Can you tell me how windy is it going to be there, and the humidity I should expect?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Is it going to be humid or windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "And what about Humidity and Wind speed there on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be windy or humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What's the wind and humidity going to be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Great, how windy and humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Whats the expected Humidity and the wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Can you tell me what the humidity and wind will be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be windy or humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How about humidity and wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What will the humidity and wind be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid is it and windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What will the humidity be? Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Tell me how windy will be and how humid is expected to be.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Okay, How windy is it gonna be and How humid is it expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about humidity and wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid is it supposed to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What is the humidity and the wind predicted to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What is the humidity and wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the humidity and wind, hows that going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid and windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Can you tell me how humid and windy it's gonna be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be very humid or windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "how humid and windy is it gonna be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Could you check the humidity and wind conditions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What will the wind and humidity be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Do you have a wind and humidity reading for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid and windy is it expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid and windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Is it going to be rainy and what will be the humidity.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What is the humidity and the wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "May i know how windy and humid it will be on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "May I know the windiness and humidity on that day too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid is expected and also how about windy it gonna be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How wet will it be, and how much wind will there be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the wind speed and humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy will it be and how humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be windy? How humid is it expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "do you know the level of humidity? can you also tell me about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid it's going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the Humidity and Wind speed there on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be windy? How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy is it and how humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Thanks a lot. How windy and humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Tell me if there will be a strong wind and what humidity will be there",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the wind and humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "And how humid and windy is it going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the humidity, and the wind conditions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be humid or windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Is it going to be windy or humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid and windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What will the wind and humidity levels be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Will it be humid or windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid it's going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How about wind and humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid and windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the humidity and Wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy is it? And how humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid and windy is it going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Can you tell me anything about the humidity or the wind speed?q",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the humidity there, and the windy conditions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How windy and humid will it be during the day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What is the wind like and what will the humidity be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the windy there? How much humidity will be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Tell me how will be the humidity and windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "How humid and windy it's going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What is the humidity and wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Humidity and wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What about the humidity condition and the Wind speed there on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Could you look up the expected wind and humidity forecasts too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "Is it going to be windy or humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity_REQUEST_wind",
+    "utterance": "What's the wind and humidity looking like that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the weather going to be in Oakley on 12th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather forecast for Portland, OR on 8th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Tell me what the weather will be on the 6th of this month in Delhi, India.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to check the weather on the March 13th in SD.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather like on March 14th in Corte Madera?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Please tell me what the weather will be in London On March 3rd.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Find me the weather in Discovery Bay on 7th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you help me check the weather for March 1st for Campbell?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I am planning a visit to Larkspur on the 10th of this month. I need to know what the weather will be like so I can pack accordingly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me the weather on 13th of March in Orinda?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you get me the weather for Fremont for Thursday next week?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Yes, I would like to know what the weather will be like in New York City on the 12th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather for NYC on March 2nd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want the weather in Lafayette on March 4th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me what the weather will be in Alameda next Wednesday?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "How is the weather in Long Beach on the 7th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What will the weather be like in New York on March 7th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Whats the weather going to be like in SD on March 5th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I'd like to check the weather forecast for March 6th in Phoenix, AZ.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me the weather of KL on the March 4th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the weather in New York going to be like on the 11th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Hows the weather in Brentwood on march 8th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I'd like to find out the weather in LA on March 3rd.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I'd like to find out what the weather is going to be like on 2nd of March in Vancouver, BC.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I would like to check the weather in Sacramento on March 10th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the weather forecast on March 4th in Alamo?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I'm going on a trip soon. What's the weather like in London, England on the the 11th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather like at the river in Forestville on 12th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Tell me what the weather will be in Martinez on March 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I would like the forecast in Kuala Lumpur for March 12th please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What will the weather be like in Philly on the 5th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you see what the weather will be in Delhi, India on the 6th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me the weather in ATL on March 1st? I may need to dress differently.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Could you give me the Santa Rosa weather forecast for the 7th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me what the weather forecast is for Paris next Thursday?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Please can you find me a weather forecast for Nairobi, Kenya, on March 7th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the weather going to be like Wednesday next week in Philly?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I must verify the weather on 4th of March in Portland.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to check the weather for Portland, OR on March 2nd.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me what the weather is expected to be in Paris the 8th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to know how the weather will be in LAX on March 1st.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I need the weather for Sydney for March 12th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Tell me how will be the weather there in ATL on the 14th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Sure. Please check the weather forecast for Anaheim, CA on 13th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I'd like to know the Newark forecast on the 10th please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the climate like in Berkeley on March 7th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I would like to know the weather in Alamo for the 9th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather in Benicia on 2nd of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Tell me the weather in Chi-town on March 12th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather going to be like in Portland, OR on March 12th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Hi, could you help me check the weather in Montara on March 7th please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather forecast in KL on March 9th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you check the weather in SD next Tuesday please",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Find me the weather in Berkeley on this Saturday.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I would like to check the weather for the day after tomorrow in Paris, France.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me what the weather is like on the 11th in Livermore?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the weather forecast for New York on the March 6th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather like in Lagunitas this Saturday?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to search weather on 4th of this month in Seattle, wa",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Great! Can you tell me what the weather is predicted to be on the 14th of March in Moraga?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "4th of march in marshall",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather in Napa for March 2nd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I would like to check the weather in Alamo for next Wednesday.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I would like to know what the weather in Vancouver, BC is like today.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What will the weather be in Novato on the 9th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me the weather in NYC for Wednesday next week?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather going to be like this Saturday in Chi-town?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I will be meeting a friend in Seattle on March 10th, please check the weather for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Hi, could you help me check the weather in Phoenix on 11th of this month please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I'm going on a trip to Washington on 1st of March. Can you check what the weather is that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to know how the weather will be in Philadelphia for March 12th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Check for me please the weather in Nairobi on March 14th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What weather will be in San Lorenzo on March 8th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Tell me what the weather is going to be in San Lorenzo on March 6th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Please tell me the weather in Hayward on the 9th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Please tell me what the weather will be on this Saturday in San Fran.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you please check the weather for me on this Sunday in Bay Point?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What will the weather be like in Kuala Lumpur on March 3rd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the weather in Menlo Park on March 9th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I need to check the Vancouver weather on the 5th of March please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Tell me what the weather will be in Fairfield on the March 8th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Yes, I'd like to know the weather forecast for New York on the 12th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I would like to check out the weather in Toronto, Ontario on March 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Hey, can you check for me how's the weather gonna be in Washington D.C. on Thursday next week?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to check the weather in Nairobi on the 2nd of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Tell me the weather in Pittsburg on the 10th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to check weather on March 13th in Portland",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I'd like to check the New York weather for the 11th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I want to check the weather in Novato on 4th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What's the weather forecast for Livermore on March 12th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Could you find out what the weataher will be like in Atherton on March 2nd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What will the weather in Anaheim, CA be on the 1st of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "What is the weather suppose to be on the 8th of this month in San Diego?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you check the weather in Portland on March 11th for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you tell me what the weather is suppose to be like on Wednesday next week in Hercules?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Check the weather for Nairobi, Kenya for next Thursday.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Please tell me the weather forecast for March 5th, in Vancouver.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I like to know the weather on next Tuesday in woodside.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "I like to visit the place Philly on March 1st. I need to check about the weather condition there on that day. Can you help me to check it?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city_INFORM_date",
+    "utterance": "Can you help me look up the weather for San Diego on March 13th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I need some quiet, outdoor harmony to balance out a wild day of back-to-back meetings. What kind of weather do you show for March 10th 2019, please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please check the weather on March 13th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I must verify the weather on March 5th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you tell me what kind of weather I can expect there on the 1st?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "How will the weather be on March 12th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "How's the weather there on March 5th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I need the weather for the Tuesday next week please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I like to check the weather on march 5th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather looking like for March 2nd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please check weather for March 2nd.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather supposed to be like on March 5th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather on March 10th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "How about the weather there on March 10th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Will you please tell me what the weather is like there on the 9th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "The forecast on the March 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to know what the weather will be like on Tuesday next week.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please tell me How is the weather there on the 12th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What would the weather be like on March 6th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Tell me the weather for March 6th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "On the the 10th I need the weather forecast.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I would like to check the weather on 8th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather like on the 12th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to check about the weather condition on 13th of March and I need your help to do the same.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather forecast for the March 11th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather forecast March 1st?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Check the weather on March 2nd",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Hello, Please can you check the weather forecast for 7th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the climate like at there during the 12th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you check the weather forecats for the March 10th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather on Friday next week.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to check the weather condition on the a particular date that is March 9th for which I need your help.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to plan something outdoors, so I want to check the weather for March 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to find out what the weather will be like on March 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Yes, I wanted to know the weather for March 9th there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather like on March 8th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "you can check the weather for the 6th of this month",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "How's the weather gonna be there on the 13th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you tell me the weather forecast for the 1st?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I would like you to check the weather for March 5th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather there on 14th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Could you check the weather forecast for 5th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather going to be there on the 1st of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please check the weather on 11th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What the weather there on the 10th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I must verify the weather on the 11th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please tell me the weather forecast for March 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I need to check the next Wednesday weather please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Do you know the weather on March 9th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you check the weather for me for March 5th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather forecast for the March 3rd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I need to find out what the weather will be on the day after tomorrow.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to know the weather for march 2nd.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Hello! Please can you tell me how the weather will be for tomorrow?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather like there? I need to know for March 2nd.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to check for the weather condition on the 7th. Can you help me to check the same?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Check the weather on March 13th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you please check the weather for me for the 8th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I have to verify the weather on the 7th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather forecast to be like on the 9th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please tell me the weather forecast for March 8th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather going to be like on March 14th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to check on the weather for the 13th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "How's the weather there on March 4th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Is the weather there on the 11th good ?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Could you tell me what the weather is going to be like there, on the 1st?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "May I know the weather condition on March 13th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please check the weather on March 7th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you please check the weather for 13th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "check weather march 7th",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What would the weather be like on the 12th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you tell me the weather forecast for March 5th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "March 10th how is weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you tell me what the weather conditions are on the 14th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Can you check the weather on March 1st?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Give me the weather update for the 1st of March 2019 please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What does the weather on March 14th look like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I'd like to check the weather for March 5th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please check the weather on 10th of this month",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Tell me what the weather will be on March 6th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Tell me on date March 5th how will be the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather going to be on the 5th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather next Friday?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Please help me check the weather on March 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What will the weather be like on March 2nd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Tell me how the weather will be in Atlanta on the 6th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "Wonderful. Now, what about the weather on Friday next week when I'll be going to a meeting.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What will the weather be like in Sunnyvale on Tuesday next week ?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What is the weather going to be like on the 1st of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What will the weather be like over there on March 1st.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "How is the climate there on 2nd of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to find out what the weather will be on the 12th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What will the weather be like on the March 4th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I have to check the weather on next Wednesday.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather like on the 11th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to check in on the 10th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather going to be like on the March 2nd",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to check the weather condition on 9th of this month for which I need your help.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "what is the weather on March 13th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "I want to check the weather condition on March 8th for which I need our help.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_date",
+    "utterance": "What's the weather like on March 10th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy is it?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy it is?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And what about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Sounds like pretty decent weather. Will it be windy that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What will the wind be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy would it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Would there be strong winds?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about wind conditions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What is the wind like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Very good! Will it be a windy day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And how windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about Wind speed? Is that normal?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What is the status of wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy do you expect it to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "how windy is it over there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will there be wind to muss my hair?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Okay, how windy is it supposed to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Is there anything about the wind there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "how windy is it",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And the Wind condition will be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What is the average wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How harsh will the breezes be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy is it going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Then also check about wind speed.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How is the wind weather there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And how windy is it going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy at all on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What is the wind factor expected to be.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What is the wind situation like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Okay, and what's the wind going to be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What's the wind supposed to be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy going to be on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy is it likely to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Okay then, what is the Wind speed?.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Is it going to be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How about wind conditions, how windy is it going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about the wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And how windy is it?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What will the wind speeds be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Nice, and what about the wind factor?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Is it supposed to be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about the Wind Speed on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy is it likely to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy is it likely to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And the wind conditions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Is it going to be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What will the wind be like on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy is it gonna be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What abut the Wind speed? Is that high or normal?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And the wind conditions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will there be a lot of wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Is it going to be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Is it going to be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And how windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy is it?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What about the wind, how windy is expected to be there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And what about wind speed?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "And how about the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Does it say anything about the wind speeds?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy do you know?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How about the wind",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What is the level of wind going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "Will it be windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How about windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will the day be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "How windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_wind",
+    "utterance": "What is the wind speed going to be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And how humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid is it?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity level expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Humidity how will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "what is the expected humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How muggy is it expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the humidity, what will that be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What will the humidity level be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What will the humidity be like.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the expected humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Do you think it is humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And how humid is it expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the Humidity level in that area on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Is it going to be very humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity going to be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "how humid then?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What's the humidity like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "how humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And what will be the Humidity level in the mentioned area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Is it going to be humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And how about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid is it expected to be",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the humidity, whats that going to be like on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity level?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Is it going to be very humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Can you tell me, how humid is it going to be there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Humidity how will be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Can you tell me the humidity level that is expected there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Is the humidity high?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Tell me how humid is it expected to be.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Now tell me more about humidity",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And the humidity how will be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Do you know what the humidity level will be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid would it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "So far so good. How humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What will the humidity be like on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And what will humidity be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity index?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Is it going to be humid.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid is it supposed to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Sure, and how humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid is it gonna be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What's the humdity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How will the humidity be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How about the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And the humidity percentage?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How will the humidity be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about the Humidity there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "how humid though?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How much humidity will be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What's the humidity there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And, how humid will it be there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What about humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity level going to be that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity expected to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What is the humidity going to be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be a very wet day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How much humidity is expected?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "And the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Will it be very humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "Can you tell me what the humidity will be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "How humid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What will the humidity level be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_humidity",
+    "utterance": "What will be the humidity?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Check the weather in Olema, California for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I'd like to check the weather in Sunol.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather in Alameda.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I was wondering what the weather is like in Phoenix.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather in Saratoga?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather in Ciudad de Mexico?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I'm visiting Martinez soon and would like the check the weather there please",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Thank you. Can you also tell me what the weather is like in Daly City?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "what's the weather in las vegas right now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to do weather check at San Anselmo",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you tell me the weather in Yountville?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's it like outside? In Anaheim, CA.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to check weather in Sacramento",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather like in LA?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Check the weather in London, England.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Please tell me the weather in Portland, OR.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the climate like in Toronto, Ontario?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hello! Can you tell me what the weather forecast is for Portland, OR today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you get me the weather for San Jose?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you tell me what the weather is in New York City?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you help me check the weather in DC as I will be travelling there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to check the weather condition in particular area like San Rafael. Can you check it for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather like in Fresno?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Phoenix forecast.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I need to find out the weather in Napa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Please check the weather in Discovery Bay",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hi, could you help me check the weather in phoenix, AZ please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "tell weather in castro valley",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather like in Marshall?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you tell me what the weather is like in Napa?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I would like weather information in Sydney",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather in East Palo Alto?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I need to see the weather in Windsor",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I need to check what the weather's like in Anaheim, Ca.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to know how the weather will be in Nairobi.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to do weather check in San Mateo.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to know how the weather is in Portland, OR.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I'd like to see the weather condition at LAX",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather like in Nairobi, Kenya?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I'll be spending the day in Cupertino. Can you check what the weather is like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hello. What's the weather like in Atlanta, GA?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Please help me to check the weather condition in KL.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather like in LA?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hi, I'd like to know the weather in Chi-town.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Check the weather in Albany.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Im looking for weather in Rutherford",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I need to check the weather in Portland, OR.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather like in New York City today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Tell me what the weather's like in Long Beach, CA.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hi I'm having guests over to BBQ. Can you check the weather in Discovery Bay?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to check the weather in Lagunitas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I need to check the weather in Anaheim, CA.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather like in Moraga?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Thanks for that and I also want to check about the weather condition in Antioch.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hi, could you help me check the weather in Foster City please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you check weather in Seattle, WA?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather status in Redwood city?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you check the weather forecast in Phoenix for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I will be travelling to San Diego. What is the weather like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I'm going to be at St. Helena soon. How's the weather there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather like in Brentwood?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather like in Portland?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I wanna see the weather in Olema, California please",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What will the weather be like in Atlanta, GA?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I would like to check the weather in SD.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "How is the weather in Washington?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I'd like to check the weather report in Rutherford.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "How's the weather in Danville?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you tell me what the weather is like in Nairobi, Kenya.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Please check the weather in LA for me",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I have to do weather check in Moraga.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want you to check the Phoenix weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to know what the weather is like in Phoenix.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "My trip is coming up soon. Can you check the weather for me in Portland, OR?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I like to know the weather condition in Oakland.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather like in Phoenix, AZ?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather in Vallejo?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather like in Bodega Bay.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What will the weather in San Diego be like.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I'm going to be seeing a friend in Inverness. Can you see what the weather's like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather in Napa?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hi there, could you help me check the weather in LAX?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you tell me how's the weather in Emeryville?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Would you mind checking the LA weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Tell me please how will be the weather in Stanford.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Please check the weather in Sydney, Australia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What is the weather in London, England?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Find out what the weather is like in Toronto, Ontario.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Could you tell me the weather in Paris please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I need to check the weather in Toronto, Ontario",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Tell me the weather in NYC please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Can you tell me how the weather is in Petaluma?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's it like outside in LA?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to check about the weather condition in NY. Can you do it for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Please inform me about the weather in Portland, OR.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Could you check the weather forecast for me in Washington DC.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "I want to know the weather in Phoenix, AZ.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "What's the weather like in London?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hi, I need to see what the weather is like in Mountain View.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather_INFORM_city",
+    "utterance": "Hey, check the weather in San Francisco for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need a weather check",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I'd also like to know what the weather is right now.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you show me the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I like to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check how there weather is there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What is the weather there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like information on the weather",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need weather info now, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What is the weather like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I'd like to know the weather forecast please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Tell me what the weather is like",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Thank you. I want to know about the Weather condition.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I wish to find the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to know what the weather is like.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to make some last minute plans for my trip. Can you check the weather real quick?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "what is the weather",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like the weather report.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What weather forecast do you show there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want to know what the weather would be like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you find me the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Please check the weather for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What's the weather like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Could you tell me the weather conditions please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Could you please inform me about the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can I get the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Please check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Please check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What's the weather forecast?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want news on the weather",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Whats the weather like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I wanna see what the weather is gonna be like.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you help me check the weather please",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to finish making plans for my upcoming trip. Can you check the weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want to check the weather please",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Please tell me the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Get me a detailed weather report please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want to check about weather condition in a particular area for which I need your help to check the exact level.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you help me check the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to know the weather, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Please update me on the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want to know the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Yes. What is the weather there/",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check the weather there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like some information about the weather",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What's the weather like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you help me check the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Yes, what's the weather there please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Tell me the weather there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I'd like to check the weather",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Check the weather for me please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Hello! Please can you check the weather forecast?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check how the weather is there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Please check the weather forecast for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Hey! Please can you tell me what's the present weather condition?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check the weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want to check the weather condition in particular area. Do you help me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check the weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you help me check the weather please",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "How is the weather like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you also check the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Could you check the weather forecast for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I wonder if its a good day to go outside. What is the weather like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Whats the current weather at the moment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I need to know what the weather is like.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you tell me the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Check about the Weather condition there for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Hi, can you check the weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Tell me the weather there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you tell me what the weather is like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Thanks. Could you tell me what the weather is?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check the weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Tell me about the weather in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Please check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What is the weather like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Give me a weather report.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I'd like to check the weather please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I am going to be outside. Let me know the weather forecast please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I want to find out what the weather is.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you tell me the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I still haven't figured out what to do for my date coming up. Can you check the weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like to know how the weather will be.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I wonder if it's gonna rain. Can you check the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Tell me what the weather is.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Check the weather there",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I would like to know about the weather",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you check the weather for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you please check the weather?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "What is the weather like?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "Can you tell me what the weather will be like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_GetWeather",
+    "utterance": "I'd like to check the weather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "can you tell me today's date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "Is this for todays date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "what is the date today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What day is today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What date is it?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What day is today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What date is that for?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "what day is it today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What date is that fore?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What date are we talking about?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What is the date today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "Can you tell me what the date of today is?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "Can you tell me what date this is?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What is today's date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date",
+    "utterance": "What is the date today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "I see, what is the date today and how windy will it be there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "How windy will it be? What's today's date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "How windy will it be? And what date is today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "How windy? Today's date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "What will the winds be there? What is the actual date today?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "What day is it? What's the wind like there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "Is it supposed to be windy? Also, can you tell me today's date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "is it windy and what date is it",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "how windy is it expected to be? what is the today date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "Can i know today's date? Is there a windy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "Will it be windy? What's today's date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "Can you tell me today's date? And how's the wind?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "What's today's date? And how windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "What is the date today and how windy will it be?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "What ahout the wind conditions? And can you verify which date we're talking about?",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  },
+  {
+    "intent": "REQUEST_date_REQUEST_wind",
+    "utterance": "Date today please and wind condition.",
+    "origin": "DSTC8-SGD",
+    "domain": "Weather"
+  }
+]

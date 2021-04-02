@@ -1,0 +1,74 @@
+[
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "no, at least not now. Now we have to reserve that hotel room before it's gone",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "Not at the moment. I'd like to book the hotel room.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "No, not right now. Reserve that hotel room for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "No, I don't need tickets right now. Let's get back to that hotel room.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "No, not right now. Let's finish with that hotel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "Not right now. Can you please reserve the hotel room?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "No, not now. Can you get back to reserving the rooms in the hotel?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "Not at the moment, first, I need the hotel room we were discussing about a moment ago",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "No, i do not want purchase now. I like to get back to booking my hotel room.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "No, could you help me make a reservation for the hotel room instead?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "No. It can be later. Please get back to hotel reservation.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveHotel_NEGATE_INTENT",
+    "utterance": "Not right now. I want to reserve the hotel room.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Hotels"
+  }
+]

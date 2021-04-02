@@ -1,0 +1,602 @@
+[
+  {
+    "intent": "recipe",
+    "utterance": "find the most popular recipie for tacos",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what temperature should a baked chicken be",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how to cook spaghetti",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "good food",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how do i make meatloaf",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "find the highest rated recipe from foodnetworkcom for a four cheese omelette",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how long do i boil a hard boiled egg",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what should i make for dinner",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how long should you cook a whole chicken in a three hundred and seventy five degree oven",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "find apple pie recipe",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "look up recipes for four cheese omelette",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "find a recipe for dinner tonight",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "i want to cook pasta in american style show me how",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "find easy recipe for almond milk",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how many cups are in a quart",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "select the type of meal whether a break fast lunch dinner",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "show me all the french bistros near me",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "show me what the ingredients are",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how to cook yellow rice",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "show me recipes",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "evaporated",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "i need a recipe for spaghetti",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how do i braise a pork loin",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "can you tell me the recipe to cook pav bhaji",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how do you cook black eye pea",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "look for different recipes",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "show chicken tikka recipe",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "search for the best spagetti recipe",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "give me a cooking tutorial",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "get recipe for apple pie",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what are examples of spicy cuisines",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how do i make cookies",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how long do i chill an icebo <unk> pie",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "show the method to prepare icecream",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "recipe for spaghetti",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "get me a recipe for cookies",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how to make fried rice",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how many vegetables should i eat a day",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "i need help making pancakes",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "recipes that can be cooked in an hour",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "can we make steak with chicken",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "recipe for 'meal",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "use google to show me how to cook",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "can you substitute baking soda for baking powder",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "tell me the best recipes for a given dish",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how do you road lamb",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how to cook crabmeat",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what's the best way to sharpen a butcher knife",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "crabmeat recipe",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how long should i boil an egg",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what is a good vegan egg substitute",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "where can i find kids free deals on saturdays",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "it should spices",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "i would like it to be able to find recipes i have",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "weird things people want to know",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what is the proper cooking time for boiled eggs",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "can you give me a recipe for homemade chicken noodle soup",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how do i start making lobster bisque",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "i need recipe for yellow rice",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "let me know the recipe for preparing pasta",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "its would be tastey",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what is the best recipe for a margarita",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "mi <unk> well",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what does rice wine go with",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what's the recipe for fried chicken",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "look up meal recipe",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how can i debone a tilapia",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "baking times for chicken in the oven",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "download cooking app",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how is pav bhaji cooked",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "can you pull up a recipe for spaghetti",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "instructions to make a meal",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "i need some ideas for dinner that are mexican",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how to cook this food",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how much is one serving of broccoli",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "explain in brief about fish fry",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how much time do i have to boil an egg",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "cook me some oats",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "can you eat sweet potato greens raw",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "give me the recipe of steak",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how long should i cook a steak to be medium",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "where can i find that recipe for magic cookie bars",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how can a cook risotto",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how long does it take to make meatloaf",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "could you please display the videos for cooking italian food",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what are the ingredients neccesary",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how do you use an oven",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "how long do you cook an egg over easy",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "find me the recipe for beef stroganoff",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "please find the recipe for meatballs",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "look for a pizza recipe",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what ingrediants do i need to make lobster bisque",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "tell me how to make a poor boy sandwich",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "easy meals",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "access recipe book please",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what dairy product contains several nutrients",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "look up recipe and guide for this dish",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "what type of cheese do i need for my enchiladas",
+    "origin": "HWU64",
+    "domain": "cooking"
+  },
+  {
+    "intent": "recipe",
+    "utterance": "locate a recipe for thai fried rice",
+    "origin": "HWU64",
+    "domain": "cooking"
+  }
+]

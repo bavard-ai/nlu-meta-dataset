@@ -1,0 +1,1802 @@
+[
+  {
+    "intent": "events",
+    "utterance": "is there any events are in the local area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "tell me interesting events around",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there any local events being put on tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "any events happening nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "please ute me with the list of events happening in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there any fun events in la today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "is there any type of festival going on in town this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what do they have going on at young circle this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what kind of free activities can i do locally this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "events in <unk> city <unk>",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "i need something fun to do this weekend nearby can you give me ideas",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what events are happening in los angeles",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what can i do tonight in the city",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "fun stuff to do near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what events are happening in pondichery this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what's going on around the neighborhood",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what are the local events",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "events upcoming",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what can i do in charlotte",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "find events in local area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what's happening tonight in chicago",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what events are going on in the area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "to which event can i go in milan now",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "anything unique to do in the city today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "tell me about things to do in london",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "please show me a list of entertainment options in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is going on around here",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "please search for events near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "searching on holidays in my location",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "i want out tonight what's on",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what events are scheduled for this weekend in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "which event should i attend in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "any events this weekend in pondichery",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is open late in la",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is happening near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "it complements the information in drive safe a handbook for western australian road users by providing a practical guide to the driving skills experience good driving habits and attitudes that learner drivers need to develop",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "where should i go this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there any cultural activities happening in newyork",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is happening in town tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "is there a sporting event tomorrow in chicago",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "which event going to happen in local area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what events are happening this weekend in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there any events going on in milan",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what's happening around town",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what happens on the fourth of july",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what event going to held in harischand maidan",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "when is the next blues concert in liverpool",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is happening in the area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "is there anything happening in town this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "is there anything to do tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "recommend a blue grass band event within twenty miles of mancheser ma this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "tell me about the events going on around my location",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "whats going on in la",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is there to do in nyc",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "tell me what's going on in my city",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "list upcoming events in newyork",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "any activity in the area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there any events going on nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what exhibits or shows are scheduled at the metropolitan theater",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what events are coming up",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "events near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "where are",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what's the next event at the library",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "list events around ny",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "running competitions on the west side",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is happening [date : tomorrow]",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "please show me best run program in jodhpur",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "hockey",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "show me painting exhibition in bay area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "show upcoming local events",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is happening in delhi today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "searching for recent happenings on the particular dates",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "let me see cultural events for this weekend in palermo neighborhood",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "show current events around me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "when does panama city mall open",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "west side races",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what are the concerts happening nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "list any interesting events i like in the next two days",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what's going on around here this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "local events",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "refer top reviewed live band show near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "any local activities you can recommend in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "find the events",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "can you tell me if any events are planned in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is going on in la today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "events today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "tell me about activities in my area this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what's interesting around here",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is going on in milwaukee",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "events in the local are",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there dog shows going on near new york city",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "what is happening around here",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "is the farmers market open this weekend in iowa",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "any specific event in washington",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there any events coming up",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "please show me marathon nearby me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "are there any events going on close by",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "will there be a farmers market in the area this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "this weekend what events are going on in seattle",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "events",
+    "utterance": "do they have any events going on downtown this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "show me all the shops that i can find in milan",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "which is the nearest restaurants available",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "give me some cafes near downtown fort lauderdale",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "any good bike shops in oxford",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what is the best hardware store near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "coule you please tell me which is the good bar with food",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find tacos near my home",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "provide me with the list of great restaurants in a",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find the exact location of the places",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "can you recommend good stores in this area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what is the nearest vegan restaurant",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what shops are around me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "recommend a restaurant with medium expense",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "near by super market",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where to buy cannon cameras",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "can you tell me about expensive sushi restaurants in west philadelphia",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "are there any electronics shops around white chapel in london",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "i'm looking for a casual restaurant for a dinner date",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "i want to know the best super market in this local area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what are some restaurants near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is the best mechanic in eagle point",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what is the nearest pizza shop",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where a good restaurant",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what pubs are close",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "recommend me a restaurant in west chester",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is the closest sweet frog",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "can i find a shop that sells italian suits",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what are the vietnamese restaurants in the area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "best bar in local area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find me a bar in cleveland open until two am",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "whats the local taxi company around here",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "can you find a nice restaurant downtown",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "hey siri list the local shops for me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find a grocery store in town that carries creamed pickled herring",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where can i go shopping here",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "show me where the nearest restaurant is",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is the closest bar",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "tell me where the local shopping district is",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where should i go for mexican food in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "make a reservation for two at olive garden",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find me the smallest coffee shop in new orleans",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "who sells the cheapest netbooks in south austin",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "best restaurant in local area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "is there a well rated pizza place between fourteenth and eighteenth streets",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what shops are round here",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "search for nearby chinese restaurants",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "i'm looking for some dress shows can you find clothing stores within one mile",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "are there any shopping centers nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "please recommend a restaurant in seattle",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "show me what shops are around me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "i want to find some chinese food what is near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "list shops in second street",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "nearest restaurants available at this time",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what train companies are near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "show me reviews of my nearest location food court",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is a petrol station in five mile radius",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "which is the best place to visit in this month",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "help me locate a shop that sells clothes for classy ladies",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "recommend some local shops to me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "ask a shopping malls in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find grocery store with an organic section near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find a shop that sells beer",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "tell me a nice chinese restuarant",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what is the best sports bar with vegetarian options in la",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "have any suggestions for local italian food",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "show me some vegan restaurants close by",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is the closer starbucks",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "how much",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where can i get a good burger within five miles",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find shoe shopping near my home",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "please find the most popular store in the area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "whats around",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "can you tell me a good place to eat",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "wheres the closest sainsbury's",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "i need to find a gift what stores are within a one mile radius",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "i need to know where to get chicken wings in benton ar",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what chinese restaurants are in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where can i shop as a local tourist",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "is there any grocery nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find me the cheapest place to buy a new backpack",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find restaurants within one miles",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is the closest kroger",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where are italian restaurants in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is a good place to buy clothes in medford",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "please tell me where i can get a drink nearby after midnight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what restaurants are open near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "please list the best clothing shops near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "can you recommend a cheap restaurant in this area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "list all the nearby shops",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "what bars are around me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "please tell me the closest convenience store to my house",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "ask a pub in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "i wish to go for cheap shopping is there any dollars shop nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "list all the shops that are located in milan",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "where is a good place to eat in seattle",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "when does olive garden close today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "are there any grocery stores nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "find gluten free bakery near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "locations",
+    "utterance": "locate nearby dining places",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "learning games",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "are there any good movies running in nearby theaters",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what's a movie in theaters that doesn't suck",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are playing tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what are the current movies playing in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "whats a new sci fi movie",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are showing in cinema today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "suggest a good genre movie that came out recently",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "tell me the movie with best imdb ratings going on in theatres near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what highly rated movies are playing this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "latest movie releases",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are being shown at the regal cinema",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what are the new movies releasing",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "movies with good rotten tomato ratings",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "tell me movies playing in oceanside tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "should i watch this movie",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "recommend a romantic comedy in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what do you suggest that i watch this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movie should i watch today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what are movies that are playing near me with high reviews",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "ocean eleven",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movie do you recommend tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movie should i see",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "name a rom com movie playing in and around new york theatres",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movie are playing near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what are new drama movies opening this weekend",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "show me movie times",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "give me a movie for tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "check for all the movie theater prices and availability for a newly released movie in my loicatoion",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what's a good movie that's out right now",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "is swat a good movie",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what should i watch today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "confirm a movie ticket at glory theater",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "please check on the movies playing in theaters nearby",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "show me best in class theatre",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what's playing in the roosendaal cinema",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "show timings",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are out this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "recommend a movie for me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "tickets",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are playing at theatres near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "when is times times times playing",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what is a good movie to see right now",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "security awareness",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are playing tonight at nine pm at the amc nine",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "show me theatre where pirates of caribbean is playing",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are playing right now",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "how is the new movie swat",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are playing at carmike cinemas",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "please recommend a movie",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "i need a good chick flick any thoughts",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what's playing at brea plaza five",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what are good movies playing now",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "two thousand and seventeen movies",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "kung fu panda three",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "which rom com movie can i watch in theatres around new york",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what new movies are good",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are playing this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what new movies are played in cinemas this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "show me nearest theatre",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what film should i watch",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "recommend a movie with justin bieber",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "top ten movies",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "find an oscar nominee movie",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "training day",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "recommend a movie which is released last friday",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "any good movies",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what are the showtimes of logan",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what time does times times times start",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "theaters near to me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "play a movie i'll like",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what is a movie like star wars",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "deadpool",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what is the biggest blockbuster this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "movie times tonight",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "do you recommend any movies that are currently playing in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are going around me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "cisco system",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "movies with good rivews",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "inform me about the most popular rom com movie playing now in theatres across new york",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "can you suggest a good drama for me to watch",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what new movies available today",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what is the highest rated movie this week",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what is a good iranian film from two thousand and sixteen",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "is logan a good movie to watch",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what are the showtimes for logan at the nearby theatre",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "recommend a movie playing in my area",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movie should i go see",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what time will a movie be shown tomorrow",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "do you have any suggestion action movies",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "look up movies near me",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movie theatres are in stephenville",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "local theater screening which movie",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "logan",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "can you tell me what movie has the best reviews",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what movies are playing in columbia",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what is the best movie to watch with a glass of wine",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "what is the highest rated movie now out",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  },
+  {
+    "intent": "movies",
+    "utterance": "can you tell me which movie is going on in the nearby multiple <unk>",
+    "origin": "HWU64",
+    "domain": "recommendation"
+  }
+]

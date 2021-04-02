@@ -1,0 +1,602 @@
+[
+  {
+    "intent": "post",
+    "utterance": "i want to send a tweet to united airlines i'm angry you lost my bags",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet a customer complaint to the subway website",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "get it fast resolved",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet error log to samsung",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "post the following status to facebook",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet at company",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet to papa johns about getting a cold pizza",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "post on my fb account that i got engaged",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "complain for me to@nsa",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "open twitter compose new tweet directv has horrible customer service",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "log a complaint to lg ac to customer service",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "post new status on facebook time to celebrate",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet at quote unquote",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "could please tweet that the kinley water bottle was charged for more than maximum retail price at the movies",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet at macy's two weeks after purchase and the hems have all come loose",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet for me the compalint about excess water evacuation",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "facebook status busy day",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet a complaint to apple that their battery life is terrible",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "contact customer service via twitter",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "my sister just had her baby",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet consumer service that i am very disappointed with my recent interaction",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tell them that their lines were too long",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "share in friends post",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "please send a complaint about my horrible experience with a company",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a tweet to national grid",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "please post a status on twitter say",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet to ol <unk> costumer service the next i didn't receive my order number one thousand one hundred and seventy six",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet a complaint about potholes on road",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "complaint to consumer service tweeter",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "facebook status loving that sunrise",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tell comment",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "message @bobburgers they screwed up my order and i had to wait an extra hour",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "post a tweet as follows very bad follow up by abc company not satisfied in my account",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send from twitter",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "can you send a tweet to lif <unk> saying that their app crashed",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "i want to see the twitter handler of samsung",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "please post to jeff",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "i want to make a post",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "open twitter type my complaint and post to @consumer service",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "will you please post this to my facebook 'i love you",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet walmart and tell them their customer service is horribe",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "please fill out a complaint form for me",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet to the customer service account of",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet this tweet <unk> and at this company",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "put picture on facebook",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "log a complaint about smart tv to sony customer service",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "write a tweet to this company",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet lfi <unk> and let them know my app crashed",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "can you upload my latest selfie in my facebook account",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet to the bbb that burger king is too expensive",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "set a consumer service complain",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "i want to ute my status on times times times times",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "i want to post a status on twitter",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet macy's a complaint about their sales clerk",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a tweet about sonys volume issues",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "get in touch with <unk>",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet a complaint to local municipality",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "say this product fell apart",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "open gallery post video name",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "write a message to payoneer and tell them that my card isn't working",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet at esurance 'you suck",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "hello can you give the contact details for a particular service centre",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tell my facebook group that i've arrived",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send this message to @microsoft on twitter",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "can you ute my facebook profile picture to the image i took from google office yesterday",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "please open my twitter app and find complaint section for olive garden",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet freedom pop customer service i am disatisfied",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a tweet to kroger about being overcharged for groceries",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "post that i am going to woodland shoe store",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet a complaint to comcast",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "heading to gymplease post to facebook",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet complaint to dominoes",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a complaint to <unk>",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a tweet to samsung saying my washer is not working",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "please post this picture on facebook",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "let's tweet a complaint",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "ask amazoncom customer service when i can expect my refund using twitter",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "write a tweet to burger king expressing my disapproval",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet complain @comcast",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet for me the complaint about disease prevention",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "name ask @nsa why they are spying on me and post it on twitter",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "write a small text on facebook",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "forward a complaint to mts regarding internet speed issues",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet a complaint to old navy website",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "write a tweet telling macy's that they should be shutting down instead of jcpenney",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "log a complaint wash machine to samsung consumer service with model number",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "please make a tweet to dell company about the faulty service of laptop",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet my current location",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "write tweet to bank of america",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet about cold pizza to papa johns",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "contact walmart customer service with a complaint via tweet",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a tweet to company",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a tweet to apple that their batteries drain too fast",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "send a post in instagram",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet error report to samsung",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet about what can be done for it",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "can you upload my latest selfie in my instagram",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet kohls about the cleanliness of their store",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "tweet complaint to <unk>",
+    "origin": "HWU64",
+    "domain": "social"
+  },
+  {
+    "intent": "post",
+    "utterance": "open company name find feedback",
+    "origin": "HWU64",
+    "domain": "social"
+  }
+]

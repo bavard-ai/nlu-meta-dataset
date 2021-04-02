@@ -1,0 +1,68 @@
+[
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "Sounds good... Please can you help me to find a unisex salon in Oakland?",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "Yes, It's fine! I need also a unisex saloon in Alameda",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "Nice. That sounds like a good choice. I'm thinking about it. Now, also in Napa, would you suggest a unisex salon I can go to?",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "Yes. Will you find a unisex salon in San Fran?",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "Yes, that sounds good. Can you help me find a unisex salon in SFO?",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "I am fine with that. Could you also help me search for a unisex salon in Fairfield?",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "Works for me. Would you look for a salon there too? A unisex salon in San Fran would be good.",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "Yeah, that will do. I will also need you to pull up a unisex salon in Gilroy for me please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "That is great. Find me a unisex salon in SF.",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "ok , its suits for me. find me a good salon over there? i need a unisex salon and should be in san carlos.",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_FindProvider_INFORM_city_INFORM_is_unisex_SELECT",
+    "utterance": "I accept and also need a unisex salon in Santa Rosa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Restaurants_Services"
+  }
+]

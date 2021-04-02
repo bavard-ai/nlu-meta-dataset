@@ -1,0 +1,170 @@
+[
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "This one seems nice, though I want to know also about trains that go there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Sounds good. I would like to also look up trains going there as well.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Yes, this is okay to me. Thanks. Now please search for a train to go there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "okay that works. can you find trains that go there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That sounds fine, but let me check out the trains there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "I would like to find a train to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Cool and i need to search for train to reach there",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Great. Can you find me a train to go there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "OK, let's look for a train instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "I prefer this flight. Please search for a train.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "ok that sounds good. i need to find trains going over there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Sounds great. What trains are heading there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That sounds great. I want to find a train there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That is fine. I'll keep it in mind but I want to check out the options for trains as well.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Sounds okay but can you check a train instead?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That would work, but can you find me some trains going to the same place?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Sure, could you get me a train ride there instead?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Great. Can you help me find trains going there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That will be great. I'll need a train to get to the airport.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Okay, I need trains.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "I see, could you find trains heading there too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That will be fine. Are there trains going over there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "that sounds good, can you also find me a train ticket to get there",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "thats great, get me trains going there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That works for me. I'd like to compare train rates.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "That sounds lovely. I'd like to look for locomotives leaving there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Sounds great, but could you help me find train rides travelling there too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_SELECT",
+    "utterance": "Yeah, it is okay to me. I also want to search for a train and I need your help.",
+    "origin": "DSTC8-SGD",
+    "domain": "Flights_Trains"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "I appreciate it. Now I would like for you to help me find a train.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thank you so much. I wish to search a train now.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Cool, can you find me a train now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thank you! Can you help me find a train?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thank you very much! Would you find a train for me now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Great. Thanks. Now can you book a train trip for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thanks. Now I need train tickets.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thanks for that, now can you find me a train.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thanks a bunch. I need you to book me a train ticket.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Can you find me a train?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thank you! Can you also help me find a train?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thank you so much. Could you search a train now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "thank you, please find me a train now",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thank you so much..I want you to find me a train?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  },
+  {
+    "intent": "INFORM_INTENT_FindTrains_THANK_YOU",
+    "utterance": "Thank you so much! Now, Find me a train.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment_Trains"
+  }
+]

@@ -1,0 +1,3524 @@
+[
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Change phone number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Help me to change mobile number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "How to change mobile no",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Change mobile number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "My mobile no. change",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "How can I Change my mobile number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Cheng the Mobil no",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Help me with changing my mobile number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "my registered number is dead so I can't get into can I add my new number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Help me to edit my mobile number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "I want to change my number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "I want to change my mobile number as my contact number is permanently out of service",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Edit mobile number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "I am change my mobile no .",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_MOBILE_NUMBER",
+    "utterance": "Modify mobile number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "Fair play rules",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "fairplay issue",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "My account under fair play or not",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "Fairplay rules",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "fair play complaints",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "How to remove fairplay violation",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "How my play will be consider as fair",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "Violation rules",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "What is considered as FairPlay Violation on PowerPlay11?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "Fairplay Violation",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "Fairplay violation..what I do",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAIRPLAY_VIOLATIONS",
+    "utterance": "My account under fair play violation or not please tell me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "What are new offer this week for me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Money offers",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "What are the referral offers",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "What is the refer and earn program",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Refer and Earn Program",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Referral",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "What are active offers for me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Show me some offers and referrals program",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Do you have any referral offer for me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "How I can refer and Earn",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Any kind of first deposit bonus offer is there or not",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Referral offers",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "What are new offer this week for me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Offers and Referrals",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Show my referrals",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "What are offers and referral programs available",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "How do I Refer and earn",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Any offers to my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Any promotions available",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "I want to know about offers and referral programs",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Offers and referral program are active on the PowerPlay11",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Open offers",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Return on Referrals",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "My friend was asking for referral code do I will get referral bonus",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Show me new offers",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "What are active offers for me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Do you have any referral offer",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "OFFERS_AND_REFERRALS",
+    "utterance": "Back to offers",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Didn't get bonus yet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My wallet showing wrong balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My balance is wrong",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My Cash bonus not received to me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Why me add amount Amazon pay wallet but don't PowerPlay11 don't show wallet why",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "please help i add 125 but my wallet credited 25",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Now I add but cash not show in wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I sir deposited 26 and 12 but not showing on my wallet yet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Nope",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "No",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I can't recieve my cashbacks for T-10",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Talk to an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I ask a number of question to the bot but the query is not answered can you connect to Agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My diposit money less why",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My deposit is wrong",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My sign up bonus is incorrect",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Sir I want to talk to an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I can't see my transaction",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Couldn't",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Money not add basketbal abounded jui Vs bon yesterday match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I need agent for helo",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My referral amount is incorrect",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Chat With an Agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Why it is showing wrong balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My transaction is incorrect",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Need an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My bonus is wrong",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Connect with agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "chat with customer service agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "No, I couldn't find",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My deposit is incorrect",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Can I talk to you",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Sir, rs 200 deposit in PowerPlay11, but not show correct balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "chat with customer service representative",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My deposit is not there",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I could not join any contest from now.please help.",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Give me bonus",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I am facing issue connect to agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "When will come my invited amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My transaction is wrong",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Chat with agrnt",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My bonus is incorrect",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Talk with an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Did not receive my sign up amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I am talk with your agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "i added 125 rupees but utilised balance shown 25 only please help me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I can't see my deposit",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Bonus I have not received",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Hi today t10 league 5team selected but bonus 33 rupees not come",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Didn't receive money with my referrals",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I want to talk to executive",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I want to talk about something else",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I can't see my withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "For first deposit I didn\u2019t received the cash bonus",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My balance is incorrect",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I am still waiting for my deposit money to get reflected in my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Didn't",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I won 8 rupees but the account balance is showing 2 rupees.",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Did not receive my bonus",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "No you not give sign up bonus",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I join 5 team in Taipei t10 but bonus is not given yet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Connect an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I do not need chat agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Suddenly balance gone",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Connect to agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Just now i deposit 1222 amount ....but not shown in my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Please give me sign up bonus",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "My deposit is not visible",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Need to connect with an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "It seems the wallet still not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I want to talk an assistant",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I referred to one of my friend he got all necessary step done but then also it not showing in the referral",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "PowerPlay11 rummy issue",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Need to talk to an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Agent to chat",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Dear Sir I Deposit 200 Rs But Not Credit In My Wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Need to chat with an agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "Where gone my balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHAT_WITH_AN_AGENT",
+    "utterance": "I want to talk a agent",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "I don't get one contest amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Not add wining balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Yesterday football match winnings still not credited",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Winning amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Did not receive my amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Winning price",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Winnings",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "I want money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "When will I receiev my winning amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "My winning amount not added in my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Sir t10 league match is complete why too late the winnigs",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Send my winnings as early as possible",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Wallet added but why not wining ad money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Match finisher yesterday what not transfer my money this time",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "My money not recived",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "My winning has not reflected in the wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "200 rupuye amaunt no add my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "So where is amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Last balance was 11800.. had won one  contest 150 is showimg as winning but not credited yet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Winning amount cant add",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "My winning amount has not reflected in the wallet amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Not credited",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Next game starts at 7am but you didn't pay yesterday winner money.",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Today 10 league I am 5 teams joined match completed 33 not add amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Tomorrow match complete but not add the money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Winnings amount not credited",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "my winning no my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "When Are the Winnings Distributed on PowerPlay11",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "I've won first t10 contest today.. but still not get d winning money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Please distribution the winning amount.",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Please tranfer the winning money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Win money not receive",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "1000 rupees winning not add",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "I've not credited the winnings amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "it is not credited in my bank account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Sir in basketball can you return the money if can't update the scorecard we are waiting since tomorrow",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "My winnings",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Football winning",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Why is my amount not credited",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Please give my winning money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Winning amount sir",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Please distribute the money. \nI want to participate the next tournament. \nBut I don't get my winner\ud83c\udfc6\ud83c\udf89\ud83c\udfc6 amount.",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "I create team so my winning amount send",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Winning money not add in account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "I won 100rupees but yet that has not come in my winning amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Did not receive my winnings",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "When will I get the winning amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Sir if you don't distribute yesterday winning amount. Then how can participate next tournament\nWhich is about to start at 7 am today.",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "I have won contest but money not deposited in my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WINNINGS",
+    "utterance": "Sir i have a win a contest and money will be come",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Ok tnq..",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thankyou",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Ok thanx",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thanks for all",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thanxs",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thank",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Tysm",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thank you\ud83d\ude0a",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thanks a lot",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Sir,  thanks",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thanks",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Yes thanks",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "I appreciate , thanks",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "THANKS",
+    "utterance": "Thank you",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Hello sir help me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Not opend please help me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Plese help",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "I have other queries",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "What can you do for me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Help required",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Help needed",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Please help me\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Help mee",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "What you will help me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Sir help me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "What else can you help me with",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Can you help me with something else",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "I need some help",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "How can you help me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Help me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CAPABILITIES",
+    "utterance": "Other Queries",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Money in my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Pls check my account and wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Wallet Balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "My wallet reload amount 49rs",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Show my winnings",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "My wining Blanc e",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "I want to see my wallet balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "My wallet amount reload",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "How much amount are left in my wallet balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "My wallet reload",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "I went england, I want to check my balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Show my wallet balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Show my bonus",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Is there is money in my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Show my wallet balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Check my wallet balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "I was surfing with the PowerPlay11 website now I thought I should play it would you let me know my balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Show my balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_WALLET_BALANCE",
+    "utterance": "Money left in my wallet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Withdrawals",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Limit of withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Maximum withdrawal  amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "What is the minimum amount to withdraw",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "How to withdraw money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Minimum withdrawal limit",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "How to withdraw amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "What are the steps to withdraw money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Withdrawal limit",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Where is my withdraw",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "What is the steps to withdraw amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Minimum amount I can withdraw",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Maximum withdrawal limit",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "How withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Withdrawals limit par day",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "How much winning can I withdraw",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "What are the steps to withdraw amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_INTRO",
+    "utterance": "Withdrawal steps",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "In today march between FCC AND TDCC..PLAYERS A LIU is in my team and he is playing well but his points are not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Sir why you are giving this type match whose score updates not have you",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Yogesh rajput point not updated on latest match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Please complete football game result",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Point problem\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Points for Match name not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Why the resut this much delay..",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "A parappagoudar 1 wicket but not point updated please updated wicket point",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Match results still pending",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Result of football match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Y the football team cesar Julio points not updated he scored a goal and assist",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Player points not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Sir not update point  my 2 cricketer",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Yesterday I joined the contest in football, but the result was not announced yet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "D. Barshilia in taipei t10 live match gets a wicket , but his point not updated here",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "When are the scores updated on PowerPlay11",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Point was not update properly please check and update the live famr",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "My live match  point's no updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "why not points update",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Match name points not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Your point is not correct in cricket",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Please update match points",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Points are not getting updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "The current points tally between FCF and TDG is not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Sir point not updated tomorrow football match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "My points for basketball ball game is not been updated .. kindly sort the problem",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Points not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Shahzad Khan Muhamma 1 Wickets in current match Sir.  But Points not added.  Check it Sir",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Today match points not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Please update the current score on live baseball game between ul and fb",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Why you are not declared result yesterday football match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "A Khan taken a catch but point is still not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "In T10 match TDCC and Daredevils for player c hakyed has taken 2 wickets but no points added",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Points Delay",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "I played the match yesterday, but the results have not come yet?.",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "When will points get updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "When Are the Scores Updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Sir you are giving wrong points in cricket",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "T10 cricket match Charles Heyward Get 2 wickets But I will not get points",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "I did the football match yesterday but the result has not come yet sir",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "My point no updates live cricket match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Player point is not correct",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Points update",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Long time taking to football results",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "When will scores be updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Why yesterday football match slk v ebm pending results",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Update points fast",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "update women basketball match points",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "Player name points not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "POINTS_NOT_UPDATED",
+    "utterance": "I played the match yesterday, but the results have not come yet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Account balance deducted from my wallet after joining the contest",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Amount  balance deducted but when",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Account Balance Deducted",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "How is account balance deducted",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "When PowerPlay11 go for account balance deduction",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Balance automatically deducted from my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Want to know how my Account Balance can get Deducted",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "What is cycle of account balance deduction",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "My account balance got deducted",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Account balance deducted flow",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Account Balance Deducted",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "On joining a contest, the account balance from your wallet is deducted as per the below cycle \ud83d\udc47\nMy account balance is lost",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Account Balance deducted would you describe the reason",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Why amount deducted from my account for reason tapping please answer",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Amount is debited from my bank account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "My money got debited",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "my balance is deducted more than to entry please refund my balance",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "On joining a contest, the account balance from your wallet is deducted as per the below cycle \ud83d\udc47\n*Unutilized \u27a1 Cash Bonus \u27a1  Winnings*",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_BALANCE_DEDUCTED",
+    "utterance": "Why money is debited from my account?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "I didn't get my withdrawal amount yet",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "My withdrawal not received",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "How much time it takes to withdraw my amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "Min time to withdraw",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "When can I expect my withdrawal amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "Withdrawal approved but not received money",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "withdrawl not received",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "Withdrawal amount duration",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "My withdrawal Date confrom",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "I havent received the winning amount",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "Withdrawal amount not received",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "Please transfer winnings fast",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_TIME",
+    "utterance": "Withdrawal Time",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Why leagues get full in the last moment",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Froud app",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "This is froud app",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Office Own team",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Cheating",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "I think it is fake",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Fraud",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Why in last 2-3 minutes leagues get full",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "You have your own team in the leagues",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "You have your own teams in matches/leagues",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Fraud team",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Fake users",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Frod fake",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "You are a cheater",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Contest cheat",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Cheating app",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "You fraud",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "There is froud here",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Not genuine",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Fake players",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "FAKE_TEAMS",
+    "utterance": "Fake teams",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "When Instant withdrawal available",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Now instant withdrawal is working or not",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Fast withdrawal available",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Can I do instant Widhraw ?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "What is instant withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Is Instant withdrawal on PowerPlay11",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Withdraw fast my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Instant withdrawal needed",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Is there instant withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Instant withdrawal option is available now??",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "My account is under instant withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "My account is under instant withdraw l",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Fast withdrawalIs there fast withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Instant withdrawal is available",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Instant Withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Instant withdrawal Not available",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "INSTANT_WITHDRAWAL",
+    "utterance": "Is instant withdrawal available",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Email verification",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "How to Verify my email address",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Verify my email",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Verify my email address",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Let me verify email",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "How to verify email",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "I want to verify email",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Email needs to be verified",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Send email verification link",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Email not verified",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Email verify problem",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Verify Email",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Verify email ID",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "How to verify email ID",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_EMAIL",
+    "utterance": "Mail verification",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "Same score between two players",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "What happens in case there is a tie",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "What if it is a tie?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "tie in head to head",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "tie",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "What if we have a tie?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "How to solve tie issue",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "And if there is a tie",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "If there is a tie between two users in quiz",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "In case of tie, what happens ",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WHAT_IF_THERES_A_TIE",
+    "utterance": "What if there's a tie?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "I want to know that how much I have been deposited till now",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "I want to know transaction history",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "My total transaction till date",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Total deposited when I started to till date",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "What are my deposit status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "I want my total transaction of deposits",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Total deposit till date",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Check Deposit Status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Deposit",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Track deposit status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Show my transaction",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "My full deposit till now",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Show me the status of deposit",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Can u tell me my total deposit mony",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Show my deposit status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "I want my deposit history....",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Transection related",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": " I was bored, let me check my deposit transaction",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Show my deposit status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Transaction status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Recent deposit status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "I don't remember some time ago once I signed up this app I have deposited some money but i didn't palyed it show how much money I have deposited",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Show my deposit statement",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Total money deposited and total money won",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "My deposit statement",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Transaction",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "My status was not updated can you show me the deposit status now",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "I want my full transaction details?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHECK_DEPOSIT_STATUS",
+    "utterance": "Deposit Status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "I want to know your contact number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Please give me your contect number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "No call me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "I want to caht with customer caee",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Customer care number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Call me back",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "What is your contact number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Customer care executive",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Can I get your contact number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "8765432190 call me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Support number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Give me contact number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Call me 9876543210",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Contact Details",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "My  mobile number 9876556789 call me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Can you share your number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Call back",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Can you call me please",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Contact me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Help me with your contact number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Need helpline number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "You call me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CONTACT_NUMBER",
+    "utterance": "Share contact number",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "I have withdrawn 300rs but in my wallet it shows success but in credit in my bank account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Withdrawal Status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "I was travelling I dont have cash I need to withdraw some money from app would you tell me withdrawal status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Since last year I did not played any game on this however I have 2000 balance in my account now it is showing 998 would you show me the withdrawal transactions",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Withdrawal statements",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "My status was not updated can you show me the withdrawal status now",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "3 may withdrawl",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Pending  withdraw money statu",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Check withdrawal status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "List all the withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "I want to view my withdrawal status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Open withdrawal status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "I have withdrawn some money four days back from the wallet how do I check the amount I have withdrawn",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Withdrawal statement",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Show my withdrawal status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Check Earlier withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Withdrawn status for my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "My withdrawal status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Plz check yesterday's withdrawal and support me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "When was my withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "I want to check my withdrawal status",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "My withdrawn money refunded",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WITHDRAWAL_STATUS",
+    "utterance": "Status of withdrawal",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "My PAN card bank account verification please",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Pan card is not verified",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Pan card not verify...",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "pan card verifi no success",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Pan verify not",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "How to verify my PAN Card?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Pan card not veryfy",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Verify PAN Card",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "What's the process to verify PAN card",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Process for PAN card verification",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "How much time it takes to verify pan card",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "No verify pan card",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "How do I verify my PAN",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Verify my PAN card",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "VERIFY_PAN",
+    "utterance": "Pan card verification",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Change team name",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Change to email how you",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Update my Team Details",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Can I Change my team name on PowerPlay11?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "How can I change my team name",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Change My Team",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Change My Profile or Team Details",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Change profile name",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Update My Profile/Team Details",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "How to change profile name?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Update My Profile",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Profile picture how to change",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Can I change my profile name",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CHANGE_PROFILE_TEAM_DETAILS",
+    "utterance": "Edit team name",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "How to Verify my Account?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "Account Not Verified",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "How to Get Account Verified",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "My account verfiy",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "I am unable to verify my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "Need to Verify my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "Account Verification",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "Verify account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "Verify my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "Haw can we verify my account",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "ACCOUNT_NOT_VERIFIED",
+    "utterance": "My account not verified",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "tp-w vs ty-w basketball match: tp-w player s rou points are not updated correctly please fix",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "why r u last t10 match not give wicket point properly???",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Dbr vs ktr baseball match;\nWrong points updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Sir my points are 44 by calculating player points but showing only 38 y",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Point worng",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Wrong point update in current football match going on",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Point distribution is not correct Taiwan t10 match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "H fan shan,w w lin two players wrong points updat2",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Tp-w vs ty-w basketball match;\nWrong points updated, s rou not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Tp-w vs ty-w basketball match;\nWrong points updated, please check",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "I was winning in points but Final score was not correct You cheated me",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Score updated incorrect",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Plz update correct points of basketball",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "AParappugouder take 1 wicket in current  tdg fcf match but you not count th point please check",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Football result declared problem",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Tp-w vs ty-w basketball match;\nWrong points updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "T10 match between TDCC and Titans points not updated correctly",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Tp-w vs ct-w basketball match;\nWrong points updated, s rou points not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Point calculation is wrong of current cricket match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Tp-w vs cl-w match wrong points updated,you cheating",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "What if a game is completed with wrong scores?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "WRONG_SCORES",
+    "utterance": "Scorecard are not right",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "C icon",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "I have joined one contest till now it was not updated",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "M icon",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "Contest Cancellation",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "Cannot See Joined Contests",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "What is the meaning of C infront a league",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "I have joined contest but not show my contest",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "My contest does not show",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "Amount deducted but showing no league joined",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "I fill up the contest of Rs 35 but after match start it's showing there is no contest filled",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "I joined a league but now it's not showing",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "League joined but not showing",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "What is the meaning of M infront a league",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "CANNOT_SEE_JOINED_CONTESTS",
+    "utterance": "Why can I not see my joined leagues",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Edit safe play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Safe Play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is the regular play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is the deadline to edit team in safe play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is regular and safe contest",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Team Deadline for Match",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Difference between safe play and regular play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is Safe Play & Regular Play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "How many playing mode",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Playing Mode",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is safe contest?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Regular Play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "match deadline",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is the deadline for a match on PowerPlay11?",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Safe mode editing",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is safe play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "What is the deadline of Safe play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "I joined 4 contests in regular play in match Dragons vs Titans but now it is showing in safe play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Can I edit team in safe play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "TEAM_DEADLINE",
+    "utterance": "Benefit of safe play",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Hi",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Good evening",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Hello",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Goodafternoon",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Good night",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Hey",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Good morning sir",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Yes",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Gudnt",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Good day",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Hi I am Mohit",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Good Morning",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Ya",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Goodnight",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Hi PowerPlay11",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Yes Can you help",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  },
+  {
+    "intent": "GREETINGS_DAY",
+    "utterance": "Good afternoon",
+    "origin": "HINT3",
+    "domain": "powerplay11"
+  }
+]

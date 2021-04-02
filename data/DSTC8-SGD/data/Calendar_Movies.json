@@ -1,0 +1,98 @@
+[
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "That sounds good. Could you add it to my calendar with the location 474 24th street and Movie show as the title. It is at 3:30 pm",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "I see, could you add an event titled Movie show at 19:45 which is located at 200 C Street in my calendar please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "I would like to add this in my calendar the event is Movie show is at 2306 Almaden Road at 4:30 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Yes, that sounds good. Please add this to my calendar. Use Movie at AMC Eastridge 15 for the title. Use afternoon 12 for the time and location at 2190 Eastridge Loop.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Perfect. Please add this event to my calendar. Label it Movie at Livermore 13 Cinema, time 22:00. Locatio is 2490 First Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "That sounds good, I'd like to add it to my calendar. The address is 7000 Northgate Drive, the event title is Movie at Century, and the time is night 10.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Sounds good. I'd like to put in on my calendar. Title it movie show at 3200 Klose Way for 3 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Seems nice. I want to add this event on my calendar, and I want it to be called Movie show. The location of this event is 620 3rd Street, and the time of the show is night 8:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "I can afford that. Now can you add that to my calendar as Movie Show located at 620 3rd Street at night 8:45.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Okay, this is something I must add to my calendar. here are the detailed info to add. The name of the event is movie at amc newpark 12, the time of it is eleven in the morning and the address is 400 newpark mall",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Okay, cool. Please add a new event in my calendar. The event title is Movie at THE LOT City Center, location is 6000 Bollinger Canyon Road Suite 2300, and event time is eleven in the morning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Perfect. Will you add Movie show at Shattuck Avenue at 7 pm to my calendar?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Sounds good. Please add it to my calendar and title it Movie Show. Put 16:15 for the event title and the location as 2317 Central Avenue.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Okay, good. Add that to my calendar please at 9:45 pm at 2274 Shattuck Avenue and call it Movie at United Artists Berkeley 7.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Add movie at Century to calendar, at 7000 Northgate Drive and 9 o\"clock in the night.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_AddEvent_INFORM_event_location_INFORM_event_name_INFORM_event_time_SELECT",
+    "utterance": "Seems nice. Now I want this event to be added on my calendar, and I want it to be named Movie at Century. The address of the event is 7000 Northgate Drive. The time for this event is 22:00.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Movies"
+  }
+]

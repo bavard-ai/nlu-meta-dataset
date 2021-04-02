@@ -1,0 +1,86 @@
+[
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "No, not at the moment. However, please find me 1 room in a hotel there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Nope. I don't want to book it now. I am looking to find a hotel there. I wish to book two rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "No, not right now. Find me two rooms in a hotel near there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Not right now. I would need one room at a hotel when I get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Not right now. I need to look for a hotel there. I'll need two rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Not now, first let's see about getting 1 room to stay in.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "No, but find hotels there for 1 person.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Nope, not now. Please can you search some hotel there, for I wish to book 1 room there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Not at this time. I would like to book 2 hotel rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "I don't want tickets, but I want one hotel room there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "No, please find me two rooms in a hotel there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Not now. Find me a hotel there. I will be on my own. So only one room.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "No, not right now but I would like to find a hotel in the area. I need to book two rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_number_of_rooms_NEGATE_INTENT",
+    "utterance": "Maybe later. What about hotels around there? I need one room.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Hotels"
+  }
+]

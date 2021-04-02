@@ -1,0 +1,3950 @@
+[
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to gain mass",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I need a combo of gym equipment with dumbles and barbell",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Body fat loss",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "how weight gainer is differnt from mass gainer",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Home equipment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "which is the best one to use for body gainer",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "hi how to use bt protein",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Best mass gainer??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Hair Fall",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Glutathione",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "My weight is 65kg .is it better to take mass gainer",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "For increasing fat which products will good for me",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I am looking for dumble",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to buy this product.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Regarding a product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "This is good product for weight gain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Wigzin 270 I would like to buy",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Show products for Heart Care",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to order Wottle sensitive handwash refill",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I am looking for Dumbbells",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I am 82 years old... I want to buy melatonin 10mg..can you suggest a good producr",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Hello sir  I want to gain weight and muscular body is this powder helpful  ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Can you suggest me some products?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want sugar free protein whey",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Best whey for lean body",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Need gainer",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Sir I want to fast gain weight.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "i wamt rod for gymming",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "i want capsule for increase my size",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I have some of the Hirokeen capsules & would like to buy more : can you supply the Mega Power capsules to Australia? Thank you, Aaron D'souza",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "which product helps to gain muscle??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Testosterone",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I need a apple cider vinegar to reduce belly fat, which one is best",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Show me cheapest whey protein",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Dumbbell",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Doing excessive to build muscle",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I am confused about what to buy since there are too many options I and I really don't know what I should focus on right now",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Help with product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want gain weight",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Hi , I am looking for home gym set",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I am trying to cut down on my weight",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "give products for protein",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I'm look for 20kg dumbels",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "i'm beginner in gym",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Please suggest me what is the best medicine of immunity boosting",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Home gym 30 kg rubber weigh set available",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I need a modiyos weights kit",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to transform my lifestyle to be more healthy",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Which protein is best for the age of 18",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Combo gym set",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to lose 10 kg in 1 month",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Omega 3",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to buy Alivea home gym",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to weight loss than which product will be helpful for me kindly guide me about the product. How much it is beneficial...",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "My age is 40. Need suppliment for mussels",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Hello sir immunity plus purchases",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to purchase",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "best supplement for biceps and triceps growth",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Can you help me with building an athletic body so that I participate in sports competition",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to get the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "There is any supplement to protect hair loss without any side effect",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Hi can I know the use of glutathione",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "How do I buy vitamin shoppe fish oil?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want help to reach my weight goal, can you suggest some products?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Height",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Calcium",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "what u recommend for best multivitamin",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Need multivitamin",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want get muscle mass and lean mass",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Product Recommendations",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "How to buy",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I require Triocin 150mgtab 20 nos and lufsith ear drops 1",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Multitab Silver",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "4kg dumbbells are available?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want to gain my weight",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Wanted to get Protein powder",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Any one can use calcium tablets",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Will this product help for building huge muscular body",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "isopure",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Can i eat l arginine",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Weights loss",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Want to order glimzy roll",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Hair 4care %",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Best price sambroda muscle mass gainer",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "XxX mass gainer",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "what products would you suggest to lose weight?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want weight loss inch capsules",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "My weight is 64 I'm increase in 30 kg",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Fat burner",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I wanted to buy Home gym",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Is ashvagandha gain my waight",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "i am a beginner. and i have some gym products at home. i do exercise at home but not so hard.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Need fish oil",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Which is the best whey protein",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Multi vitamin",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "weight gain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I want home gym product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Hi , I am looking for home gym",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "Can I get Gonix as30",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RECOMMEND_PRODUCT",
+    "utterance": "I need dumbbells",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I wanted to order some things, can I place an order on the website?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can I order it ? While lockdown as well.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Cod is available",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Place an order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How to place order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "COD is not available?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "pay on delivery option on the portal",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Are you taking orders during COVID?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "COD option is not available",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can i place prepaid order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Are you taking orders for delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I want to order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "CAN I pay online for my COD order?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Do i need to make payment in cash",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I want to pay for my COD order.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "are you taking up orders during the lockdown?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Order my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I want to place order for a product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I want to book shipment on cash on delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "are you accepting prepaid orders during lockdown",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "can I pay cash later",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How to place order for 30  tablets ? It is not allowing me to order on COD.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Are you taking COD orders",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "There's no option for Cash on Delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "is Cash on delivery possible",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Wants to buy a supplement through cash on delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Hi, is your service operating during curfew",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Is COD available",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can i order online right now?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Cash on Delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "There is no option for cash on delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can I order now ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How and where to place my order?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Why it is not showing COD option",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I want to pay COD",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How come there is  no COD on curekart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "please tell me if I can still place an order on the website during the lockdown",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How can i place a order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How do I place the order?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How can I order product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Buy through Cash on delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Are you guys still accepting order?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How can I place my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "COD",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Dont worry.it will be a prepaid percel",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "i know its lockdown due to coronavirus but can i still place an order?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Accept Orders Again",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Are you still delivering during this time?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I want to order on products",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can i do COD ??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can I place Cash on delivery order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "I want cod",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "How can i order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Hi I want to order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can i buy during quarantine",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Cash on delivery option is not showing",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Can you please send me two bottles of Sorjio powder on COD basis ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORDER_TAKING",
+    "utterance": "Want COD option",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Check Refund Status",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Replacement order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want replace my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "i want to return my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to return",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Not received my replacement order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I ordered by mistake",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Need to return",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Order Replacement for the products i received because I did not order what I have received",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "How I return my order delivery?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "ordered wrong item",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "My replacement order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Refund not received",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "as it is only showing return policy but nowhere option to return my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I need to initiate return",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to know my refund status",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Please Replacement product. Product box not",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Refund & Replacement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I have sent my order for refund how much time will it take?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want exchange the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to return myprotein product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to know about my refund or replacement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Refund money",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "some of the items I have ordered are missing how do I get a replacement?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Return",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Information for return",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Any return poliCy",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "It\u2019s shows that u returned multiple order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "refund wrong item received",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Can I return after using it for few days and found it fake",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "query related to refunds",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Please Refund & Repayment my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I havent received my refund it has been many days since the return",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Return my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Return Policy",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to back my money",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "query related to replacements",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Refund",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "When will my parcel return?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "15 days replacement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Retun my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I need to replace the product I recieved",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want my item replaced because the item I have received has tampered with already",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I would just like to return my product since you have delivered something completely different from what I had initially ordered",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "The product I received was of bad quality, how do I replace it?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I just want to know about return policy",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to return the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "How can I get a refund for the order I placed?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want refund as soon as in my account",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to know about my refund or replacement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I would like to change my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "My Refund",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Return product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Where is my refund?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "order returned",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want my money back",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I would like to return a part of my latest order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Want to return the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "What's you refund policy",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Wrong  items shipped",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Replacement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "please refund my amount",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "i want replacement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Return my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want my payment for refund back, when I will get it?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "i want to refund my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Return the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "If i. Cancel the order now then in how many days i will get the refund. I have dond payment through upi",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to return my last order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "i want to replace my bad quality product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to know about my replacements",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "i want to return one product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "I want to return my last order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFUNDS_RETURNS_REPLACEMENTS",
+    "utterance": "Meal replacement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Is delivery affected by covid 19",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Hi are you delivering now",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Delivery is available but it will take 15-18 days u mean to say",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Home delivery available ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Are you delivering in lock down?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "When will you resume delivery due to COVID?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Delivery time duration",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "I have not received my parcel yet, when will to start the delivery again",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "I want to order whey protein...can you please tell me expacted time of delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "i need information related to delivery times",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Hello are you currently delivering?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Can i get delivery before 11am",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "what will be the delivery date",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Ok I need delivery tomorrow",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Resume to Deliver",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "how is covid impacting your delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "When can I get my product if I order today",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "I am not getting any update on my parcel because of corona",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Impact on Delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "how to long will it take for delivery of producs",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Is delivery available",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Can I get the product these days if I prepay you",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "I am not sure if covid is affecting your delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "are u providing delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "When can I get spectrazole delivered at home",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If I place order today how soon can I get order delivered?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "In west bengal, are you delivering the products in durgapur",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Wts delivery time if i order today",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Can I get delivery of gym equipments",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "You can deliver order now in curfew",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Hi do you deliver in this situation?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "as there is a lockdown everywhere, is CureKart still working?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If i order today in how many days it will be delivered",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "I want to order but are you delivering",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Since there is a lockdown and only essestial services are working will cureKart deliver me the items",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If I order today, when will I get the delivery?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "I you will deliver it tomorrow",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "can you let me know exact delivery time",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If I order today when I will get it",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "How much time take to product deliver",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Are you people delivering products?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If I will order one product today them when it will be reach",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "When I'll be receiving the product?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "is Cure Kart providing delivery during lockdown?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Are you guys delivering the products if i order?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If I order now do I get delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "How much time for prepaid parcels",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If i place my order today, when will it be delivered?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "After prepaid when will it arrive?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If i i order today .how much time it will be delivered?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Can i get it today??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "are you going to start delivery during this lockdown period as well?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Can you deliver it to my address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "how is CureKart handling covid orders",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Is deliveries happening now?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "other websites like lagoon are delivering when will curekart start again to deliver?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "I want to know when i will get my order if i place my order today",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Delivery period and date is not mentioned",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "Can u deliver product during shut down?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "RESUME_DELIVERY",
+    "utterance": "If I order right now how long will it take to deliver",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "i wanna change shipping address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "I want to change my delivery address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Change delivery address?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Modify Address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "can i change the addres on the order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Need to change shipping address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Regarding change of address of my order.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Can you please change the address?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "i have to change my address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "I want to change my shipping address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "change of address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Edit shipping address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "I need to change the address of my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Address Issue",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Delivery address is wrong it is to be changed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "How to change address of placed order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "wrong address",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "I want change my addresses",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "MODIFY_ADDRESS",
+    "utterance": "Hi Cure Kart i have ordered a product but address is wrong",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can I come tomorrow because I stay near the shop only near d mart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Are your stores open",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can medicine be purchase physically from your centre",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can I purchase directly from store",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Bro is your shop open tomorrow",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Do you have any store in Amritsar",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "CureKart store in kolkata",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can I visit your store",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Is your store open",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Store information",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can i go to your shop",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Are your offline stores open?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can i collect it from a store",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can I purchase from shop",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Any store in Kolkata?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can I come tomorrow because I stay near the shop only near k mart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Janak puri new delhi store is open or shut",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Where is cure kart in greater Noida?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Stores near me",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Are stores still opening?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "So you guys have stores also???",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Can I come visit?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "\u00c0re your shops operational",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "Are curekart store open",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "STORE_INFORMATION",
+    "utterance": "CureKart stores are open?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "call center not reachable",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "hello, is ther anyone available to assist",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "complaint",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "need to chat with a representative",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I want to speak with a live agent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Talk to agent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Waste of my time",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Contact",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Useless",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "need an immediate fix to my problem",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "real person available",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I want talk",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "U r giving pathetic service it was prepaid order only",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I need customer support",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Bad Service",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Could I chat with a human please",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Call centre not picking up",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "pathetic service",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "This is extremely urgent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "live person to talk",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "human to answer",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Can i talk to a human",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Your delivery service is always slow I am done with CureKart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "How to complaint",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Waste of time",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Can I talk to your coustmer executive",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "This is urgent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "This is an emergency",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I need urgent assistance",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I want to raise a complaint",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "contact support",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Talk",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "poor customer support",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Chat with an Agent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I want to complain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Customer care number not available",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Is this normal with ths product or should I chat with an expert",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Give immediate resolution",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Chat agent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "No one is answering",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "You guys are fraud",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "This number is invalid",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Chat with agent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I want to chat with an agent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Live agent",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "connect me to supervisor",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "You are useless",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Your service is  pathetic",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I want to talk to your executive",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I want to speak with a human",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "U all are useless",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "Poor service",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "I need to talk to someone",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CHAT_WITH_AGENT",
+    "utterance": "call center unavailable",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "i want to become the seller partner",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "Seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "I WANT TO SELL PRODUCTS IN CUREKART",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "how can i sell on curekart?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "Hi i want to enroll my self as a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "i want to become a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "I would like to get dealership",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "i have a product to sell on any well eminent e-commerce platform. Is it this platform awailable for me",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "How do i become a seller on curekart?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "i want to enroll my self as a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "SELLER",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "How do i become a seller on curekart? Please guide",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "I want to became a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "Get Franchise",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "I want to sell my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "Become a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "I wanted to be a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "how to sell on curekart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "i want to sell my product on curekart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "Become a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "how could I register as seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "can i become a seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "would like to associated as seller",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "FRANCHISE",
+    "utterance": "I want to sell on curekart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Tell me weight gaining",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "can you make my ideal diet plan ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Advice a diet chart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "I want a diet chart prepared for me",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Consult Start",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "In how many months we weight gain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "How much weight can be lost in  a month with this along with a proper diet plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Can you tell me what diet is perfect for me",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "I want a diet chart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet and Fitness Advice for Maintain Weight",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Workout plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Dite plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Generate Advice",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "diet and fitness advice",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Hii I am looking for lean muscle body advice me diet chart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet plan for runner",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Hii I want to loss weight can u gave me diet plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Can u give me a diet chart, I am 47 years old, no medical problem want to loose fat",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Suggest me diet on weight loss",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Bodybuilding diet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Generate Diet Analysis",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Recommend me workout schedule diet and protein",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "DIET PLANE FOR LOSING WEIGHT",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "I need a lean bulking diet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Weight Loss diet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet and Fitness Advice for Lean Muscle Gain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet and Fitness Advice for Weight Loss",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Hi i am looking for diet chart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Muscle diet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "I just want a diet  chart. I have started gym 3 days before i want to gain mass",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "diet plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "diet plan for weight gain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Get Diet & Fitness Advice",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Need a diet plan",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Can u provide fitness advice ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet and Fitness Advice for Bulk Muscle Gain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "suggest me beginner diet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CONSULT_START",
+    "utterance": "Diet and Fitness Advice for Weight Gain",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to check authenticity of ON product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "What if the product i receive is a duplicate product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Is your product original",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "how to know that you aren't selling fake product ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "What if I find it fake after receiving",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "I got fake product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "My supplement is original or not",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Show me your authenticity",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Are the products are genuine like your store ...??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Is it here trusted products",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to know if product is orignal",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Muscle Hulk raw whey protein how to authentic",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Authenticity check",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How do i know if protein is original",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Authenticate",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Authentic",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Are your products 100% original?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Hey I just received my multivitamin curekart box but I have doubt whether it is real or fake product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Is that Herbalife products in your app are authentic??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Is the products original?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "This protein is genuine or not?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "do you have authentic products",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Original supplement",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to inditify product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "No i want MUSCLEFIT product are they authentic?? On your platform??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Are all the products genuine and have a hologram on the box??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Are all the supreme nutrition products genuine?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "if ur product is fake will u take it back ?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "What if the product you delivered is duplicate",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "I want to check authenticity of my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How can i trust the authenticity",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Hi. Just want to know if these products are 100% genuine",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Authenticated",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "And are importer  are genuine ??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Authencity of product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How we know is this original??",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to know if it is genuine",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "how can i check the authenticity of the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to find original product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "are your products genuine",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Fake product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Hi how to check its authenticity",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "What if I got a fake product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "how to verify its original or duplicate",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Product seems fake",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Authentication",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "CureKart is a genuine product for sell",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How do I know protein is authentic",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Authenticity",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "can i get original product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Is your product natural",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "I want to buy ich sensation 93.. but how will I know that what I am buying is not a fake product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "I would like to know the originality of the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to check the product is original",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How can I check original product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Is there any authticity mark on products",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "What if i fount a product is not authenticate",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How I check product is original or fake",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Original Products",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to check products is original or not",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to verify my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Is there are real products",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How to check aunthentic or without authentic",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How can i believe it is original product?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "Product is fake",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "ORIGINAL_PRODUCT",
+    "utterance": "How can i check my order it is original or not .. do you provide scan n check ?? Label on the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "why is parcel taking so long",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Why my parcel is delay",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Why is my delivery late",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Is there a delay in delivery becuase of the pandemic?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Why there is a delay",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Delivery is showing very late",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Why it's getting delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "order not received",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "But order was shipped the same day and now am stuck with waiting till the end of the month without supply",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "The order not yet delivery",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Hey I didn\u2019t receive the ordered product its incomplete",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "I have still not received my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "How long is parcel delayed because of COVID?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "How can I contact if I did not receive my order but got message that your order is delivered",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "my order was delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "why my order keep getting delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "My order is very late",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Why is my parcel delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Delay during Covid-19",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "i have not received my order till today.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "My order was supposed to arrive long ago. Can you please tell me when will it come?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "order delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Delay Order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "We got the message product is delivered but it is not delivered",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "My Order is Delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "My product was supposed to be delivered yesterday...but i havent recieved it",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "it's been delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "I didn't receive my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "U guys don't deliver in time",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "how much time taken to deliver products",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "Product delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "why my order is delayed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "DELAY_IN_PARCEL",
+    "utterance": "I am not received my order yet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "Customer care",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "when can i call the call center during coronvirus lockdown",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "Contact Call Center",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "I want to call your call centre",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "Call me",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "what are the working hours of your call center during covid lockdown",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "We want ur ph number",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "Consumer care number",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "where do I call you",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "muzaffarpur hub contact number",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "What is your customer care number?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "your contact number",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "does covid affext your call center time",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "Customer care number",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "i want to get in touch",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "How do I Reach you guys",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "I want your number",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "is the call center still functioning during lockdown",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "is your call center working during covid?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "want to contact your customer care number send me",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "What time is your call centre operational during COVID?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "what is the time when call center is working",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "pls give me customer care no",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "i want your contact number where I can call you",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "what time are you guys open",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "CALL_CENTER",
+    "utterance": "Toll Free Number",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Refer Amount",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "My Referral code",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "My friend refer me to CureKart",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Need help with refferal",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Want to know about refer & Earn",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Referral",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Friend referral",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Refer & Earn",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Reedem referral",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "How cani refer a friend for this app?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "I have referral promo code",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "Refral code",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "REFER_EARN",
+    "utterance": "How to refer my referal code",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Take Re-assessment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Re-assess my profile",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Show me the form to add goal details",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Re-assessment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Take Re-assessment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "How can I add my goals",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Let's do Re-assessment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "take my reassesment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Fill my goal",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Take reassessment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "I want to take Re-assessment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "I would want to take re-assessment",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "I want to add my goals",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "USER_GOAL_FORM",
+    "utterance": "Fill my body measures & Goal",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Expire date",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "How do i find out the expiry date of a product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "How do I know the expiration date of the product that I am going to purchase?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Where can we find expiry information regarding product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "How much this product is close to the expiry?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "I want to know expiry date of my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "expiry of product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Hi, what is the product expiry day",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "What is the expiry date of the product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Product Expiry",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "How to find the expiry date of a product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "I have received an Expired product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "I have to know the expiry date before buying",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Could you  please tell me expire date",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Expire date",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Where can i check the expiry information of the product?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "I wanna confirm the expiry date of this product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "There's no expiry date printed on BT fuel one 2.2lb chocolate",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "Expiry Date",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "How many days after fish oil capsules  expired",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "EXPIRY_DATE",
+    "utterance": "What if I receive expired product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "Give me a copy of my bill please",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "my account got debited but my order did not get placed please give me a solution",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "My Money is deducted but the order is not placed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "my bill has been not publised yet on the website, i want a bill for my order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I want my invoice for my previous orders",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "you have not provided me my bill yet",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "i want invoice",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "Money deducted but order not placed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I have query related to Payments & Bill",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I want a duplicate bill for my order, where can I find it?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I have not received my bill, give me my bill",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "Order or Payment related query",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I want invoice of my product",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I see a transaction on my bank app, the money for the order has been deducted but there is no order visible on my profile",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "give me my duplicate bill",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I will require a duplicate bill for my previous orders since I have to show it as a proof",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I have an issue with my bill, can I get a duplicate copy?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "Payments and Bills",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I have Payment & Bill Related Queries",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "My order did not get placed but my money got deducted form my account.",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "My money got deducted but my order did not get placed, can you help me?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "show me my duplicate bill for my latest order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "my money has been deducted but it's not been place order",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "Payments & bill",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I just paid amount for some products but not visible in my orders",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "i have placed a order recently,money deducted but order not placed",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I want to know about my payments",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "I have query related to payments and bill",
+    "origin": "HINT3",
+    "domain": "curekart"
+  },
+  {
+    "intent": "PAYMENT_AND_BILL",
+    "utterance": "Can you send me a duplicate bill for my order?",
+    "origin": "HINT3",
+    "domain": "curekart"
+  }
+]

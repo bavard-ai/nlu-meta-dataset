@@ -1,0 +1,188 @@
+[
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Thanks, Now I would like to make an appointment at the salon that day in the evening 5:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Thank you! I would also like to make an appointment at that salon on that day at quarter past 2 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "I appreciate you help, please book me an appointment to the salon you found at 6 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Great! I'd like to make an appointment at that salon as well please, at 12:00.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Thank you very much, I appreciate it. I would also like to book an appointment at the salon you found. Please make it for 10:15 am.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Thank you so much! Can you book me an appointment at the salon you found as well? I'd prefer an afternoon 2:45 appointment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "That's fine and thanks for the details. Now, please make a booking at the Salon that I have selected before. I need the same for the time at 5:45 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Great! Can you make an appointment at that salon for 5 o'clock in the evening?",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Thank you so much. I appreciate your efforts. Please confirm the appointment at salon at 6 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Okay, great, Now from necessity to luxury. I want to get an appointment at the salon you found, in the evening, 5:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Thank you for all.Book an appointment at 1 in the afternoon at the salon that you just found on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_INFORM_appointment_time_THANK_YOU",
+    "utterance": "Thank you very much. You've been very helpful. Now please also book me a ten am appointment on that day, at the salon you just found.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "thanks. can you get me a salon appointment at the place you mentioned earlier?",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you, I appreciate your help! I would also like to go ahead and book an appointment at the salon you found.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you, I am grateful. Now I would like to make a reservation for the appointment at the salon you found earlier for that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Great! Can you book an appointment at the salon now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you. Can you book a seat at the salon we found on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you so much. Now we go back to the booking of appointment with the salon that you have found for me before.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you very much. I appreciate it. Next I would like to make an appointment at the salon you found.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "I see, could you book an appointment at the salon too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thanks for your help and Please book an appointment with the Salon that I have selected before.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Great, thanks. I want to also book an appointment at the salon you found today as well.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you so much, I appreciate it. Now back to that salon appointment, can you book it for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you very much. I'd also like to make a salon appointment please at the one that you found.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Okay, Thank you for the help. Now please book an appointment at the salon you just found and on the same day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thanks, please fix appointment in the salon selected also.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you very much! I am grateful! On that day I also want to make a reservation for an appointment at the salon you found earlier.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thank you! I'd also like to book an appointment at the salon you found.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thanks a bunch! Much appreciated. I would now like to book an appointment at the salon that you found for me for the same day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Thanks a lot, I really appreciate it. Can you get me an appointment at the salon that you found earlier?",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_BookAppointment_THANK_YOU",
+    "utterance": "Great. I appreciate you helping me set up a this important appointment. Now, I need help with another appointment. Schedule a visit to the last Salon you mentioned to me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Services_Services"
+  }
+]

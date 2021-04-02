@@ -1,0 +1,92 @@
+[
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "Sounds good. Would you share the location, 40 Millwood Street, with Abigail?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "OK, that sounds fine. Also I'd like to share the location. The address for sharing is 1047 Lincoln Highway suite 101. Please share it with Vincent.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "That seems nice. Is is possible for you to share a location? The address I would like to share is 1532 20th Street and I want to share it with Amanda.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "That seems nice. Is it possible to share the location? The address I am interested to share with John is 15 Fiesta Lane.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "Okay. That sounds good to me. Can you share the location with Tyler? The address is 20686 Homestead Road.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "Great. Can you share the location with Jessica? Just the clarify the address to send is 40 Millwood Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "Seems like a great place. I also need help sharing their address, 1532 20th Street, with Joshua.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "This sounds good. Could you please share the location 1186 south 2nd street with joe?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "That can work. I also want to share a location. It's 1216 South Abel Street and it should be shared with Steven.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "Perfect! Can you share the address with Jeremy? 20686 Homestead Road.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "Perfect. Could you share 1880 Solano Avenue with Jeffrey please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "Yes that is good. Could you share the location of 325 Sharon Park Drive Ste F-2. I'd like to share it with Nancy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "ok, yes sounds good. Can you share the location? please send over this address 1047 Lincoln Highway Suite 101. I want to share this with Billy please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "That sounds very cool. I've just Googled it's address. Please share the address 4550 Tassajara Road with Randy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_SELECT",
+    "utterance": "That one sounds good. Can you share the location with Jerry? The address is 1532 20th Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_Services"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Ok. I want to schedule a visit to the Capri Creek Apartments property on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Okay, can you schedule a property visit to Village At Town Center Apartments on that day, for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Sure. Okay. I am looking to schedule my visit to the property Brentwood Parks Apartments.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Schedule me a visit to the Creekside Terrace Apartments for that day",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "I'd like to visit the Creekside Village property there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "I want to schedule a visit to Dixon Apartments.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Okay, I also need to schedule a visit to the property Macara Gardens Apartments for that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Okay, sounds good, I would like to schedule a visit to see the property Park View Apartments that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Sounds good. I would like to visit the property called Brookside Oaks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "ok thats good. i need to schedule a visit to the property on that day. Will you fix a schedule to the property RIverwood Grove?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Okay. I would like to schedule a visit to a property called Palm Court Apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Can you schedule a visit to Westwood Townhouse Apartments for that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "I see, could you schedule a visit to Rutherford Townhomes for me on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "That sounds good. I'd like to schedule a visit to Golf Club Manor Apartments.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Ok, thank you. Let's schedule a visit to the Birchwood Apartments property for that day please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Thanks. I will also like to check out a place to live during my visit. Can you help me book a tour of the Alderwood Apartments please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "I want to visit the Riley Square property on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "That is the day I want to visit Evergreen Ridge Apartments I believe I need to schedule that visit.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Will you schedule a visit to the property San Marcos?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Okay, I would like to visit Orange Tree Apartments.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Great, thanks. Can you schedule a property visit for me that day at Capri Creek Apartments?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_INFORM_property_name_SELECT",
+    "utterance": "Okay. I want to schedule an appointment to visit Bella Rose Apartments on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_Weather"
+  }
+]

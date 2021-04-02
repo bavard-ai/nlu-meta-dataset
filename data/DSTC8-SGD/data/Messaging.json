@@ -1,0 +1,2210 @@
+[
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "I would like to share with Bruce instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I want you to share it with Christian.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "I want to share it with emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Actually Jennifer won't need the location, please share it with Abigail instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "On second thought, please share it with Willie?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Nope. I need you to share it with Kathleen.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "I would like to share it with Rachel instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No. I forgot that he's out of town. Please share it with James.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I changed my mind. Please share this with James.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Nope. Please share it with Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Sorry I meant Sophia, not Mark",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Sorry, could you share it with Janice instead?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, share it with Ann.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, sorry! I want to share the location with Donald!",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Oh, no, um, I want to share it with Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No,share it please with Bruce.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I'd like to share it with Eugene.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "no, please share it with walter",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, change the name to Joseph.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Wait, no. I want to share it with Kimberly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Sorry, i want to share with Brittany.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No shares it with Richard please",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "I'm sorry, I meant to say Jason.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "That's wrong, I messed it up, send it to Raymond.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, share it with Lawrence.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "On second thought, share it with Douglas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Oh my gosh, I am losing my mind. I need to share that location with Emma, not Ashley.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I meant Donald.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No.Share it with Carol.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No I want to share it with Douglas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "I want to share it with Edward.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "no sorry could I share it with Henry?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "My mistake, I meant share the location with Rose.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I'd like to share it with Theresa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "no please share it nicholas",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Actually share the location with Randy instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, actually send it to Virginia instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, wait Matthew should get that.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, send it to Kathryn.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I want to share it with Sean.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, on second thoughts, share it with Frank.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I'd like to share it with Kyle.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, i need to share it with Catherine",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "That is not right, because I actually want to share the address with Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I wish to share the information with Alice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Nope. Share it with Bruce.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No i actually want to share with larry",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, share it with Johnny instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I'm sorry, I think I would rather you share it with Brenda.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "That is not right, because I want to share the location with Raymond.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Actually, I want to share it with Teresa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I want to share with Sandra.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Sorry, please share the location to Carol.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, nevermind share with Jesse",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I want to share it with Betty.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Actually, please share this with Lawrence instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I want to share the location with Charles.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I want to share the location Lori.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, i will be sharing it with Steven",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No,my mistake, send it to Samantha instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "The location is right but I changed my mind. Please send the details to Nancy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Actually, share it with Juan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "Please share it with Emily instead of Beverly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, share it with Melissa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, I want to share it with Alan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_NEGATE",
+    "utterance": "No, Natalie is whom to share it with.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share the location with Judy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'd like to share it with Karen.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share it with Katherine.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share the location with Judy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with MArie.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "share it with Ruth.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Her name is Sarah.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Can you send it to bobby",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Bruce.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share the location with Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with Robert.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share it with Anthony.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Judy",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I need to share the location with Grace.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "The person with whom I want to share the location is Scott.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "The person with whom I want to share the location is Lauren.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please send it to Jennifer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share it with Aaron.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Ryan",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I like to share with Adam.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "The person with whom I want to share the location is Nancy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Joseph.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'd like to share it with Emily.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Jacob.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'd like to share it with Dennis.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Ethan is who to share with.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Margaret.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it to William.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with Justin.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Johnny, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Melissa please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with Bryan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Mark",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Terry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I prefer sharing it with Natalie",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Could you share it with Cynthia please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share the location with Albert.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please add Pamela.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share the thing with Bryan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share with Christina.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Send it to Nathan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Send the location to Logan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share that address with Kenneth please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with Kayla.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please do it with Ann.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Beverly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Aaron",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Amy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "His name is Bobby.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "The location should be shared with Terry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to let Judith have it.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I prefer to share it with Madison",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "With Sarah I want to share.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "The person I want to share the address with, is Sharon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Austin.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Judy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Its Daniel, Share with him",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share with Thomas",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want Frank to see it.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "i wish to share it with Danielle.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share the location with Ralph.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Jacob please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Send it to Sophia, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want Beverly to get it.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I need to share it with Hannah",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with Amy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Christian.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share the location with Julie",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Lisa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Send the location with Eugene.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "with Tyler please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Send it to Jonathan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'd like to share it with Larry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want Bryan to get the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share with Dylan",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with Evelyn.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "With Linda please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I need to share it with Janet.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Send it to Bryan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share with Patrick please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share it with Lawrence.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "With Sharon I would like.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Terry",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share with William.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share the location with Jacob",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Alan please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'd like to share the location with Christian please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share with Abigail",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share with Theresa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'd like to share it with Helen.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Share it with Louis.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share with Patricia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'm sharing with Judith.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I would like to share with Amy, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want to share with Richard please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I'll share it with Barbara.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "I want it shared with Kelly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "please share with rachel",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name",
+    "utterance": "Please share it with Katherine please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Share the location of 7377 Saint Helena Highway for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "I want to share the location Heathrow International Airport",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Would it be possible for you to share the location? The address which should be shared is 450 East El Camino Real.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Thanks. I am going to have you share th Port Authority Station address with someone okay?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Great. Can you share the 30 St Mary Axe (The Gherkin) address?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Could you share the location 1306 Saratoga Avenue please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Thanks! Can you share the location of Air And Space Museum?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Can you share the location 12221 San Pablo Avenue?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Yes, can you share the location? It's 15 Fiesta Lane.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "I would like to share this address 1532 20th Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Try for me to share the location Heathrow International Airport.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "I want you to share this location for me. The address to be shared will be 1971 San Pablo Avenue.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location",
+    "utterance": "Would you mind sharing the location? The address is 1512 Locust Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, my bad. I actually want to share the adddress 443 Emerson Street with Harold.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, wait, the address is Park Lane Apartments, and I meant to share it with Terry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "Sorry, i want to share the address of 16 mint plaza with Keith.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No can you send another location, Kuya's asian cuisine, to albert?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, the address to share would be 1174 Solano Avenue and I'd like to share it with Kimberly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, the sharing address is 139 South B Street and like to share with Frank",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No the address should be 613 Cabot Way and share it with Raymond.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "Actually I wish to share the address for 8 Kenneth Rexroth Place with Danielle.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "Nope; the location to share is Sky Harbor International Airport, and the person I'm sharing it is Elizabeth.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, the address to share with Ronald is Heathrow International Airport.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, oh did I say Amy? No, please share it with Lauren. Oh, and the location I meant to say was Toronto Pearson International Airport.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, make that Jacqueline, and share the address Alley Pond Park.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, I want to share the address of 255 North 1st Street with Nicole.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, I want to now share Plumed Horse with Brandon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No. Share the address Sutro Baths with Lauren.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No please share the German Spy Museum address with Donna.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "No, I want to share the address of Lake Terrace Apartments with Bobby.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "Not really. Share it with Sean and make the address to be 951 Pomona Avenue.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location_NEGATE",
+    "utterance": "On second thought, please share the address for Alcatraz with Nicholas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Can you share the location of Orly International Airport with Jordan?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "And I also want to share the 1754 Polk Street location with Lauren.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Yes please. I would like to share the address for this place with Betty. So, the address that I want shared is 15824 Hesperian Blvd.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Oh, can you share the location? I want to share with Noah the address 298 Gough Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "I need you to share the location 25 Kentucky Street with Sara.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "I want Bryan to know about this place please share the location Alki Beach Park with him.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Well, can you just share their address with Denise, It's 1502 1/2 Webster St.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Please share the location with Nancy, the address I'd like to share is BODY WORLDS London.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "I also need you to send the location details to Douglas. Please send him 1 Vivian Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Okay, Can you share the location Port Authority Station with Logan?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Oh, will you share the location with the address of 1760 Polk Street and can you share it with Juan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Can you share the location of the ANZ Stadium with Harold?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "OK, can you share the location of 30 St Mary Axe (The Gherkin) with Ashley?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Now I'd like to share a location with my friend Anna. Can you send her the address, it's 1460 Halford Avenue.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Can you share the location of Arte Carrillo Gil Museum with Nathan?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Thanks again. Would you mind sharing the location of the 9/11 Tribute Museum with Natalie please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Can you share the location of Orly International Airport with Matthew?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Could you share the location Heathrow International Airport with Nicole?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Oh, will you share the location of Union Plaza with Matthew.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Could you share the location of Arte Carrillo Gil Museum with Eric please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location",
+    "utterance": "Ah, can you share the address? The location to share is 1047 Lincoln Highway Suite 101 with Sarah.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes please. I want to share it with Elizabeth if possible.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Please share the address with Benjamin.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Perfect. I would like it sent to Joyce.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "ok thats good. I wish to share it with christopher.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "The address is correct and I want to share it with Deborah.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Sounds very good.Share it with Katherine.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "I'd lik eto share it with Emma",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "That sounds good and I wish to share it with Gerald.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "That sounds fine. I would like to share it with Olivia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes, I'd like to share it with Matthew.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes, the address is correct. Share it with Alan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Please share this with Carl.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "I want to share it with Madison, she's going to meet me there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes, that's the one. I would like to share it with Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yep. Share it with Gerald.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "That is correct. Please share it with Andrew.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yep. Share it with Donald.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes, that location. I want to it with Beverly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes please, share it with Heather",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes. Please share this with Patricia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes, that's correct. Please share it with Louis.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes. Actually, I'd like to have it sent to Brittany.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "AFFIRM_INFORM_contact_name",
+    "utterance": "Yes, that's right, please share it with Raymond.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Share Port Authority Station with Samuel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "The person I want to share the address with is Walter, and the address which I want to share is Fresno Station.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I want to share it with Timothy the address 360 CHICAGO.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I need to share the address of 2190 Bancroft Way and to share it with Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I want to share the address Apsley House with Victoria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Actually share the location of Union Station, specifically with Linda.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I'm sorry, I need to share the address 120 Marina Drive with Carolyn.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Please share the location of Angels Flight Railway with Jessica.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I'd like to share 30 St Mary Axe (The Gherkin) with Kimberly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Please share the location for Heathrow International Airport with Richard.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Share the location Toronto Pearson International Airport to Paul.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "No. Share the address Pacific Central Station with Heather.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Share the location of Bethesda Terrace with Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Please share the address 1599 Sanchez Street with Brittany.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "No, share 16 Mint Plaza with Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I want to share the location 16 mint plaza with sharon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "KLIA International Airport, yes. Please share it with Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Share the location 30 St Mary Axe (The Gherkin) with Emily",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I want to share the location PHL International Airport with Nicholas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I would like to share the location 1355 Broadway with Jacob.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Please share the 16 Mint Plaza address with Alan.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I'll share Gatwick International Airport I'd like to share it with Jean.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "The location to share is 640 Hegenberger Road. I'd like to share it with Samuel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I would like to share Big Apple Circus with Lori.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Please share the address 30 St Mary Axe (The Gherkin) with Thomas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Share SFO International Airport with Denise so she knows where it is.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "The name is Deborah. Share with her PHL International Airport address",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I'd like to share 5945 Almaden Expressway #150 with Judy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "The location for sharing is 25 East 1st Street, and the person to share it with is Evelyn.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "No, I want to share the address 1888 Solano Avenue with Maria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Send the location to Kevin please. The location to send him is the Air And Space Museum.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I want to send the address to Denise but I want you to send her the address to the 9/11 Tribute Museum.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "I like to share the address Grand Central Station with Julie.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "The address I would like to share is 16250 East 14th Street, and the person with whom I want to share it is Brittany.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_contact_name_INFORM_location",
+    "utterance": "Share O'Hare International Airport with Jennifer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you please share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you also share their address?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Thanks for help. and also help me to share the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Actually yes, because you can share the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Ah, can you share the address?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Ok, great!could you please share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Wait, I'd like to share the address.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you please share the location with someone?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "OK cool, now can you share the location",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "That is very nice and thanks. Now I want to share my location for which I need your help.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Could you help me share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you share my location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Great. Now will you share this location for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Could you share the location too please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Ah, can you tell me the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Thanks. I just want to share the location now.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Oh ok. can you please share the location",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Could you share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Uh, actually, will you share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "could you share the location of the salon?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Oh, can you please share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "I also need to share a location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "For now can you share a location",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Would you share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you share a location please",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Yes please share the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "I also want you to share a location with someone.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Great, now will you share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Please send an exact point on the map where I am getting the rental.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Yes, could you share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Yeah can you share the location please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Would it be possible for you to share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Ah, can you share the address?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "I want to share the Play's location with someone.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you share the location with somebody else for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "I want to share the location",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Please share the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you share the location with somebody?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "And can you share the location with someone?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Now I want to share the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Okay, thank you. I want to share a location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you also share the location with somebody?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Could you share the location please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you share this location for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Would it be possible for you to share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Would you share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Wait, I'd like to share the address.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Share for me please the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Can you please share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Okay, can you also share the location?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation",
+    "utterance": "Okay, I want you to share the location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Share for me please the location with Eric.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share that location with Joyce?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "I want the location shared with Doris.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Could you share the location with Melissa too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Where is it? Share it with Philip.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Thanks, I need to share the location as well. With John please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Thanks for your help. Now I want to share the location with Noah.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Share the location with Stephen.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you please share the location to Amy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share the location with Christopher?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Please share the address to my friend Walter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Oh, and I would like the location shared with Roger. Can you do that?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Yes, I want to share the address with Kyle.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Please share the location with Joseph.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Play, can I share this location with Henry?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Yes, I want to share a location to Olivia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Share the location with Thomas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Please share the location with Walter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share the location with David",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "I want you to share the location with Jose.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Wait, please share the address with Noah.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share the location with Frances?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Please share the location with Theresa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Share that location with Dorothy.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share the location of that with Helen?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Please share the location with Victoria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "I want to share a location to Barbara.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "I want to share a location with Douglas?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "I want to share the location with Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share this location information with Amanda?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Yes, I'd like to share the location with Robert.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "I'll need the location to share with sophia",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Yes, can you share the location you just found for me with Jennifer please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Could you share the location with Lisa please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share that location with Andrew please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "I want Thomas to know about it share the location with him.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Can you share the location with Margaret?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Is it possible for you to share the location with Emily?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Please share this location with Philip.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name",
+    "utterance": "Oh yeah I want to sen that information to Charles.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging"
+  }
+]

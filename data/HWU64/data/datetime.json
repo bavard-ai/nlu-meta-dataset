@@ -1,0 +1,584 @@
+[
+  {
+    "intent": "convert",
+    "utterance": "change this time zone to wasington",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between eastern time and pacific time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "change the time zone from irish time zone to moscow time zone",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "when it is nine in the east what time is it in the west",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "i need you to convert nine am cst to est time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "set timezone",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "please convert the time of here at nine pm to brasil timezone",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it is four pm in missouri what time is it in london",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "tell me the time in someplace",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it is six am here what time is it in tokyo",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "when it's ten pm here what time is it in brisbane",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "change mountain standard to pacific",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert eight thirty from gtm four hundred to g. m. t. five hundred and thirty",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "please convert nine am cst to est time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "it is five hundred and forty five am in liverpool what time is now new york",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it's ten pm in california what time is it in alabama",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert new york time to london",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between here and japan",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between my location and hong kong",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert two thousand three hundred and thirty from g. m. t. plus four hundred and thirty to g. m. t. two hundred",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what time is it in someplace when it's sometime in otherplace",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "now it's five hundred and thirty pm in india what about the time in ivory coast",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "five hundredth",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "can you change my timezone to central",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between new york and lagos",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time in india when the time in us is twelve pm",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert current time from ist to est",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "it's eight at night in france what time is it in new york",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "how many hours difference is hong kong from new york city",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "it is nine here what time is it in california",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time nine am cst in est",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert time zone",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "eight am in manila is what in new york",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "how hours distance is between my location and new york",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "the time difference between lagos and new york is what",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "please change timezone to india",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "it is ten am in eastern standard time what time it is now it pacific standard time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it's sunrise in stockholm what time is it in okinawa",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "tell me the time in g. m. t. plus five",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it's five am in berlin what time is it here",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert time zone to ist",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "change my clock to central time zone from my current zone",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "time difference between uk and us",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it is noon in virginia what time is it in california",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert one thousand and thirty from g. m. t. plus two hundred and thirty to g. m. t. zero hundred",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "switch to <unk> time zone",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between pacific and central",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert one hundred and two from gtm four hundred and thirty to g. m. t. one hundred and thirty",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert two thousand one hundred and thirty from gtm four hundred to g. m. t. four hundred and thirty",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "can you change my timezone from central time to pacific",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what time is twelve pm eastern time in pacific time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "eight am manila time is what in eastern time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "seven hundredth",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it's eight pm on the east coast what time is it in sacramento california",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it is twelve hours ahead of eastern standard centaur time what's the time in the philippines now",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "it is seven am in pacific standard time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "can you tell how many hours of difference are between boston and los angeles",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert current time from g. m. t. to est",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "change the time zone from washington to new york",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "switch to los angeles time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "set the time zone to g. m. t.",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert seven hundred and thirty from g. m. t. three hundred and thirty to g. m. t. plus four hundred",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time at singapore when or time is five pm",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "please change timezone to canada",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "it's eight fifty five here what time is it in england",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "how much later is new york than la",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert g. m. t. to ist",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "how many hours difference is there between london and new york",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "six hundredth",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is time now in japan compared to usa",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between central and eastern",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what time can i call from pennsylvania and it will be business hours in australia",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between eastern and pacific",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between california and michegan",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between india and ivory coast",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "given it is four hundred and thirty five pm in london what time is it in melbourne",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert eight am manila time to new york time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "which time zone are we in please change to current",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if i was in the eastern time zone what time would it be",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between here and there",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "change the time in this location to ist",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if i call mike in california at six pm what will his time be",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "time zone between india and us",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between eastern and pacific time zones",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "time between us and canada",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "please can i know what time will it be at six pm here in australia",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "if it's midnight in colorado what time is it in munich",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "change this time to ist",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "can you convert my time zone to the timezone i'm currently in",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert usa time in to indian time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "i need the time zone from london england instead of central time zone",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what time will it be locally at nine am bangalore india time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what the time difference from here to ottawa",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "convert eastern time to western time",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what is the time difference between california and new york",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "can u please change the timezone to us",
+    "origin": "HWU64",
+    "domain": "datetime"
+  },
+  {
+    "intent": "convert",
+    "utterance": "what's the time difference between here and queensland",
+    "origin": "HWU64",
+    "domain": "datetime"
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, Please check my account balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, thanks. Could you please check m y balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now. Please check my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Possibly, but could you check my balance first?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not yet. Let me check my balance first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not right now. Can you check my bank balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "I don't know, maybe later. Pull up my check balance please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Eh, what's my bank balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not just yet. Can you also check my account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "I'd like to check my bank balance first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not now. First check my account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now. Can you help me checking my account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, thank you. Buy can you tell me my account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Maybe later. I would like to check my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "I might buy them later. Can you also tell me my bank balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now. Check my balance first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not at this moment. Would it be possible for you to check my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No thanks, not yet. Could you check my bank balance for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now. Can you check my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right now. How much do I have in my account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No.Check my balance if you can.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Check my account balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right now. Could you first check my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, I need you to see if I have enough money. check for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right now, perhaps at another time. I would like to check my account balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now; maybe later. Can you find my account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not right now. I need to check my bank balance please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, thanks. I would like to check my current account balance",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right away. Please help me check my balance first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, you may not. I need a balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Maybe at a later time. I need my balance checked.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "I don't want for now. Can you please check my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, tell me my balance instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not now, please check my balance amount.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not now. Can you check my bank balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not now.I need to check my account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "I don't want to buy tickets now. Can you please tell me my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, thanks. Can you check my bank balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not right away. Let's see if I have enough money first. Please check my balance for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now. Can you see how much money I have?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No but could you check my bank balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not at this time. I want to know my bank balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right now. Check how much money I have.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "I'd like to check my bank balance first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Let's do that later, tell me what my balance is?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "That's okay for now. I would like to check my bank account balance though please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, thank you. Can I see my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, maybe later. Can you check my bank account balance right now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, not yet. Can you check my bank account balance first?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now. Please check my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Later on. Can you confirm my balance ?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No. Not at this time. However, can you please check my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right now, I need to check my balance",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now. What's my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Later possibly. Can you check my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "No, I don't want tickets. Can you tell me how much money I have?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not now, can you check my bank account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "I have to check my balance first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not yet, check my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Um, let me get back to you on that. I need to know my bank balance first. Check it for me please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Please check my balance first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right now, I'm not sure if I have the money. Can you check my balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Some other time. I would like to check my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_NEGATE_INTENT",
+    "utterance": "Not right now, can you check my balance please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not now. Can you check my checking account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not at the moment. Can you please check the balance of my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Nope. Not now. Could you please check my balance in checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "will decide later before that please check the balance of my checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Maybe later. Check my checking account and let me know my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Do I have the cash? Whats in my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not now. What my checking balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "I am not sure how much is my money. Can you please check my checking account first?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not sure I can afford it. What's my checking account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not right now, thanks. I would like to know the balance of my checking account though please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No hold off and check my balance on checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, I don't want to by tickets right away. Please check the balance in my checking account, first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, maybe later. Can you first check what my checking account balance is?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not right now. I would like to check my balance for my checking account though.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, Not now, please check my Checking account balance",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, not now. Can you check my checking account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Later. Will you check the balance of my checking?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not right now, for now I just want to check my checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Maybe later, right now I need to check the balance in my savings account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, not now. What is the balance in my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not right now. Can you check the balance on my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, not now. Please find my checking account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "not now, First tell me my checking account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No I don't want to get it now. Can you check my balance in checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not right away, I need to confirm how much money I have, first. Could you please check the balance in my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not at the moment. Just tell me how much money I have in my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, not for me. Give me checking balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, I'm not ready to buy tickets just yet. Can you please tell me my checking account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, thank you. I would like to check my balance for my checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No. Can you please check my checking account balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "I don't. Can you check the balance of my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "No, not at the moment. Can you please check the balance of my checking account?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_CheckBalance_INFORM_account_type_NEGATE_INTENT",
+    "utterance": "Not right now. Can you see how much I have in my checking account first?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Events"
+  }
+]

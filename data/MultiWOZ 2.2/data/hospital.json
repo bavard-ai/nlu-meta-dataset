@@ -1,0 +1,632 @@
+[
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "awesome, thats all, see you!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "What is the address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "I need the address also please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Thanks, what's the address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "What is the name of the hospital and the address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Thank you. Could you please get me the address for the hospital?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "I don't need the phone number. I just needed the address. Thank you for your help.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Can I get the address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Can I have the address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Can I have the address please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Thank you , could you provide me with the email address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Can I please have the address as well?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Yes, can I have the address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Thank you, could you please provide me the address for the Addenbrookes Hospital.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Thank you, may I have their phone number and address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Can I have their address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "If you could give me the address, that would be great!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Thanks. Can I get an address as well?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Request_address",
+    "utterance": "Can I please have the full address of the hospital as well as the postal code?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Just to clarify; the hospital does have an infectious diseases department, correct?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I would like to find a hospital with a diabetes and endocrinology department please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Am injured and are looking for a hospital nearby it should have the infectious diseases department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Hello, I need a hospital please and make sure it has a medical decisions unit, if you will.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Do they have a children's oncology and haematology department?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i am looking for the Addenbrookes Hospital with acute medical assessment unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Hi, can you tell me the details of local hospitals? I'm looking for a hospital that has the Cambridge eye unit department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for the Addenbrookes Hospital with hepatology department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Does the hospital have a transplant high dependency unit?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Does the Addenbrookes Hospital have a psychiatry department?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i got injured and are looking for the john farman intensive care unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Can you find me a hospital with a gastroenterology department around here?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Does Addenbrookes Hospital have a neurosciences department?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need the surgery department of the Addensbrookes Hospital.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need to find a hospital please with a infusion service department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i need a hospital with a intermediate dependancy area department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Hey I'm looking for the Addenbrookes Hopistal. Please make sure it has the medicine for the elderly department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I've been injured and I need a hospital near me, one with a coronary care unit department please!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I have been hurt, I need to find a hospital nearby, and I need one with an infusion department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am injured and need a hospital with a cardiology department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for the Addenbrookes Hospital. the hospital should have the infectious diseases department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Where's the closest hospital with a paediatric intensive care unit?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i am looking for a nearby hospital with the neurosciences critical care unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Yes, I need a hospital with a hepatology department please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i am looking for the Addenbrookes Hospital with emergency department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I'm looking for a hospital with a gynecology department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i am looking for a hospital with a eurology department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I've been in an accident and I'm hurt. I need the closest hospital with a teenage cancer trust unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need to find a hospital in town. It should have a children's surgical and medicine department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Hi, I am looking for a hospital that offers medicine for the elderly",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Does the hospital have the truama and orthopaedics department?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i am looking for the Addenbrookes Hospital with itermediate deoendancy area department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i am looking for the Addenbrookes Hospital with neurology department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for the Addenbrookes Hospital.It should also have a respiratory medicine department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need to find a hospital nearby that has a hepatobillary and gastrointestinal surgery referral center",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Please connect me to a hospital with an emergency department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "where else could i possibly find the department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "can i get a hospital nearby which has a haematology day unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for the John Farman Intensive Care unit of the Addenbrookes Hospital.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for the Addenbrookes Hospital. The hospital should have the paediatric clinic department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for the Addenbrookes Hospital, this hospital should be the one with an infectious diseases department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Help, I injured my eye! I am looking for the nearest hospital with the cambridge eye unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I got injured and I am looking for a hospital nearby. the hospital should have the acute medical assessment unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for a hospital in town with a cardiology and coronary care unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I want to find a hospital in town. The hospital should have the neurology neurosurgery department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need a hospital that have a pediatric day unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for Addenbrookes Hospital. Does it also provide acute medicine care for the elderly?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Is there a hospital in Cambridge that has a plastic and vascular surgery department?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking in town for a hospital with a paediatric clinic",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I'd like to find a hospital please, it needs to have an antenatal department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am injured I need a hospital that has the cambridge eye unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am looking for a hospital in town.It should have the intermediate dependency area department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Hello! I need a hospital with a oral and maxillofacial surgery and ent department please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Am looking for hospital in town it should have the trauma high dependency unit department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Am injured and are looking for a hospital nearby it should have the neurology neurosurgery department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need a close hospital with an acute medicine for the elderly unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Hello, I'm looking for a nearby hospital that has inpatient occupational therapy. Can you help me with this?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "i am looking for a hospital with a eurology department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am injured and need to get to a hospital that has a pediatric clinic.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I got injured and need directions for the clinical decisions unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I got injured and are looking for a hospital nearby it should have the teenage cancer trust unit department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Does it have a neonatal unit?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need to find a hospital in town with a cardiology and coronary care unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Thanks, do they have a children's oncology and haematology department?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Which department should I contact for a sprained ankle?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Is there a local hospital that has a cardiology department?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need a hospital with an antenatal department, please find one for me.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Am hospital in town that should have the children's oncology and haematology department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I'm looking for the Addenbrookes Hospital and need to contact the haematology and haematological oncology department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I'm looking for the Addenbrookes Hospital with a haematology day unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I got injured and I am looking for a hospital nearby. The hospital should have the clinical research facility department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need the paediatric clinic please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Hi, I'm trying to find Addenbrookes Hospital and they're supposed to have a medical decisions unit department, right?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Can you verify that the hospital has a transplant high dependency unit?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Am injured and are looking for a hospital nearby it should have the children's surgical and medicine department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Yes I need to know if they have a gastroenterology department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "The hospital should have the neurology department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need to find a hospital with a teenage cancer trust unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "Am looking for the Addenbrookes Hospital it should have the respiratory medicine department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "the cambridge eye unit department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I'm hurt and I need to find a hospital. Oh, and one with an oncology department!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I want to find a hospital in town. The hospital should have the hepatobillary and gastrointestinal surgery regional referral centre department",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am trying to find info for the Addenbrookes Hospital gastroenterology department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I need to find a hospital with an emergency department.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am in need of a local hospital please. And it must have a oral and maxillofacial surgery and ent department!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  },
+  {
+    "intent": "Hospital-Inform_department",
+    "utterance": "I am trying to find a hospital that has a transplant high dependency unit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "hospital"
+  }
+]

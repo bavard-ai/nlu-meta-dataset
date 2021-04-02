@@ -1,0 +1,1802 @@
+[
+  {
+    "intent": "traffic",
+    "utterance": "how is the traffic on i twenty five",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any detours that i need to know about",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the traffic like this morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "may i know the traffic situation",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the traffic like today",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there any traffic downtown right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "current traffic conditions",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "check the traffic to our home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "traffic please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "in whole india traffic level is very high",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "traffic report",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how is the traffic on harvard",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the traffic like right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there any construction on route sixty six",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "qwetqwtwqt",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the traffic condition of florida",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there any traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how is the traffic around city center",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there any traffic right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "show traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "jam",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what's the traffic situation from kamycka to dejvicka",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how is traffic from work to home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what amount of traffic in this road",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any backups on route eighty today",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what does i seventy five look like",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "tell me current situation of traffic near central park road",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how is my commute",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "traffic alert",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how will my drive me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what about the newyork city traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "fast road to get home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how's the traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any traffic delays",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there a traffic jam on my route",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how much traffic does atlanta georgia usually have",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "latest news on traffic at my current location",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the fastest route to town",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how's the traffic downtown",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "outside traffic status please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any roadblocks",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any traffic restrictions due to the president's visit",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "will traffic be good when i leave in five minutes",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any accidents on harvard",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "in jaisalmer traffic level is less",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "whats the traffic density in",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how heavy is the traffic on the i fifteen in las vegas this hour",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "can i make back home without a traffic jam",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how's are the roads looking right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there is a high traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is the traffic bad enough that i should leave early",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there traffic right now in maiden lane",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how bad is the traffic on sunset boulevard",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how heavy is traffic now in denver",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any traffic issues",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is level of traffic at washington",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how is the traffic in mg road",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "in jodhpur traffic level is very low",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is it bumper to bumper",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "give information about the traffic near my location please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there are any delays on my commute",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is traffic to work now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what are the traffic conditions on the one hundred and one",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there any traffic to work",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the current traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is it possible to drive now in ohio",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is traffic like right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how long untill i get home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "which place has more traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what's the traffic on eighty today",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what the traffic condition outside my office",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the traffic like",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any accidents on the four hundred and five",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is the road a free way or a toll road",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "give me current information about traffic at central park road",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how is traffic in city",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the current traffic situation",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how much traffic is there right now in bowery street",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "can you tell me the current traffic condition of my location",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the traffic situation right in broadway street",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "could you please check the traffic to our home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "tell me the traffic condition from here to home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there any traffic on my way to work",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what's the traffic this morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is traffic light",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "please give me the road forecast for sb",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how bad is traffic this morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "system pull any traffic news for my commute",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "please check the traffic to the home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "tell me about city traffic",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "are there any construction areas on harvard",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what does the traffic look like on my usual route to work",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there any stopped traffic on eighty today",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "how long will it take me to drive to work today",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is there heavy traffic on the i fifteen in las vegas right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "what is the traffic this morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "is the road in some particular area wide or narrow",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "traffic",
+    "utterance": "in jaipur traffic level is high",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "get me a taxi to take me to the airport on friday at five hundred and thirty am",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "open the uber app and get me a car please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call to the customer care",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need a uber to my current location",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "please reserve an uber right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "request a taxi from udrive service",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need a taxi to go home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need a ride in an hour",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call city cab to airport",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "using my apps",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "send golden taxi to pick me up as soon as possible",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "get me an uber please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "google uber",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "can you book an uber after i left for office",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need to get to location call a cab",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "find an uber on twenty ninth",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call a cab",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "can you get me a taxi home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "help me find transportation to the mall of america",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book me a taxi from <unk> to xxx destination",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "open lyft",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "flag me an uber for ten pm tonight",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need to book a taxi",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call a taxi",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call me a cab to the trainstation",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book me a taxi to leith in half an hour",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call yellow cab",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call golden taxi to pick me up at seven pm today",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "can you call a taxi",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book an uber to la cinemas in one hour",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "get me a taxi to the airport right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book a taxi to start from here",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "uber",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call a taxi to pick me up at work",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "request an uber now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "check in a taxi for booking",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call me a taxi",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call a taxi for me to arrive tonight at five",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "schedule me a taxi for after my thursday meeting",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "please book a taxi for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "find a taxi for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "uber me to the airport",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "find an uber that can get me to the airport now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call me an uber to the movie theater",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "could you please have uber be at my house in fifteen minutes",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "find me a ride to the mall of america please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book me an uber",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "schedule an uber in twenty minutes to tesco on fifth street",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call an uberpool to get me at long island bar",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "uber please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "could you please hire me a taxi to go to the opera tonight",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book a taxi to the airport",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "need a taxi tomorrow at eight in the morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book me a taxi to the mall of america please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "set up a taxi for eleven am tomorrow",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need a ride home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "find transportation to la <unk>",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "please book me a taxi uber",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book uber from my home",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call me an uber for right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "taxi now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book uber taxi for my travel",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "find me an uber",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "please reserve the next taxi a nine am",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "can i get a taxi to come to my house in an hour",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call taxi",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need a cab in thirty mins",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book me a uber for tomorrow night at six pm",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i am going to chinatown in half an hour book an uber for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book me golden taxi for today at five pm",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "open uber and book a car for twelve o'clock",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "check all cab companies and get a time booked for three pm",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call a call for me to where i am currently located",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book an uber to the nearest mall in the next half hour",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book me a taxi",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "what is the number of the closest taxi company",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book an outstation cab of ola",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i am in need of a taxi right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book a taxi to pick up shelley hennessey at gate four of the airport for the arrival of aa flight five thousand four hundred and thirty one at three hundred and twenty one on friday",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "send an uber to me right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "get me the number for local taxi service",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book a cab to office for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need a taxi for [date : tomorrow] at seven pm to the arena",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book a taxi for tomorrow morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "can i get an uber home from the fo <unk> downtown as soon as possible",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "call a taxi to pick me up right now",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "just book for me a lyft taxi to bardonia",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "need a taxi for my travel",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "i need a taxi to take me to the airport please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "can you book me a taxi",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "open uber",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "send a taxi to come pick me up from my location",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "please book a taxi for me to go to the railway station",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "tell taxi to pick me up at four pm",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book ola for airport today evening",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book a local cab",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "find an uber driver available for tonight after ten pm",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "please send a taxi to my house",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "please call a taxi to arrive at four hundred and take me to the manor theater",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "taxi",
+    "utterance": "book a taxi to airport for me in the evening",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i want you to book a train ticket for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ticket for this afternoon to chicago",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a ticket for today in irctc site for the stored information",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "find me train tickets",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need to leave on the five pm train to rockville",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book ticket for <unk> by train",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a ticket for the ethan allen express to vermont",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ticket in any train to bombay for tommorrow",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "find me a train ticket to",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "purchase train ticket",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please purchase a train ticket for this weekend",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "secure train passage for me on july three",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book for me a train ticket to california",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "set me up with a ticket for the five pm commuter to rockville",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ride covering five destinations to see in new york",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i want to book a train ticket",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "google i need one train ticket to new york can you book that for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "can you book a train ticket for my mother",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book my train ticket from las vegas to los angeles",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "can you book a train ticket to berkeley for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "can you reserve a train ticket for this day",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please book a train ticket from london to manchester",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "schedule a journey to las vegas by train",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a return trip from edinburgh to london by train",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "bullet train from tokyo to hokkaido under three yen for next weekend",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i want a train ticket to oregon",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a plane ticket to",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "best ticket price air plane bus to city <unk> on date y",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "find train ticket",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ticket to chicago for tomorrow morning before ten",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please book train ticket from mumbai to sangli for tommorow morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "find a train ticket to philadelphia",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "get me two train tickets from where i am now to dallas arriving before dark",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "reserve a seat for me on the train march twentieth",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket to new york",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "id like to get on the next train that will be departing indianapolis headed to chicago",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "confirm a travel ticket to german",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "go to wwwmetronorthcom for train tickets",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ride",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a first class ticket in the next train to miami",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need a gold class ticket on train no <unk> using my credit card",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "find me a train ticket to boston",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need a train ticket for today to chicago",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ticket to atlanta please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ticket to barcelona please",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book train ticket to ny",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket with a berth seat to lucknow for next week",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book three round trip train tickets for sunday at seven pm return ticket of next week sunday at eight am",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book train ticket for this time",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "bring me ticket of train to city a",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "can you book a train ticket",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "google train tickets to washington dc",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "hey i want to get trains to manchester on wednesday",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "purchase ticket to new york city on train",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a train ticket to new york city on the third i don't care what time",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need a plane ticket",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket from los angeles to chicago that goes via miami",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need a ticket for a train ride to atlanta",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "get me the cheapest train ticket that will get me from miami to orlando and back",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book train to la",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i want to book rajdhani train ticket from mumbai to ahmadabad",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book my first class ac ttrain icket from new york to san francisco",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please go to amtrakcom to purchase tickets",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket from canada to las vegas",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need a train ticket to",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please book a train ticket to",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "can you please book a train ticket for next saturday to boston",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket to boston tomorrow",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please book train ticket to ny",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "hellobook train ticket from mumbai to sangli for tommorow morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket for [date : tomorrow] going to new york",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "google can you book me a ticket on the train for tomorrow",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need a ticket on the train to new york city tomorrow",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "ticket for bombay",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please book a train ticket for me",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "get a me a train ticket to milwaukee from chicago on sunday morning",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "get train ticket",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me a plane ticket",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket from here to charleston west virginia at eight am today",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket for an eight am ride to charleston west virginia",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need the current dart rail schedule from west irving station to north lake college",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "could you make a train ticket for m",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "get me a ticket to boston",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "reserve a train ticket for me today to des moines",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "buy train tickets from delhi to mumbai for twenty third march",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book train ticket to ny",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "buy me today train ticket to city a",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book me the cheapest train ticket to new york",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please book the five pm train to rockville",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "order a train ticket to los angeles",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need to book a train ticket from mumbai to goa",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "find me the cheapest train ticket to spain",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "print kids train ticket for this thursday",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book my train ticket to new york",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "please order one train ticket to los angeles",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "i need a train ticket traveling to new york in may",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "time n. date",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train ticket from mumbai to goa",
+    "origin": "HWU64",
+    "domain": "transport"
+  },
+  {
+    "intent": "ticket",
+    "utterance": "book a train for twenty two march at twelve pm",
+    "origin": "HWU64",
+    "domain": "transport"
+  }
+]

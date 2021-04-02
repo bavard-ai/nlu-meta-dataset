@@ -1,0 +1,182 @@
+[
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, don't do that yet. But schedule me a visit",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, but I want to schedule a visit for the apartment on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, don't add it. I want to schedule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "Skip event addition and schedule me that visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, let's not mess with the calendar. I want to schedule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No need to add it. Please go with appointment booking process.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, avoid it, I wish to schedule a visit to apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, but let's set up an apartment visit.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No thanks. I do want to schedule a visit to the apartment though.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, I want to go to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No. Please don't add the event. I want to schedule a visit to apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No thanks. I would like to schedule an appointment to see the apartment that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No thanks. But can you schedule a visit to that apartment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No.I want now to schedule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, don't do that. But I want schedule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, don't add it, I want to schedule a viewing of that apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, not now. I just want to focus on scheduling an apartment visit right now.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, for now let's just schedule a walk through of the apartment so I can make sure it is for me before committing.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, skip that. I'd like to schedule a visit to the property.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, do not add this to my calendar, though I would like to schedule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, Now i am planning to pay avisit to the apartment",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "Don't add it, but let's schedule a trip to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, don't worry about it, I want to go see that apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, not at the moment. I'd like to schedule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, but I do want to book a viewing.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, please schedule a visit with the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, but I would like to scedhule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, I don't need to add an event. I do want to schedule a visit to that apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "No, I'd like to schedule a visit to the apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  },
+  {
+    "intent": "INFORM_INTENT_ScheduleVisit_NEGATE_INTENT",
+    "utterance": "Don't add it, but let's schedule the apartment visit.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Homes"
+  }
+]

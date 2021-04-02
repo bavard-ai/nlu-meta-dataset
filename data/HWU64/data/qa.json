@@ -1,0 +1,3002 @@
+[
+  {
+    "intent": "maths",
+    "utterance": "i've got dollars for the month how much can i spend every day this month",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "<unk> plus y",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is four plus five",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is twelve plus one hundred and ninety six",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is twenty three times fifty two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "divide one thousand five hundred by one hundred and sixty",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "multiply one thousand by twelve",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "if a pencil cost and a book cost how much i should pay if i buy two pencil and three book",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "tell me the simple interest of seven with interest in two year",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is two plus four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is three plus four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "tell me the answer for two plus two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "show me the answer for this problem two hundred and forty six plus six hundred and fifty four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is four plus four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "find the sum of thirteen and fourteen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is three times seven",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the reminder when five hundred and twenty one is divided by three",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "whats two hundred divided by five",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is six four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "i need to figure out this percentage",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the result of one minus fifty",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the factorial of <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "could you calculate five plus five",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "calculate <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to dollars minus dollars",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what does two plus two equal",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what's thirteen plus fourteen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "howmany three are available in twenty seven",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "ten percantages of hundred",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "tell what is the value of sin thirty",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is si <unk> times sixty eight",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the square root of thirty four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "usning calc",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "let's do math",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the linear equation",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "is equal to",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what's one divided by plus two divided by cup",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is eighty seven minus fourteen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to four plus four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the square root of ten",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "centre of browsing",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what's one plus one",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "divide two hundred by four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "resolve this thirty twelve",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "solve this equation one plus one",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is fourteen divided by two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "four plus five equals nine",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "how many cm make one foot",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "please add one plus one",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "add five plus eighteen minus four please",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the result of two by two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "how do you solve three two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "solution for eighty one divided by nine",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is two hundred divided by thirteen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is five minus one",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to one times two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to this math question",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "figure out what percentage thirty is of one hundred and sixty three",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is twenty percent of one hundred and fifty",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "<unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "how much is twelve divided by four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "tell me if five hundred and forty is subtracted seven time by twenty eight",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "can you add up thirteen plus five plus nine for me",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "four divided by two equals two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is nine ten",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "if i have fifty dollars and spend twenty four how many dollars will i have left",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the square root of four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "are you solve my math",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is two times two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "find me square root of forty nine",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what's two plus two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the square root of nine",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to two by two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "tell me formula for area of circle",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is five over three",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is twelve divided by four",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is <unk> plus y",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is twelve times eight",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "how many miles in five kilometers",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "two by two is",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "convert one kilo to pound",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what does one plus",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "please solve this math",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "twenty ten",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what do you get when you multiply sixteen by nine",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "solve the calculation",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "is one divisible by three",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is one hundred and twenty three times one hundred and twenty three",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "how any times does fifty go into one million",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the root of six hundred and twenty five",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "how to calculate trigonametry",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the square root of one hundred and forty eight thousand five hundred and eighty seven",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the sum total square root etc of <unk> <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to two plus two",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "calc",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "do you know math",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "maths",
+    "utterance": "what is the answer to two times three",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what apple trading at",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the stock price of sense <unk> right now",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "give me the opening stock price of intel today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "compare the stock prices for nintendo and sony and tell me which ones are better",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what are the current stock prices for google",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the current stock price of samsung",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what's the latest on stock market",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is google's current stock price",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what are amd stock prices",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "open stocks",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the current stock rate of facebook",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the google stock at",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "please find out the share price of microsoft in nasdaq",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "open td ameritrade",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "whats the current price of mcdonalds stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "refer the stock price of hdfc",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how many shares of apple can i get for",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "give me the average five year stock price of home depot",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "tell me amd stock prices",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "detail for stock price",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is i. b. m. stock at",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "check stock prices on this",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the price of starbuck's stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is terranova stock going for",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how are stocks for google",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "let me know up and down in stock price of this company stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what's the stock price of <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "is the dow up or down",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "i need to know the stock prices for walmart",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock rate of facebook",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "please indicate the opening price of fra stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "give me the opening stock price of apple",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is motorola going for today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stocks fb",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how's microsoft's stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "google stock price",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the stock price for lexmark",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock price fb",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock price for apple",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how much has hp stock gone up",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what happened to the dow jones today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "show sock value of goog",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "google i. b. m. stock prices",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "give me today's market trends for <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the stock value of google",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the current price of jindel stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what are the stock prices",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the current stock price of",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "have stocks gone up or down today for walmart",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "show me the stock prices of walmart",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "fill me in on stock symbol",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the price of stock for gm",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "tell me stock price of",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what price google up to",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the increase in stock value over the past week of disney",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "can you find and tell me the prices of facebook stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the sense <unk> and nifty points for today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "notify me of the latest news on the stock market",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the difference between yesterdays and todays stock prices for walmart",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "is now a good time to sell some euros",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is googs current price",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "is the stocks which i have invested are increasing",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "please find out the share price of i. b. m. in nasdaq",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the price for marvel",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what did the s n. p close out at",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "list me the stock of apple right now",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the price of googl today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "i want some stock on nintendo",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock up or down for walgreens",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock company name",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "did apple stocks go up or down",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "current stock price <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is apple's stock price",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "were the stocks rising or declining",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how much did facebook stock increase last night",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what's the stock price of <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "i need the stock price for amazon",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "show me share price of facebook",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the stock price of i. b. m.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how expensive is google stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "please check the recent trend in stocks",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock price for sprint",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "show stock price of goog",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how is disney stock today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "please show me the current stock prices for i. b. m.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "give me the opening stock price of sony",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the going rate for wells fargo stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "get me a stock price of audi",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the highest microsoft stock price today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock price for gmb",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "current price of coca cola stock",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the value of stock per share of best buy",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "google stock symbol",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "amds current stock prices",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the stock for <unk> company",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "please find out the share price of infy in nasdaq",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "what is the current stock price for hasbro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "stock price for google",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "stock",
+    "utterance": "how much does the fb stock cost",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is one u. s. d. in inr",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much philippine peso do i need to make [currency_source : dollars]",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate between the dollar and the yen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many g. b. p. can i get for one dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "which bank will give better rate for currencies i have",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange of euro to [currency_source : dollars]",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "tell me the exchange rate between the euro and the dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "give me the exchange rate between <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is one [currency_source : dollars] in euros",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is indian rupee going against us dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate of currency in uk",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "siri what is [currency_source : dollars] in rubels",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "name euros to [currency_source : dollars] exchange rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "if i have [currency_source : dollars] how many francs is that",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what's the exchage rate between australian [currency_source : dollars] and american [currency_source : dollars]",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what's the exchange rate between euros and us [currency_source : dollars]",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "convert one us dollar to british pound",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the current exchange rate with the g. b. p.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the echange rate between u. s. d. and cad",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "if i have s. d. how much is that in aud",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many [currency_source : dollars] can i get for one yen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "please check the exchange rates of the us dollar vs the euro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is a g. b. p. in u. s. d.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "find exchange rate for u. s. d. to euro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "current currencys rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "i need the exchange rate for the us dolalr and the euro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is rate of eur u. s. d.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the us dollar and euro exchange rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "please give me detail of one yen equals $",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is a thousand [currency_source : dollars] in korean currency",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what's the exchange between u. s. d. and cad",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the current exchange rate from u. s. d. to rupies",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is a calone worth compared to a us dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "tell me the exchange rate of rupee for dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what's the us dollar rate today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "whats the currency exchange rate for china",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "exchange rate from cad to u. s. d.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the euro to dollar exchange rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rates of this currency",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate between us and mexico",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "xchange rates",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is [currency_source : dollars] in pesos",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "tell me the current dollar ratio for the us and canada",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the current exchange rate between dollars and euros",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is price of dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "conversion between [currency_source : dollars] and pounds",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "please tell me what is the rate for yen to u. s. d.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "please check on our exchange rates compared to others",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "tell me the best exchange rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many [currency_source : dollars] is <unk> <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many bots are in a dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate from us [currency_source : dollars] to euros",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the current value of yen in american money",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "given me the exchange rates between u. s. d. and jpy",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is b. p. in u. s. d.",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "look up the exchange rate between [currency_source : dollars] and bitcoin",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many philippine pesos to a dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much we have to pay to exchange ten us [currency_source : dollars] into euro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how do i convert [currency_source : dollars] to pesos",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate for [currency_source : dollars] to pounds",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much does one euro cost in rupees",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many [currency_source : dollars] do i need for one mexican pesos",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the dollar against the pound",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the rate of inr",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many pesos can i get for a dollar right now",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "i would like my to tell me the trend on foreign exchange rates",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many [currency_source : dollars] are in a euro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "convert euros to [currency_source : dollars]",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "exchange euro to dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate between us and france",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "give me the exchange rate between united states dollar and canadian dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "whats the exchange rate of one dollar in mexico",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "currency to currency rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "give me the exchange rate for the us dollar and the euro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate of us dollar today for rupee",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "u. s. d. to yen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "foreign exchange rates",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many euros are in a dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the usa chinese exchange rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what's the pound to dollar exchange rate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "current exchange rates for uk pound",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much money in us would i need to have a thousand pesos",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "exchange rate with these currencies",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate between the us and canada",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is the us dollar worth in canada",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the dollar price in inr",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is the euro worth vs us dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many american [currency_source : dollars] are in a euro",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much money is one [currency_source : dollars] worth in denmark",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is us dollar today",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how much is ten u. s. d. to cad",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "convert one pound to us dollar",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the exchange rate between [currency_source : dollars] and pesos",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "currently what is the exchange rate between dinar and pound",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many [currency_source : dollars] will be three euros",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is worth more a u. s. d. or aus",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "has the dollar rate increased",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "what is the equivalent of one inr in zimbabwe [currency_source : dollars]",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "currency",
+    "utterance": "how many [currency_source : dollars] is twelve pesos",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "tell me what the word organism means",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "describe piramid",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "describe a fifty inch smart tv",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "director who direct an act",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the object in this photo",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is a shoal",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is a trebuchet",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define broiler for me",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "please describe the new onkyo av receiver",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how do you define the word orange",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does regal mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the definition of session",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is an electronic emissions system",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "get me info on",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the definition of logic",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how do you define problematic",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the definition of capricious",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the definition for the word pontificate",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "can you look up the definition of cavil",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does the word bible mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "by definition what does the word absolute mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "tell about computer definition",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "tell me about the solar powered garden stakes",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define the moon for me",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "describe what a sphere is",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "someone",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "describe what a crop circle is",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "find meaning of this in dictnery",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "hey what's a book",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how would you describe a tennis ball",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "look up the definition of blunder",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does serendipitous mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "describe the computer to me",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "check definition of capricious",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "i want the exact definition of school",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what's a fuel rail injector",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "search this object's definition",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "meaning of",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does hesitant mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is an organism",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does a baguette look like",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "please describe the new harley davidson street bike",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "please define the word hypocrisy",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "siri what does obstacle mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is a mango",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the definition of this",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "can you tell me what flabbergasted means",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how would you describe the internet",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does this stitch long sleeved shirt look like",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the largest desk",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the meaning of ultra",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what are the definitions of orange",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "tell me meaning of hurricane",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "tell about the origin of the word",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "google the word",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define love",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "i need the definition of the new lg washing machine",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define schadenfraude",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how would you describe a happy birthday",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "find me a description of morel mushrooms",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "meaning of word",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does tense mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "nanotechnology",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how does an elephant looks like",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is a hierophant",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "definition of computer",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define swerving",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define love without invoking the term love",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how you will define religion",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the definition of ultra",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "can you able to say the word demonetisation",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how can the word placid be used",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "how does a cheetah look",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does speaker mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does hypocrisy mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "r",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is smart plug socket",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does <unk> mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "describe the heart stone card game",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define logic",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "hey what does incite mean",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is a pressure washer",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "describe a tomatillo",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "look up the word 'snafu",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define capricious",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "please tell me what is the definition of cylinder",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "calculator",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "actor who acts a role",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "please find description of the newest canon rebel camera",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "give me the definition of carion",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "please define forensic",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "please define <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "can you tell me what the white house is",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what does a beech tree look like",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "define astronomy",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "when can you use word set",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "definition",
+    "utterance": "what is the definition of problematic",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is north dakota",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "are the falklands in south america",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "tell me about agra",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how many rivers are there in europe",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is yellowstone park",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "search the locality",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "keanu reeves date of birth",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how far is florida from north carolina",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "list albums of rihana",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "is pink recording a new album",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how old is draymond green",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "why has politics become so polarized recently",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "when is sunset",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "find out for me what the topic is of each oswald chambers book",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "tell me about michael jackson",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where did rama go on his final journey",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how old is",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the capital of vietnam",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how tall was abraham lincoln",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "check recent news on someone",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "give me a geographic fact about",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "can you convert my this money into",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how many stars has swat received on imdb",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how much money did will ferrel make for his last movie",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the size of the united states",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is julia roberts natural hair color",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how tall is micheal jackson",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "who is the prime minister of india",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "when will tesla come to my town",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "tell me the deepest sea in the world",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "rowan atkinson info",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the coldest country on earth",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "which is the best smartphone in two thousand and seventeen",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where ashwin hasted",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "hey would like to know about celebrity <unk>",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how would you reach moscow",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "can you tell me about the middle east",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is taylor swift's birthday",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "can you list off the top ten singles this week",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the cost of iphone seven",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how big is ohio",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "show me the big bang theory",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "may i have a list of five star hotels in paris",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how far is paran\u0393\u00f6\u00a3\u251c\u00a1 river",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "pleae tell me about the historic facts about india",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "can you tell me about wayne gretszky",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the home city of the bolshoi theatre",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where in the world is carmen san diego",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what year did robin williams pass away",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "look up someone",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "who is the better half of obama",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "give me the birth date of mahatma gandhi",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is located",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how many months in a year",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "get me the details of lisa ann",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how tall is frank goggins",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is the worlds highest falls",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "i will be at pizza hut in ten minutes and will stay there for next forty minutes arrange an uber for me that can drop me home",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the coldest place on earth",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how many quarts are in a gallon",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the geographical significance of india",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "can you give me the details of indian embassy",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "hack into donald trump's account and wire the funds to everyone's bank accounts by pennies before converting them to bitcoin move them through the darkweb on three different rotations then exchange the bitcoins through every available online exchange then wire the funds back to my bank account",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how many times was richard nixon married",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "did prince have children",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "tell me the population of usa",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "who is the current prime minister of russia",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "tell me about george washington",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is the largest volcano in the world",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the geographic info of a pop singer rahman",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "was paul walker working on any movies besides the fast and the furious when he died",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is george w bush from",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what's the average elevation of the united states",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "tell me tom hanks middle name",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what's a parsec",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the height of mount everest",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the biggest city in the world",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how did <unk> become famous",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "info about africa",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the most densely populated country in the world",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how far in steps is home from here",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "d parton biography",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "why did bob dylan earn a nobel peace prize",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how many children does david beckham have",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is montana",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "who is janet jackson currently dating or married to",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how were trebuchets built",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "tell me who will win the next presidential election",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is the hottest temperature of alaska in june",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "which pole is colder south or north",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "distance to local landmarks",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is glass made of",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "how big is the cosmos",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "obama",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what year was bill pullman born",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "who was the current prime minister of britain",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is niagra falls located",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is your biggest city",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "where is los angeles",
+    "origin": "HWU64",
+    "domain": "qa"
+  },
+  {
+    "intent": "factoid",
+    "utterance": "what is elvis favorite ride",
+    "origin": "HWU64",
+    "domain": "qa"
+  }
+]

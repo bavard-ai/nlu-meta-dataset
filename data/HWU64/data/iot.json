@@ -1,0 +1,4916 @@
+[
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "i want the lights turned off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off lights in all bathrooms",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off left side lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off light in bedroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "put out the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "kindly switch off the light in the drawing hall",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "could you turn off light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the lamp in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off lights in kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "switch off the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "close the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the lights off in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "shut down the garage light and set the den light to orange please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "no lights in the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off the light of the bathroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you make the lights go out",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "it's too bright in here can you turn a light off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the light of my bed room please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the shed light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off kitchen light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn house lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off one light on porch",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off all the lights in my house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you turn off one of my lights in my bathroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you turn off the living room lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you turn off kitchen light for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "by main power off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you shut everything down",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the kitchen lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please trun off middle light of room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you make sure the kitchen light is off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off bedroom light at nine hundred and thirty pm",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "bedroom light off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "hey turn off the light please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "switch off main light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the upstairs lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "during the daytime all lights has to be turned off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you turn my bedroom lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the light in the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "bed room two lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "time constrain",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off all the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off lights of kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "switch off the master's bedroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the light in the bathroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "switch the light off in bedroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "cut the lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please shut the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off all the lights in the living room and den",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "put off the livingroom light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "kitchen light off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "sandle",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn lights off in living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off the light of my son's room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the bedroom lamp",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off all the lights outdoor",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "shift the light off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the lights off to my room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn lights in the room off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the lamp off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off lighting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "shut off the lights in the bedroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "this room lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "good night",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "lights off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off the lights in the <unk>",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you please switch of the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the living room's light off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the livingroom lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "switch on off light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "i'm going to sleep now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "i need you to turn off the light of my bed room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off the porch light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "lights off in the guestroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the lights off please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn all lights off during the day",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the porch light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off lights in bathroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "light off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the living room lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn of all lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off kitchen light for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "switch the lights to off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off my bedside lamp please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn the lights off now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off the lamp",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "switch off the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off only middle left side light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "lights off for the kids bedroom please then change the lights to my room to red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn room lights off now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please set the lights off in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "please turn off any lights that are still on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "can you turn off my desk lamp",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "will you turn off the lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "did i leave the light on in the garage",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightoff",
+    "utterance": "turn off the lights now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn my smart plug socket on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "switch on the wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "enable my plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the light'socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "flip the wemo on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "power on wemo",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on smart socket in dining room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "you can also add additional switches to your home to control more devices",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the wemo plug socket to plug in my dongle",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on my son's room plug socket on off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "switch on the plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "please turn on wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the plug socket one",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on wemo <unk> in game room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "you'll be able to turn that device on or off using your smartphone or tablet",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the wemo plug socket to connect my charger to it",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on kitchen light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "start the smart plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "on off mobile charger plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn wemo on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "make the wemo go on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "wemo socket on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the rice cooker socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "please turn on my wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "activate the wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "please turn on my door lock",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn my plug on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "start the oven",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "power up the plug socket one",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "please turn on the wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on switch of wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on new smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on living room radio",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "make the socket available for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "you can set schedules for your devices and control them remotely using a mobile internet connection",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the geyser",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "start new smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn wemo plug socket on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the tv socket when i arrive home",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "switch on smart plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on when plugged in else turn off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the smart charger",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the fan socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "switch the smart plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on my plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "i'd like you to turn turn on the tv",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "please switch on my wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "power <unk> on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "make the wemo plug socket turned on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "enable smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "start the laundry",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "on the plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "if switch is on then turn on else turn off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the wemo",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "enable wemo",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "can you turn on the demo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "toggle wemo plug socket on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "wemo plug socket turn on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "outlet on off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "i need to turn on the plug in my office for my computer",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "wemo on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on my wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "please turn on the smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "on all the button on dashboard",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "stop start the juice",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "could you please turn on the plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "wemo plug socket on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the smart plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on this socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn my bathroom plug socket on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "please turn on my smart plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on wemo",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn the smart plug on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "turn on the wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_on",
+    "utterance": "times clapping sound times",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please arrange to make all lights to show brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn the lights higher",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase the brightness in this room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "make it brighter in here please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "i want to bright the room more",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "lighten the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn up the lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please turn up the lights in this room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten of lights in living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "give me more light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you raise the lights for me please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "retrieve the light for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten the lights on the front porch",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please turn the lights up",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you bright the lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase the intensity of the lighting in the room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase the brightness of the light it is hard to see down here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "do more light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please turn the lights brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you make the room brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "slightly raise the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "it's a bit dark increase lighting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "set lights brightness higher",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please increase the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase the light a little",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "<unk> on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase the brightness of the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase lighting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "i can't see turn up the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you please turn up the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn up the lights in here please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase brightness by twenty percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "i want to raise the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please brighten the room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please turn the lights up to eight",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "bring up lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "bring up all the runner lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten the lights in the hallway",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "i would like all the lights on when i enter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase light intensity",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "raise lights to full power",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "i need the lights raised can you do that",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please make arrangements to make the hall so brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please raise the light i am not comfortable at this",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "it is too dark in here increase the brightness of the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brigten the light at seventy percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "make the room brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "hey turn up the lights a little",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn up the brightness of the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn up the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "make it brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "make the light more visible",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "light up",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you brighten the lights for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "raise the lamp's light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn up the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you turn up the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please put all the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "pull up lights control",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase light brightness",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can we turn up the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "every light of room increase its intensity",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "i want more light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please increase the light of table lamp",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten the lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "lights brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you brighten up the lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn the chandelier all the way up",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "up the brightness on these lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "i need the lights in here to be turned up to seven",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "make the ceiling lights brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "more lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "make lights brightener",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "light ko raise karo",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "turn up the brightness",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "its dark in here mind turning up the light intensity",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten my bedroom light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten more light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten the lights in living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase brightness in the room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "more bright",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten the lights in this room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "spread some lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "can you adjust the lighting for me to be brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please set the brightness of lightness appropriately in kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten living room lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please make the room brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "more ligth please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "raise the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "light colour for study room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "make the light more brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "raie lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "please brighten the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "brighten the light of hall",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "switch up the color of the lights in the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightup",
+    "utterance": "increase the bright of the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "give me a new light color",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the lights to my favorite color",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make the lighting bit more warm here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "can you do me a favor my eyes are feeling strained on these lights can you please change it to a cooler tone",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i like red colour for my home change it",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "please change the house lights to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "can you change the lights to white",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the lights of the house to a blue hue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "display settings",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change house light colors to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "set the living room lights to red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the lights in my home to orange",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "set the lights on blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change my house lights colour to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "turn living room lights red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "please make the lights natural",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "set the living room lights to fifty percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "select a different color for the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "switch to night light setting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "switch to red colored lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make light color red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "turn <unk> to green",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "please change the color of the light in the bathroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i want purple lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change color of the light to red outside the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the bedroom lights to green",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "switch on the green light <unk>",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i want to change the light colors",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "please adjust the colors in my lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change my room lights to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make the living room light orange",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the lighting to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i do not like these colours in the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the light in the bathroom to yellow",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "color change of lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "transition lights to blue to green to yellow",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the house lights to pink",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make the light in here redder",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i need to change my house lights colour to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "switch the lights to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "turn the lights on party mode",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make the lightscolour",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change light colors from blue to white",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "what's up with this yellow light get some white up in here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "chane light colour to green",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "turn the lights blue at three pm",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i would like the house lights to be pink",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change my light color to yellow",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the color of lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "set colour blue for all lights of my house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "hey siri chance the current light settings",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make the room light blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the color of my porch lights to green",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "can you change the light colors into dark in the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change lights to pink",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "show me the available colours of lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "hey siri my the lights a little warmer",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "set brightness to fifty percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "set the colour of light to red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make the lights in the house red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "how do i change the color of the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "can the lights be changed to",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "purchase a new bulb with more brightness",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change light color",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "can you please change the mood of the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the light color to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "rotate the light colors",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the lights in the living room to green and red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i would like orange lights now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the lights into green",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change lighting colours",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "make my lights blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change light colour to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i need some ambiance please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "confirm whether the color is blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "i want the light to be a little more red ish",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "activate a different light color",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "it will be good if you yellowish the light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "adjust the light option",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "please set the lighting suitable for reading",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "please make the lights reading friendly",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "turn my lights to some random color",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "alter the color of the lights at home",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "light green",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "check for the quality of the colors",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the opacity of the color",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the lights in my home to green",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the light color to black light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "go to setting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change lights to red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "lights at percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "please make the lights watching friendly",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "chang the ight colors",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "let's have the lights blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "set lights to twenty percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change the color of the lights in my bedroom to red",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "can i change this light to orange",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightchange",
+    "utterance": "change light color to blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn the vacuum on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "have the vacuum cleaner clean the room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "by ten to eleven am daily start my vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "hoover the hallway",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "get the roomba to clean the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "run the vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "on the button of cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "hey start vacuum cleaner robot",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vaccum the mud room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "can you start the roomba",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "clean the flat",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the vaccum for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "clean the floor please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please turn on my robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on the roomba for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "there is a pile of torn paper on the rug to suck up",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "switch on the vaccum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on the robot vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "initiate to operate robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the robot vacuum cleaner at one pm today",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate robot cleaner in an hour",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start robot cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please help me turn on the robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "have the roomba run the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "my vacuum cleaner should start between ten to eleven am everyday",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "on vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "clear the dust and then on the cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "switch on robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "can you activate the vacuum to clean the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "hurrily activates my robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "i need you to turn on the vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "can you start the vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start vacuum cleaner now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please activate <unk> insert vacuum name <unk>",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vaccuum start",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate robot vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start robot vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please activate my vacuum to clean the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on the vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "i want to turn on the robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate the roomba",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "power up the vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "initiate vacuum clener",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "company coming over turn on the vacuum cleaner right now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vacuum on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "begin vacuum cleaning",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on the roomba",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vacuum living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please clean the floor",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "remove dust with vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "is there anything i need to know before i activate the robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start cleaning robot cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "get the roomba to start cleaning",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "have my iroomba clean the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "can you put the vacuum on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start vacuuming now please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please turn on roomba",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate the cleaner for furniture cleaning",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vacuum cleaner start",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "clean my house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on the vacuum now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "begin vacuuming",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "robot do the whole house now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "make my iroomba clean the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the robotic vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn on the vacuum cleaner while i am gone",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "can you set the vacuum to start cleaning at <unk> time",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "initialize the robot vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "use vacuum cleaner in the hall",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "initiate cleaning process",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "enable cleaner robot",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "turn cleaner robot on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vacuum the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vacuum the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "switch on the roomba",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate the vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "activate the robot and vacuum the floor",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please run <unk> insert vacuum name <unk>",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "vacuum the floor",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "robot vacuum cleaner on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "can you turn on the vacuum",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "security devices to robotic vacuum cleaners to internet enabled refrigerators",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "hey go from off to on my vaccuum in five minutes",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the 'vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start the robot roomba",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "open vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "please activate my vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "at one pm today start the robot vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "start vacuuming",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "get the roomba to clean up",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "clean the floor",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "cleaning",
+    "utterance": "clean the sofa with the vacuum cleaner",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "adjust the lights to a lower setting please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please turn down the lights in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "i want the room to be less bright",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "decrease brightness of lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn the lights down a bit",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the brightness of the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please dim the overhead lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights down a bit",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "it is time to lower the kitchen lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights in my bedroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights in the bedroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "will you dim all the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "it is too bright in here dim the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights in the bathroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the living room lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim my light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "minimize the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please lights less brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights in the room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "the lights are too bright",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights to level two",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower lights in kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn the lights down to seven",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "can you turn down the lights by twenty percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights a little more",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "period the light should be in dim",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn my lights down to a lower level of brightness",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "system please dim lights to dull blue",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please turn down the lights in the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn down lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights in the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights in bedroom two",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "reduce the strength of the bedroom lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "bed room two darken",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim all interior lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the overhead lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower brightness of lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "change the lights to dim",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "can we please lower tge lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn down the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the overhead lights a tad",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "color of light should be dimmed bright",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the garden light by half",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please lower the lights a little bit",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "reduce the light power",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please turn down the lights to fifty percent in the den",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "reduce light intensity",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "reduce the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "bring the lights down a bit",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "show me the dimcolour",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please dim the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please lower the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "decrease lighting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lights down",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lighting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lessen the the light glow",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please turn the lights down",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the light to forty percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "hey siri make the lights a little dimmer",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the light intensity",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights in the house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn down the brightness",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lights down to seven",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the light level in my house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the light of hall percent",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "make a room darker",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "switch light to lowest level in dining area",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn down the lights in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "down the light power",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lights dim",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "give me some dim light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "turn the lights down",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower lights in my room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "i want dimmer lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "attenuate the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "give me low lighting in the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "these lights are too bright please fi <unk> them",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "reduce brightness",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "this is too bright",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the bedroom lights to half",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "is it ok to lower tge lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "please turn down the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "can you lower the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "reduce the intensity of lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "its too bright in here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the brightness",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "dim the lighting in my living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower lights now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "darken the room a bit",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "hi can you please turn lower the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the lights in the house please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower the intensity of light",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "lower lights please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lightdim",
+    "utterance": "i would love a less bright up room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "set the coffee maker to on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "greg wants black coffee can you make one",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "how do i set the timer on my coffee machine",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i'd like an espresso",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i want a coffee now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make me coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i will need my filter coffee in ten mins please ask the coffee maker accordingly",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "coffee make now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make me a cup of coffee with salted carmel flavored cream",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make me a coffee please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need some coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make me a strong [coffee_amount : cup] of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make some coffee for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "brew me a cup of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "hey can you please make me a creamy coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "order one coffee to starbucks coffee shop",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "turn on the coffee pot",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "turn on coffee machine and make a pot of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "could you fi <unk> me some coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please help serve me coffee with a no sugar",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start the coffee machine",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start making a coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please get the coffee machine to make me some coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start the coffee machine at three",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you see to it that the coffee maker is ready with my filter coffee in appro <unk> ten mins from now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "order one coffee from nearest coffee shop",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make coffee at seven am",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please activate my coffee pot for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make a coffee for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need one cup of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "would you set the coffeemaker running",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need coffee please preferably hot",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start coffee at six am",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i'd like a cappuccino please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start the coffee maker",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "a [coffee_amount : cup] of coffee please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "call becky to get me a coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make a coffee please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "instruct the coffee maker to make a filter coffee ready in ten mins",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you begin the brew",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please start the coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can i please have a cafe americano",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you please make me a cup of black coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i want coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start cappuccino for me now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make a cup of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i would like a cup of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make me some coffee from the coffee machiine",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "coffee please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "brew my coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need some coffee made",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need to wake up make me the strongest coffee you can make",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make a coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you set my coffee machine to make me coffee at <unk> time",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start a cup of coffee for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "set my coffee machine",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make me a coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "commence coffee making",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you start the coffee machine for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "cook some coffees",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "turn <unk> on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you make me a cup of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you make me some coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "put on a pot of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "go and make me a coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make me some coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "access coffee maker begin process",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make me some coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need some coffee please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i want coffee everyday",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please turn on coffee maker and start brew cycle",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i want to drink the coffee that you made",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i would like some coffee now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i want coffee from the machine",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "prepare a cup of coffee for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start a pot of coffee please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i want the coffee machine to make me coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please make me coffee without sweetener",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make a cup of coffee for me",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make five coffee tell the coffee machine",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please ask mr coffee to make a latte",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "need a hot coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make me coffee at eight am",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need a drink",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "i need a cup of coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "please warm up coffee machine",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can i have [coffee_amount : cup] of coofee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "make us a brew",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "get me a coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "get me some latte please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "start brewing please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "cup of coffee please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "time mr coffee for six am",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "set coffee to bre at seven am",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "can you set the coffee machine to make coffee at <unk> time every week day",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "coffee",
+    "utterance": "will you please get the coffee machine to make some coffee",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn off the plug socket of my phone when it'll be charged",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off my wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn off wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off wemo <unk> in game room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off my wifi",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please mark the wemo socket to off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "deactivate smart plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off the plug point",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn wemo plug socket off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off the power",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn off my smart plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the wemo socket in the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off bedroom fan",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the smart plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "cut wemo power please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn off the smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off the plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "smart plug socket off please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "i want the smart socket off now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "power off please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "power off on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn socket off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off wemo",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "i'd like you to shut off my smart plug socket now please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off sockets",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "power down the plug socket one",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "power off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn the plug off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off socketname",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off the smart plug socket now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "i want you to turn off the plug socket before the cellphone is charged",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "the wenmo plug should be turned off on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "off all type of active devices",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off the wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "shut off my living room plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "i do not want to use the socket anymore",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "keep the socket in off condition",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off on the socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off my wemo plug socket now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "disable my okug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "power off wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "disable smark socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "shut the smart socket down",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off on wemo outlet",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off the smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "wemo plug socket off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "stop powering the wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "shut down sps <unk>",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "power off the wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the rice cooker socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please male the smart socket turn off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn off the wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch wemo plug socket off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off wifi when you leave home to save power",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "can you please turn off my wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off my wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off my smart plug socket in thirty minutes",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "disable wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "can you turn off on the wenmo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "i want the wemo socket off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off smart plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "can we deactive the socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "shut off the socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "mute your android phone when you arrive at work",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "off the plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "can you turn off the smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please power down",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the tv in",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "can u turn off wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off wemo",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn off the wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "can you please turn off the wemo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off the fan in the master bedroom",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "i would love the wemo socket to not be active right now",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "if idle then turn off else turn on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please turn off the smart plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn socket off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off smart socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "please switch off on the wenmo plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn the wemo off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn of the lamp socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "switch off the wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "will you please turn off the smart plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "make the smart socket turn off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "shut down the plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "socket off",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "hello i want to turn off my wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off wemo socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off my smart plug socket",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "wemo_off",
+    "utterance": "turn off my wemo plug",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn the lights on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "please turn on the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "hey turn on disco lights in my apartment and let the party begin",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "please turn on the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "i can't see anything",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn all lights on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "switch on the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "overhead lights on please",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "it's too dark i can't even see my hands",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "please turn on the lights in my house",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "light up the lights in the kitchen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "i want to turn on the blue lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "put the disco lights on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn on the lights that are outdoors",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "it's dark in the living room",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "and the light began",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "can you put the lights on the high setting",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn on the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "please turn all all lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "please turn the lights on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn on all upstairs lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "it's awfully dark here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn the lights on full bright",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "lights on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "switch on all the lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "it's dark in here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "it is dark",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "clap on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "and the darkness has fallen",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "please turn on my balcony lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "please turn on all the outdoor lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "it's too dark here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn corner light on",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn on the lamp",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn on hall lights",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "turn the lights on brighter",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "it's too dark in here",
+    "origin": "HWU64",
+    "domain": "iot"
+  },
+  {
+    "intent": "hue_lighton",
+    "utterance": "lights out",
+    "origin": "HWU64",
+    "domain": "iot"
+  }
+]
