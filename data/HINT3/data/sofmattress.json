@@ -1,0 +1,2948 @@
+[
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Free 100 days trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "100 days trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Trail option are there",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "100 night",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "100 Nights trial version",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "100 night trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "What is 100 Night trial offer",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "How does the 100 night trial work",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "I want to check offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "100 free Nights",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Need 100 days trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Trial details",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Trial offer on customisation",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "100 days free trail on custom size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Can I try a mattress first",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Can I get free trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": " Can you give me 100 night trial ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "Is the 100 night return trial applicable for custom size as well",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "do you provide exchange",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "I want this  for trail",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "How to enroll for trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "free trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "100_NIGHT_TRIAL_OFFER",
+    "utterance": "What is the 100-night offer",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What does the mattress cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Hello sir. I need price of that matress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "I need price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Price range ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "If I take one extra support and one other kind how much it costs excluding the concession (pre order) in locking period?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "How much does a SOF mattress cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What is the less price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What is the cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "SOF mattress  rate",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "How many cost the king size Ortho matterss",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What is the prize of double bed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "And what is the price of 6 inch mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Mattress cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Cost of mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Ergo 72\u00d772 inches price?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "I need 78x60 cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Mattress cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Price of Mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Cost of mattress &two pillows",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What will be the price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Please let me know after all offer CODE SEEP4IMMUNITY NET PRICE FOR 78/72/6 KING SIZE",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "My bed size is 78*62 what's the cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Rate",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What is the price of mattress with size 75\u00d770 inch?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Price of 5x6 matt",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What is the cost for 72 x 45",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "What is the prize of single mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Custom size cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "How Much Cost",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "MRP",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "78 x 60 price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Cost of Mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Low price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Price of mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "king size  7x6 how many prices?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Sizes and prices",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "rate please",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Cost of Bed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Wats the cost for mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Mattress price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "i'm looking for prices for queen size mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Price Range",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "MATTRESS_COST",
+    "utterance": "Want to know the price",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Is there any exchange",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "I want to return my mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "If I am not satisfied or want another version of the mattress can I return it and if yes then how do I return it?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Can we return",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Return order",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Do you exchange old mattresses?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "How can I replace the mattress.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "If we orfer by emi.. can we return it",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "how to return",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "How do I return It",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Do you have exchange policy.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "How do I return it",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Looking to exchange",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Need my money back",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Exchange",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Do you exchange old mattresses",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Help me with exchange process",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Refund",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Exchange mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "If size is problem, v can return it",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Return my product",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "If we order through emi can we return it after trial",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Not happy with the product please help me to return",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Replacement policy",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "I want refund",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "RETURN_EXCHANGE",
+    "utterance": "Return",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Different between ergo and ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "What is the difference between the Ergo & Ortho variants",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "What is the difference between ergo and ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Mattress comparison",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Which mattress to buy?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Product comparison",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Differences between orgo and ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "What is difference between ergo and ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "I don't know about mattress pls you help me my age 28 old. Ergo is good or ortho is good",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Difference between ergo amd ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Ergo vs ortho how to best old ages man",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "What is the difference between egro and ortho mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": " Comparison",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Difference between the products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "I wanna know the difference",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Difference between ortho and the other",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "What is difference between ergo n ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Difference between ergo and ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Compare the 2 mattresses",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Compare ergo & ortho variants",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Ergo or ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "What's difference between ergo and ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Which one is best either ergo or ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Compare",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Wats ortho and vertho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Is the mattress good for my back",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Difference between Ergo & Ortho Mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "Dear team I need to know which type bed I've to take egro or otho I sit and work a lot hence I get back pain offen and because of my hard bed I feel shoulder pain when i sleep once side. Can you suggest which one is best for me",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COMPARISON",
+    "utterance": "ergo and ortho variation",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "It's available in meerut",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Store in",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Distributors ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Demo store",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Availability Bangladesh",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Showrooms",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Do you have any showrooms in Delhi state",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "office",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Does your store is there in Mangalore",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Is there any offline stores ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Need store",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Where are delar place in Vijayawada",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Hi you wil supply mattress for retailers. ?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Do you have Showroom",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "any showroom available in tamilnadu",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Shop near by",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Can I visit SOF mattress showroom",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Shops nearby",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "U have outlets  in",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "You have any branch",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Do you have store",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Need Nearby Store",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Head office",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "We want dealer ship",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "What is the price for size (x ft x y ft)? What is the price for size (x inches x y inches)?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Distributors/Retailers/Showrooms",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Nearby Show room",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Nearest shop",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Outlet",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Is it available in Lucknow?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Store near me",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Where is the shop ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Dealership",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Where is your showroom",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": " Where can I see the product before I buy",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Offline stores",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Where was this shop",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Do you have a showroom",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Available in Pakistan ?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Do you have any distributors in Mumbai city",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Where is your showroom",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Any shop that I can visit",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Do u have aCoimbatore outlet to check which is suitable. Our present Mattress size is 6\u20194\u201d x 5\u2019 x 9\u201d",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "I am belongs to nepal so how can i purchase your\u2019s product in nepal",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Do you have any retailers in Pune city",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Need dealership",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DISTRIBUTORS",
+    "utterance": "Is it available in shops",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "I want in installment",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "I want to buy on EMI",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "How about Paisa finance",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "how to convert in emi??",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Is EMI available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "I want it on 0% interest",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "How to get in EMI",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "what about emi options",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "About emi",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "0% EMI.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Installments",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "How to EMI",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "No cost emi",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Paisa Finance is available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "How can I get emi",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "EMI Option",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "No cost EMI is available?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "I need emi payment. ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Do you offer Zero Percent EMI payment options?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "I want a emi details",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Bajaj emi is applicable?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Down payments",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Bajaj card is accepted",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "EMI",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "0% Emi",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "EMI option available ?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Do you accept Paisa EMI card",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "i can pay through EMI",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "I want to buy this in installments",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "how can i go for EMI option",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "emidetail",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Paisa Finance",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "You guys provide EMI option?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "you have emi for debitcard",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "EMI process",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "What is minimum down payment",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Paisa finance service available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "EMI",
+    "utterance": "Can we buy through Paisa finance",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "for back pain",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Ortho mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I want to what are the types of material is used in bed size of king 75*72 ortho variant",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Back Pain",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I want to SOF ortho matterss",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Is it orthopaedic",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "SOF ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "back ache issue",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Have a back problem",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I want to have Ortho with sizes 84ich\u00d760inch",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "What are the key features of the SOF Ortho mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I have back pain issue",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Wanted to know about the matress which is good for back pain",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Ortho features",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Tell me about SOF Ortho mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I need Ortho mattress which one is good",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Features of Ortho mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "i have back pain",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Which one is best for back pain",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "ortho",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I am cervical and Lombard section problem",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Is there orthopedic mattress available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Is this Better for back pain people",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I m looking mattress for slip disc problem",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Hi looking for orthopaedic heard mattress 78/72/6",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Do we have anything for backache",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "I am 32 years with slight back pain.currently using 20cm thick, doble pocketed spring bed.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ORTHO_FEATURES",
+    "utterance": "Neck pain and back pain",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "How can I order a custom sized mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Customisation is possible?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "I need custom size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Where is the option of custom size?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Need custom size mattresses",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "cannot customize size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "My bed size is not matching in your options",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Custom size mattress with length 6.5 inc and width6 inc",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "I want 75 x36size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "I want request a customize of the mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Will I get an option to Customise the size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "I want to change the size of the mattress.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Mattress size change",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Need some help in changing size of the mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Can mattress size be customised?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "hi i need  queen size 5*6  inches mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Customise size ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "I wany to custimize the mattress is it possible",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Is it not available in 10 inch height",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Custom sizes are scaled down from the nearest bigger standard size, and are shipped uncompressed without a box.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "any customize is there",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Custom size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "I require 75 inch \u00d757 inch. Is it available?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "SIZE_CUSTOMIZATION",
+    "utterance": "Along with size i want to customize some more things",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Do i need to prepare the pillow",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Pillow extra shoft and support difference?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Can I get pillows?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Need pair of Pillows",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "I bough ergo mattress which pillow is comfortable for it",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Difference between pillows",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Do you have cushions",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Need pliiows",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "I want to buy pillows",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Is pillows available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Do you sell pillows?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Pillows",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Can I buy pillows from here",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "i want a pillow",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "I am want 4 pillows ?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "pillow price ?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "What is difference between two types pillow",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Are Pillows available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "What about pillow",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Can I also have pillows",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "I will go for ergo pillow",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Extra support pillow",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PILLOWS",
+    "utterance": "Want pillow",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Almost 1 month over",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "I ordered SOF mattress on 27 Feb....",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "It has been over 5 weeks now",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Ordered on 18 march",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "26 days are completed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "25 days are completed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "We order last month 20 mar",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Order over 1 month",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "It's been so many days",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "I orderd SOF matresses but I not received yet",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "It has been almost a month since I ordered a mattress but till now the order status is not clear",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Hai not recieved my product",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "I did not receive my order yet",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "How many days we can get the mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Why so long?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "26 days are completed.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "My mattress not delivered",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Why so many days",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "It's delayed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Has it been shipped",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "It's too late to get delivered",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "It's been a month",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "It's already one month",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": " It's been 30 days my product haven't received",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Hi I placed an order by last 12 march",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "DELAY_IN_DELIVERY",
+    "utterance": "Delivery is delayed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "20 % discount available on emi",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "I need more discount",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "20% discount their right now in face book",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Is offer available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "If I order now do i get 20% discount in lock down period",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Tell me about the latest offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "What are the available offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Give me some discount",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Discount",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "what are the offers going on at present along with mattresses",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "i need 30 % discount",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Any discounts",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Available offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "May I please know about the offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Any other offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "What about 20% discount",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "I need additional discount",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "20% discount?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Want to know the discount ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "OFFERS",
+    "utterance": "Emo offers",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "What about ergo",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "What is responsive foam",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "What are the key features of the SOF Ergo mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "Ergo",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "Ergo mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "Ergo features",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "Pls explain about verities like that  ergo  etc",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "SOF ergo",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "SOF ergo features",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "I want to buy SOF ergo mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "Features of Ergo mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "In Ergo Mattress what kind foam is used.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "Tell me about SOF Ergo mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ERGO_FEATURES",
+    "utterance": "Does this have ergonomic support?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "DO you have COD option",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Can pay later on delivery ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Cod option required",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Can I get COD option?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Cash on delivery is available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Can I do COD?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Sorry it's not showing COD option",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Cod option leda",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Is it possible to COD",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "COD",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "There is cash on delivery option available??",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "COD option is availble?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Do you offer COD to my pincode?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Cash on delivery is acceptable?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "I want cod",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Can it deliver by COD",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "COD option not showing",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Is cash on delivery available when sleep4immunity coupon applied",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Cod is available are not",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Can i order in Cash on delivery",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Iam saying I want cash and delivery",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Cod is not showing",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "Is COD option available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "COD",
+    "utterance": "cash on delivery available",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "If I put my mobile number can you please call",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Arrange a call by your representative",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "I want to order",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Want to buy also see more",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Get In Touch",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Want to get in touch",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Get in Touch",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "i i want to buy",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Call me now",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Need a call from your representative",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Interested in buying",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Please call me back",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Can you contact me",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Do you have Live agent",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Connect to agent",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": " Please call me",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Buy",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Ok i am calling",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "call me 7021645199 or 7021645199",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "I want a call back",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "I want to buy this",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": " Schedule a callback ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "I want to place an order",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "How to buy?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Call to my number",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Call me",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Give me a call on 7021645199...",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "How to get in touch?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Please call mi",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Connect to an agent",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "I need a call back",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Call mi",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "How to order",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "I want to buy",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "I want to book it now",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Want to talk to an live agent",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": " Arrange a call back ",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "LEAD_GEN",
+    "utterance": "Call me after 12.30 pm",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Length",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "5*6 bed sizes",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "What about size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Share the size structure",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Queen size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "What are the available mattress sizes",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Can I order an mattress but I am not sure about the size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "I have a queen size bed. so pls assist me to buy a mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "What are the sizes available?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "4*6 bed what is the size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Inches",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "I have a bed of size 6.5 feet x 6 feet",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Feet",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Show me all available sizes",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "How do I know what size to order?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "My weight is 100 kg which is good 6 or 8inch",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": " What size to order?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "6*3",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "How to measure my bed. actually my bed length size when measure from the bed corner it's come. When i measure center of the bed it's came 78. Which length i need to choose",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "5*6 size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "What are the available sizes?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Don't kbow the size of my bed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "queen size bed what size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "How do I know the size of my bed?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "75*57 size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Inches",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "We want 75*46.5 inches",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "75*72",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Help me with the size chart",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "i have purchased a king bed...thatz not yet delivered...which size should i order?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Mattress size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Can you help with the size?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "I have bed size 6' x 6'",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "What are the sizes",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "How toh check my mattress size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Also, my bed size queen",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Now we want someone to check size according order can be placed.",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "King Size",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "may i knw the dimensions",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Can I please have the size chart?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "My bed size is 6*6.5 foot. So what dimension is suitable for my mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "WHAT_SIZE_TO_ORDER",
+    "utterance": "Want to know the custom size chart",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "Who are SOF mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "What is SOF mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "Tell me about company",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "About SOF Mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "Why SOF mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "How is SOF different from other mattress brands",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "I have some queries regarding this mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "What is SOF",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "I am planning to purchase SOF mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": " Who is SOF mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "Tell me about SOF mattresses",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "How is SOF mattress different from",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "Tell me about SOF Mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "ABOUT_SOF_MATTRESS",
+    "utterance": "Company information",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Round mattress?",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "What are the SOF mattress products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "What are the product variants",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Show more mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "What are the mattress features",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Mattress Features",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "I want to buy a mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "How many variant of SOF matters",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "What are your products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Which is the best mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "I want to check products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": " Which mattress is best",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "What are the mattress variants",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Help me with different products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Type of foam used",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Type of mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Hello .... I have confusion . Can you suggest me .. which mattress i should buy",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Tell me about SOF mattress features",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "I am looking the mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "View products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Mattress variants",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "i want a mattress",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "i need only mattreses",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Which product is best",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "I Need A Mattress For Double Bed",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Show me products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Products",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "I need to buy a mattress 72\"\u00d748\"\u00d712\"",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  },
+  {
+    "intent": "PRODUCT_VARIANTS",
+    "utterance": "Product Variants",
+    "origin": "HINT3",
+    "domain": "sofmattress"
+  }
+]

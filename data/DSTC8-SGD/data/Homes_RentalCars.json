@@ -1,0 +1,440 @@
+[
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "thanks for that, can you find an apartment for me too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks much for the booking. Please can you help me to find an apartment in that area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks for the assist. I also need to find an apartment there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks a lot. Help me find an apartment around there too.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Great, thanks for your help! I also need to find an apartment to stay in around that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you for your assistance; I'd like to look for a residence in the region.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks. Will you find an apartment in that area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Okay, can you also help me find an apartment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks! I'm also looking for an apartment in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks. I also want to find an apartment please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "I also am looking for apartments near there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you very much. Can you find me an apartment in that place?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks a lot. I want to find an apartment in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you, Can you find an apartment in that area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you! Can you look at apartments there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "I appreciate your help very much. I also need a place to stay there, so find me an apartment in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks for your help. I'd like to find an apartment in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Ok. How about an apartment in the area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks. Can you help locate an apartment there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Sure, could you help me find an apartment in that area too?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks. Now please find me an apartment in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you for your help. Can you also help me find an apartment in that area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks for your help. I need one more help and I want to search for an apartment in that area. Can you find the one for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Great, thanks for your help! I'd also like to find an apartment in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Awesome, now let's see if there's a nice apartment in the same zone",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks, I also need to find an apartment for me there",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks. I also want to find an apartment to stay at.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks for your help. I'm also interested in finding apartments in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks, i want an apartment on there, could you find it for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "I also want to take the chance to look at apartments?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you for your assistance. I'd like to look for a residence in the region.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks a lot for your help. I want to find an apartment in the area",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you for your assistance. I need to find an apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks for the same and I need to find some nice apartments there. Can you search for me to select the one which suits my needs?.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks a lot I want to find an apartment in the area",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "I also need an apartment in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you. I also need to find an apartment in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks so much, now I need to find an apartment to stay in in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "thanks very much",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "I appreciate your help very much. I also need to find an apartment in that area, so I will have a place to stay in.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks, I want to find an apartment in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks much for the help. Please can you help me to find an apartment in that location.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks a bunch. Find me an apartment near there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Okay, I also need to find an apartment there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you so much, could you also help to find an apartment there please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thank you I also need to find an apartment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Appreciate it, now I need an apartment, look in that same area please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks for your help. I'm also looking for apartments in this area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_THANK_YOU",
+    "utterance": "Thanks a lot. I need a apartment, too.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Thanks a lot for everything. Now please find me an apartment with 3 bedrooms in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "it needs two rooms",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Thanks for the help. I need to also find an apartment around there. I'm hoping for 3 bed rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Thanks for help. I am also looking for a 2 bedroom apartment in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "I appreciate your help a lot. Now, I also need to find an apartment in that same area, with one bedroom.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Okay, I also need to get an apartment in the area. I want 3 bed rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "thanks a lot . find an apartment in that area? i need 4 bed rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "How about looking for an apartment there? My only request is for it to have three bedrooms",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Thank you so much for your help. I wish to search for an apartment with 2 bed rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Thanks, now find me a 3 bedroom apartment there",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Thank you so much. I wish to search for an apartment with three bed rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_INFORM_number_of_beds_THANK_YOU",
+    "utterance": "Thank you for that information. I need one more help from you. You have to help me to find a apartment with two bed rooms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "Sounds very good.Find me an apartment in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "That works for me. Please also search for apartments in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "That sounds fine. I'd also like to find an apartment in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "That sounds great. Get me apartment in that area",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "That would suit me, now Can you help me find an apartment there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "Okay, I like that. Now I need to find an apartment there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "Okay, that sounds good. I'd also like to search for apartments in the area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "that works for me",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "Okay, that's good. I also need to look for an apartment there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "Good. Now please look for an apartment there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "Great, I am also in the market for a new apartment in that area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_FindApartment_SELECT",
+    "utterance": "I like but I need you to take care of something else right now, look for an apartment",
+    "origin": "DSTC8-SGD",
+    "domain": "Homes_RentalCars"
+  }
+]

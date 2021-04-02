@@ -1,0 +1,602 @@
+[
+  {
+    "intent": "createoradd",
+    "utterance": "edit list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "start a list of dog names",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "generate fresh list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add an item to the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "this item should be added to the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "bring up a new shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "open my grocery list and add bananas to it",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i want to start a new list of power tools on sale at true value",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "please add oranges to my grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "create a new playlist",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "remember to put carrots in there",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add carrots to the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a new list of dog breeds",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "put hamburger on my grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i need to add water to my kroger list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i want to make next week's to do list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "re add eggs to the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "start a new grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "start new list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make me a new checklist",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add cereal to my shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "help me start my kitchen list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add a movie name to the wish list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "the list should contain this item",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "please find all name start with alphabetic of a and create a list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add appointment in the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add eggs to my grocery's\u251c\u00f6\u251c\u00e7\u251c\u00bb shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i need you to put walk the dog on my list to do",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "please find all name start with alphabetic of g and create a list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "remind me to order more soap",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i want to make this week's shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "hey make a list of names starting with vowels and ending with vowels",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "put milk on my shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add <unk> on the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a note on my to do list to call the realtor",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "save the new list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "we need milk",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add car service to my list of things to do today",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "search the item",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "put <unk> on the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add milk to grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add new checklist",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "please add an item in my calendar",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add new item to list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add bob to my list of contacts",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add juice to my grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add milk to the grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "create a list for the following",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make new list of recent workouts",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i want you to create a list for me",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add pencil to school supplies list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add chives to my shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "new item for list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "get <unk> on the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i need oranges added to my grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "start a new <unk> list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "create a new list please",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add to my groceries",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i want to start a new list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "please ute my grocery list gallon of two percent milk",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add every girl life by evelyn mayer to the must read list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "open a new list for me",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "create a list that is available",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add eggs to my list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i think i ran out of this can you add it to my list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "can you create a new list in my podcast",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "include this item",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "can you create a new list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "prepare list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a list for work",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add buy groceries to my to do list for today",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "create an item to be added to my list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add pastries to the christmas list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "list out",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "start a new list for me",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "put clean dog at the top of the cleaning list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i also need to buy batteries aaa",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a note of this on the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i want to have a new playlist of songs",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "create a new shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "join this",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "set up a newlist with the following",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add shoes to my list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "open me a new list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a grocery list please",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add new songs to playlist",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "put shoes on my list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add coffee to the grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "set a list for",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a new list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "create a list for today's tasks",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add butter to the list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "make a new list for me",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "can you please add an item to my grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add apples to shopping list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i want to make a list and this should be automatically saved as a text file with the title list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "add new items in the remainder list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "i need to add bananas to my grocery list",
+    "origin": "HWU64",
+    "domain": "lists"
+  },
+  {
+    "intent": "createoradd",
+    "utterance": "show a new list",
+    "origin": "HWU64",
+    "domain": "lists"
+  }
+]

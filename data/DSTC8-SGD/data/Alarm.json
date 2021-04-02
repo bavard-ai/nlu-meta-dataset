@@ -1,0 +1,2048 @@
+[
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "I'd like to make it for five in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "The new alarm should be set for three pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set the alarm for 16:45.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Make the alarm for half past 4 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "For 3 o\"clock in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "I need an alarm set for 5:15 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "I need one for evening 4:45..",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Put it for evening 4.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Likely at 4:15 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Make it for a quarter to 5 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for four in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Four in the evening",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Give me 3:45 pm please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Make it 3:30 in the afternoon",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "The alarm should be set for 4:45 PM.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "That would be for 3:30 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "For quarter past 3 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "It will be for 3:30 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Make it for 4:30 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for three pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "I would like to add an alarm for quarter to 5 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for the afternoon 3:45.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "This evening 5 would be great.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Can you make it for 16:15?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Make it 3 o\"clock in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for the evening 4:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "I'd like it to be set for 4:15 pm, please",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "It needs to be for 4:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for afternoon 3:45",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "For quarter past 3 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for evening 4",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "For evening 4:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "For 3:45 PM",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "It is for 16:45",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for 3:15 pm please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Please set it up for 16:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set if for the evening 4:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for 15:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Let's set it for afternoon 3:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "I should set it a little before practice, so 5:15 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Make it at 5 o'clock in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for three pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Please set it for 4:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Please set it for 5:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it at 4:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Can you set the alarm for three pm?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Make it for quarter to 5 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "For 3:45 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "The alarm should be for evening 4:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "It will be for five in the evening time.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for 5 o'clock in the evening please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "It is for evening 5:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for 16:45.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Please set the alarm for 4:45 pm today.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "16:30 please",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Do it at quarter to 5 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Do it in the evening 5:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Please make a new alarm for the time five pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "I would like to create an alarm for four pm",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "It will be fro 3:15 pm",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for a quarter past 5 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Set it for 4:15 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time",
+    "utterance": "Please set the alarm for 5:15 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Please show me my alarams",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Will you show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Please show me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can I see my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want you to show my alarms",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Could you also show me my alarms please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What are the alarm times?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Hey. Show me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Please show my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Now would you mind showing me my alarms please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "May I see my alarms please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Tell me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to check on my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to know what alarms I have.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I currently have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I'd like to see what alarms I have set please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you tell me my set alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you also tell me my scheduled alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to check the alarms I have.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to view my listed alarms. Can you show me the same now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Tell me what alarms I have set.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Will you tell me the alarms I have?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I forgot what I have planned for the rest of today! I need to see my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to know what alarms I have on.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "May I see the alarms that I have set please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Hey, wait, what are my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set at the moment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me all my active alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me my set alarms please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Yeah, can you show me my current alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What about my alarms, what do I have at the moment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "One more favor, my alarms please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Thanks. now do me one more favor. I want to view my listed alarms and please show me the same.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Hi, could you show me my alarms please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Perfect. Now please show me my active alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I need to see my alarms",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me alarms please",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Please tell me which alarms are currently set.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I would like to see my existing alarms now, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to see my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me my set alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I would like to see my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Hi there, what alarms do I have that are currently active?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Could you show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Show me the alarms I have set.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Please show me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Hello, could you tell me what alarms I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Hey! I set a reminder in my clock. Please can you tell me at what time the alarm is set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you tell me about the alarms which are set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me the alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I would like to see my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Thanks, now please show me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Show me my alarms please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Tell me about my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "When are my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Okay. Can you show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I would like to see all of the alarms that I have set currently",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Thanks. Now please show me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you tell me what my alarms are.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I need to set a reminder for my new schedule this week. Can you check what alarms I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Could you tell me about my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "May I see the alarms that I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I would like to see my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "OK, thanks. Now please show me my active alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What time are my alarms set for?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Show me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "My schedule is getting really busy and I need to set some new alarms. Can you see what alarms I have currently?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I need to know how many alarms are there in my list? can you please show it now?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I believe I have some notifications set. Can you please check for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me my alarms, please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Great. Can you tell me what alarm I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "And now I would like to take a look at my alarms please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "OK, can you show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I would like to see my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Show me my alarms,please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you review my alarms for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to know about all the alarms that I have set already. Can you show it to me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Can you show me the alarms I have?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I'd like to see my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Would you please show me my alarms?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I have absolutely no idea what alarms I have set. Please show me my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want you to show my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "What alarms do I have set?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "I want to know how many alarms are there in my list, can you show me",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Could you tell me what alarms I have on?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Please give me a run down of the alarm settings I have.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Tell me about my alarms.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAlarms",
+    "utterance": "Thanks. Can you tell me what alarms I have set really quick?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "I would like to add an alarm for 4:30 in the evening called Phone Home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes, make a new alarm for the time 16:30 and the name is Cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes, please. An alarm for afternoon 3:15 named Music Practice",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes please. Create a new alarm labeled Phone home for 3:30 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes, please add an alarm for quarter to 5 in the evening called Phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes please, add an alarm and call it Grocery Run at 4:45 pm",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes add an alarm 3:30 in the afternoon called cleaning",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes please set an alarm for afternoon 3:30. It should be called Cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes, add an alarm called music practice for 3:30 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes, Please add an alarm for 16:00 with the name as Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Pleas add and alarm for my music practice this evening 5.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes, I'd like to add a new alarm for quarter to 4 in the afternoon named Cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "AFFIRM_INTENT_INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Yes please. I would like to create a 3:45 in the afternoon alarm with the name Phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Create a new alarm for me and name it Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "I need to add a new alarm titled Music Practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Can you try again? Try calling the alarm Grocery run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Can you try it once again? create an alarm as Grocery run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Try again, call it Phone home this time.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Will you try once more to set an alarm called cooking",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "I want to create a new alarm and name it Cleaning",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Can you please add an alarm called Grocery run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Can you try to set the alarm again with title Phone home?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Can you set me a new alarm called cooking",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "I think you can try for one more time. You can use the name Grocery run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Would you be able to give it another go? Make the title Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "Can you try one more time with a new alarm called Grocery run?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "I have to add an alarm for Leave for home please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name",
+    "utterance": "I'm hoping to motivate myself to do some chores around the house. I want to add an alarm called Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "Please change it to 15:00 with name Cooking",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "That's wrong, it should be called Cleaning and it must be scheduled for 4:30 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, it should be for evening 4:15 and the alarm name should be Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, set the alarm for quarter past 5 in the evening. The alarm is music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, make it for five pm and call it cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "I'm sorry, I have to change that. I'd like it called Phone home and set it for afternoon 3:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, Change the time to 3:15 in the afternoon and the name to Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "Actually make it at quarter past 5 in the evening and name it Leave for Home",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, can you call it Cooking and change the time to 16:45 actually?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "Wait a minute. I don't have practice today so there's no point in setting this alarm now. I'll just do it later. Ah, but do have to get groceries today. Forget about the music practice alarm, can you create an alarm called Grocery run for 3 pm?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "Can you change it to afternoon 3:45 and rename it to Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "Call the alarm Cooking and make it for a quarter past 4 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, title the alarm cooking and set it for evening 4.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No I need music practice at 5:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, call the new alarm Cleaning, and let's change that to 5:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time_NEGATE",
+    "utterance": "Actually, scratch that. Call it cleaning and set is for half past 4 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Name it Phone home and make it for 5:15 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Set it for half past 3 in the afternoon and give it a name of Music Practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Go ahead and make the time for 16:15 and name it Grocery Run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Set it for quarter to 4 in the afternoon, and change the name to grocery run",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "I would like to add an alarm at 4:45 in the evening with the name Grocery run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Name the new alarm Cleaning and set it at afternoon 3:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "This alarm should be set for 3 pm, and it should be called Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "The new alarm should be set for 3:30 in the afternoon and titled Music Practice please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "It will be for 4:15 in the evening and please name it Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Please make it in the name Music practice for the time 17:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Name the alarm Leave for home and set it for quarter to 4 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "It'll be three in the afternoon, can you title it Grocery run?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_INFORM_new_alarm_time",
+    "utterance": "Set it for 15:00 and call it phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Great. I want to add an alarm for evening 5.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "That's fine. Please make an addition of new alarm for evening 4:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "I need to add an alarm for 3:30 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "I see, could you add an alarm at 4:15 in the evening?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay, nice. Please include an alarm at 5:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Alright, fine. Now I would like to add another alarm, which should be set for 5:15 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay, that's good. I'd like to set another alarm for five pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Ok, I need to add another at quarter to 4 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Alright, fine. Though now I would like to add another alarm for 17:00.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "I'd like to establish a third alarm, that goes off at evening 4:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay. I want to add an alarm for the afternoon 3:45.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time_SELECT",
+    "utterance": "Great. Will you please add an alarm for 4:45 pm?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Alright, fine. I'd like to add a new alarm named Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Alright nice. I would like for another alarm to be added, and for it to be called Grocery run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Fine, add a new alarm called Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Okay that is good. I would like to add a new alarm called cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Sure, could you help me add an alarm titled Grocery run?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "All right. Cool. Please add a new alarm and name it Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Ah, looks like I forgot to set it after all. Can you add a new alarm called Music practice?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "That's good. Put a new alarm on called Phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Nice. I would like to add one alarm called cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Okay that is great. I'd like to add an alarm called phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Alright, nice. Now I want another alarm to be added, and for it to be called Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_SELECT",
+    "utterance": "Okay, I want to add a new alarm named Cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "Hold on. Can you make that quarter to 4 in the afternoon?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No please set it for 15:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No make it for 4:15 pm",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "Actually, it is going to be at 5 o\"clock in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No silly, I want it for 4:30 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "Please change it to 4:30 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "Please change the time to 15:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, it should be afternoon 3:45.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "no make it for 4:30 in the evening",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, I want it for three in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, instead schedule is for the afternoon 3:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "Nope, sorry! Please set at 3:30 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No. Instead I'd like the alarm set for a quarter past 4 in the evening.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, make that 5 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, 3:45 pm actually.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, it is for quarter to 4 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_time_NEGATE",
+    "utterance": "No, actually make that for the evening 5:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No, Name this alarm as cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No, Change the name to Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "Call the alarm Grocery run instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No please call the new alarm to leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "Wait, I need it to specifically notify me for music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "Actually change the name of the new alarm to Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "Actually call it phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "Call the new alarm Music practice instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No call it as Cleaning",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "no make the name as grocery run",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No, please change that to Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No. I want it to be called Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "Yes, but title the alarm Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No, please name the alarm Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "Nope, please can you modify the alarm name to be Leave for home?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No, let's call it Music practice instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_new_alarm_name_NEGATE",
+    "utterance": "No, call it Leave for Home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you add one for 5:15 in the evening?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "I need to add an afternoon 3:15 alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Try it again, maybe for 4:45 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Will you try once more for half past 4 in the evening",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Please help me add an alarm at five pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "I would like to add an alarm for 17:15",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "I need one more for three in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you retry with the time as three pm?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Could you try once more for 16:30?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "I would like to set an alarm for 3:15 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Please try to set for 5 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you add an alarm to go off at 3 pm?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Could you attempt once more for 16:45?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Try and do it again but for 15:15.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Would you mind trying to do that again, though now you try to set the alarm for 16:15?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you try again and make it for afternoon 3:45",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you add an alarm for four in the evening?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "please try again for evening 4:45",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you try to set it for 3 in the afternoon?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you try again? Set it for three in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Yes try again please but change the time for afternoon 3:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_time",
+    "utterance": "Can you retry with 3:30 pm?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "can you add another alarm for me",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Ok, great. I need to add an alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Please can I add a new alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Fine, I want to set another one.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Okay, thank you. I would like to add an alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Alright, wonderful. I'd like to include an alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Good, please add an additional alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Good, got it. Let me do another alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Okay, awesome. I would like to add another alarm as well.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Ok, cool. Can you add an alarm for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Thank you. I'd like to set a new one please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_SELECT",
+    "utterance": "Okay, thanks. I'd like to add a new alarm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay thats good. I need to add an alarm. It will be for 4:45 pm. Name the new alarm as Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Great, can you add an alarm called Music Practice for half past 4 in the evening?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Good, Please add another alarm for the evening 4:30. This alarm is for Phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay, thanks. I would like to add an additional alarm. Let's call the new alarm Leave for home and set for 3:45 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Great please add Cleaning at 3:45 pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay, Can you please add a new alarm titled cleaning for 17:15 today please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay that is great. I\"d like to add an alarm for four in the evening so call the new alarm phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Can you add an alarm for 17:15 and make the name Leave for home?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Great. I'd like to add one alarm for quarter to 4 in the afternoon called grocery run",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Alright then I would like to create another one. Let's call it Leave for home and set if for 15:30.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "That is fine. I want another alarm set for 3:15 in the afternoon. Name it Cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Can you add an alarm at 3:30 pm called Cleaning?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Sure, could you add an alarm at four pm titled Phone home please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Good, please add another alarm for Grocery Run. Please set this alarm at four pm.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Alright, good. I would like for another alarm to be added for quarter past 3 in the afternoon, and the alarm to be called Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Thank you, I would like to add another alarm. Set it for 5:15 in the evening. Call it Leave for home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Excellent. Can you please add a new alarm for 4:45 in the evening and label it Music practice?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Perfect, I need to add another one for 16:15 and you should call it Phone home.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "All right. Now please add another alarm for half past 4 in the evening, and call it Grocery run.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Sounds good. I'd like to set an alarm for 3:15 in the afternoon, please name is Cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay, cool. I'd like to add an alarm for afternoon 3:30 titled cooking.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Please add an alarm at 17:15 called Cleaning.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay, thats good. I need to add an alarm. Name the alarm as Music PRactice and it should be for 16:45.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Cool. I need to add a new alarm for Cleaning at 3:45 in the afternoon.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Perfect. I'd like to add an alarm at evening 5 called music practice",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Okay, that's good. I want to make a new alarm for 5:15 pm. It'll be called Music practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Thank you! Can you add one at half past 4 in the evening and name it Cleaning?",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Good. I need to add an alarm named Leave for home for afternoon 3:30",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  },
+  {
+    "intent": "INFORM_INTENT_AddAlarm_INFORM_new_alarm_name_INFORM_new_alarm_time_SELECT",
+    "utterance": "Alright, fine. I would like for another alarm to be added for 16:30, and for the alarm to be titled Music Practice.",
+    "origin": "DSTC8-SGD",
+    "domain": "Alarm"
+  }
+]

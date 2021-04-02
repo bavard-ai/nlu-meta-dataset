@@ -1,0 +1,2210 @@
+[
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "That amount is 105 bucks with Svetlana.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Rachel is the contact name and the amount is $137.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Yumi owes me thirty five dollars",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Please request 126 dollars from Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The person's name is Svetlana and the transaction amount is 32 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I want to send 38 bucks to Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Request $17 from Jerry please",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Please set up the transaction with Rachel for four bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The name of the contact is Amelia and the amount is 115 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Transaction with Peter for 101 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Amelia is the name of the person I need to collect $112 from.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The receiver name is Margaret and the amount is $94.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I need to pay Yumi 15 dollars",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "the transaction is with peter and it's for $79",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I need to transfer 150 bucks to Margaret",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The beneficiary is Victoria. I have to pay $65",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I am requesting one hundred and forty five bucks from Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "This is to pay Peter forty two bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "It is for fifty two bucks and I would like to request the payment from Emma. She borrowed the money from me and hasn't paid me back.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The payment should be to Margaret in the amount of 132 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "You'll be paying Svetlana 17 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "It'll be 96 dollars being sent to Mahmoud",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Request a transaction with Rachel for $111.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I want to request 45 dollars from Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Transact with Victoria for $149.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The payment is of $112 to Tom.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The transaction will be made with Amelia, and the amount of the transfer is for 30 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Please transfer $114 to Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I need 61 bucks from Mahmoud",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Transact $116 to Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "It's Svetlana for 124 dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The person's name for the payment is Svetlana and it will be for 68 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I am sending it to Rachel and the amount is $162.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "This will be going to Victoria, 14 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I want to request 164 bucks from Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The person making a transaction is Amelia for one hundred and twenty four dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The transaction will be between myself and Mahmoud for 56 dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I'd like to request 80 dollars from Rachel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Please set up a transaction with Tom for $36.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I need to ask Amelia for 135 dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I want to request 49 bucks from Mahmoud.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The name is Amelia and it'll be for one hundred and twenty six dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Amount will be 162 bucks and the name of the person to make transaction is with DIego.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The transactions is to be made with Emma and this will be for 20 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Send $79 to Victoria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "The amount is fifty two bucks and the contact person is Wilson.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I want to send forty five bucks to Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "Could you request 43 bucks from Tom?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I want to request 79 dollars from Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I would like to request ninety three dollars from Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_receiver",
+    "utterance": "I want to make the transaction with Svetlana for $105.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "117 dollars to Tom, from my in-app balance. Thank you.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "The payment is from my balance for $72 to Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I want to send seventy two bucks to Mary using in-app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I am sending Margaret $89 from my debit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I would like to send seventy five dollars to Rachel from amex.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "Please send Wilson fifty one bucks from my visa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "Send $123 from my bank account to Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I will be sending the amount of $48 from my checking account to the contact named Rachel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "Transfer of 93 bucks to Wilson from my credit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I am making this transaction with Peter. Please send 51 bucks from my checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I'd like to make a transaction to Svetlana for fifty eight dollars sent from my visa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I would like to make the transaction to Rachel in the amount of 31 dollars from my credit card please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I'd like to make the payment to Wilson from my balance. Pay him one hundred and twenty three bucks, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "Please send 94 dollars to wilson from my app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "The payment is from my check card for 44 dollars and goes to Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "Can you please send Bob 115 dollars from my in-app balance?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I want to pay Mary eighty five bucks via MasterCard.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "The payment is going to Margaret in the amount of 132 dollars and I'd like the funds to be taken from my in-app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "The contact is Svetlana, the amount is 119 dollars, and the money should be transferred from my credit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "The name is Victoria. Send $3 from my master card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method_INFORM_receiver",
+    "utterance": "I'd like to make a payment to Wilson, sent from my balance for the amount of one hundred and thirty one bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "It's Wilson.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name of the contact is Jerry",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to request a payment from Margaret.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Please initiate a transaction with Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The person I am making the transaction with is Yumi.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name is Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "His name is Bob.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need the money from Emma",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name of the person with whom to make the transaction is Diego.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to make a payment to Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to pay Amelia some money I owe her.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to pay Mary",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to pay Emma",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "It's from Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The payee's name is Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "His name is Diego.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Request money from Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to pay Emma back.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "That'll be with Svetlana.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Make the payment to Victoria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The contact whom I would like to make a payment is Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Please send the request to Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to request it from Tom.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to send the amount of money to Tom.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name of the contact is Yumi.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The person I want to make the payment for is Mahmoud.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "That would be Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I would like to pay Mary please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to make a transaction with Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to request a payment from Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Her name is Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Oh, sorry. I'd like to send it to Mahmoud.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Her name is Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Send it to Yumi.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need it from Tom",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I wish to have transaction with Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to send it to Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to collect fro Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "To Diego, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to make the payment to Margaret.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The request is to Rachel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Margaret in my contacts.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I need to send Wilson a payment please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Send it to Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Make the transfer to Victoria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Victoria, please. Thank you.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "please request payment with tom",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Jerry is the payee's name.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Yes, it's Tom.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name is Yumi.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Bob, my friend from work.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to make the transaction with the person called Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Yes, I would like to make the transaction with Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name of the contact is Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Yes, her name is Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to make it with victoria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Request a payment from Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I want to transfer the account pf Wilson.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Rachel is the recipient.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I'll be sending it to Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Yes, I would like to make the transaction with Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Rachel is the name of the receiver.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The person I need to send the payment to is in my contacts as Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Transfer it to Rachel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The person making a transaction will be Svetlana.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name of the receiver is Diego",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The contact person name is Mahmoud.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "It will be sent to Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Send the request to Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Please set up a transaction with Wilson.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Let's request it from Isabella please",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Isabella is the name of the receiver.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Make it to Amelia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Her name is Victoria.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "Please make the transaction with Margaret",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I am paying Margaret",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The contact name is Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name of the contact is Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The recipient for the transaction is diego.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "This transaction is with Yumi.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The name of the contact is Svetlana.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The person you need to make a transaction with is Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The transaction is with Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The person's name is Rachel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "I am sending the money to Mary",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_receiver",
+    "utterance": "The person I'm requesting is Rachel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to pay something.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "There is something that I need to pay, I want to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Hi, could you help me make a payment please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Thanks. I'd like to make another payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I'd like to pay for something.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to transfer the amount.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to make a payment please!",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to make a money transfer for which I need your help.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need help making a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Great, thanks. I'd also like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Yes, I would like to make a payment please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Hi I would like to transfer a payment to somebody.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I wish to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need your help with a payment",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Can you assist me in making a payment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "i need to make a payment",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "OK, now make another payment for me",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to set up a payment to someone please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to have a payment made.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I'd like to make a payment",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Hello, I want to make a payment on my account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Hello. I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Can you please help me make a payment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I have a transaction, can you do it?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I have to make a payment",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Make a payment for me",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to make a payment right now.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Now I would like to actually do a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Could you help me make a payment please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Make a payment for me please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Can you also help me with making a payment as well?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Would you be able to help me with making a payment please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Could you make a payment for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Can you help me make a payment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to make a payment please",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I am wanting to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I wonder if you could help me with a payment that I need to make.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Hey, could you help me make a payment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to send a payment to someone.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I'd like to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Transfer some funds for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I just got paid today and need to take care of some finances.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I have to make a payment",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I am looking to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I want to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I would like to make another transaction. I need to make a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to pay someone.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "Can you make a payment for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment",
+    "utterance": "I need to initiate a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "I want to ask for a payment from Amelia for 155 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "Can you request a payment from Margaret of $106?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "yes please, I need to request a payment of 111 dollars from Diego.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "It's just coming to my mind that requesting a payment is what I need to do now. Please set up a transaction for 35 dollars with Bob.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "Hello, I would like to request a payment of one hundred and fifty seven dollars. The request will be made to Isabella.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "Please request a 117 bucks payment from Margaret.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "Cool. I also need to do a payment request with Tom and that's going to be for fifty eight bucks, okay?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "I just remembered that I want to request a payment. The amount of the transaction is for $77, and it is with Svetlana.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "Can you also request $161 from Jerry?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "I want to request a payment from Diego for one hundred and eight dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "Oh, I just remembered, I also need to request a payment. Set the transaction up with Peter, the amount is one hundred and eighty eight bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "Yeah I'd like to request a payment of 134 bucks from Mahmoud.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment_INFORM_amount_INFORM_receiver",
+    "utterance": "I need to request a payment in the amount of eighty six dollars from Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I would like to make a payment to Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "Can you make a payment to Tom?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I have to make a payment with Margaret",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "Hi, could you make a payment to Isabella please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I want to make a payment to Margaret.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "Please do a transaction with Margaret for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I need you to make a payment to Mary.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I wish to make a payment to Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I need to arrange a transaction please for a payment I'd like to make to Rachel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I wish to make a payment ot Bob.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "Help me make a payment to Emma.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I need to make a payment to Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "Hi, could you make a payment to Jerry please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_MakePayment_INFORM_receiver",
+    "utterance": "I would lake to make a transaction with Diego.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Use my credit card for the payment and make it for twenty five dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "I want to transfer one hundred and seventy one bucks from my credit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "I would like to transfer 33 dollars from visa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Send one hundred and fifty five bucks, but from my app balance actually.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "It will 129 bucks. Send it from my debit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Send the payment from my balance please, in the amount of $168.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Send $110 from my check card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "I need the amount to be one hundred and thirty two dollars from my debit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Transfer the amount of 117 bucks from my checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "From my app balance for 7 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "You can take it out of my app cash and it should be for thirty four bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Pay her $16 from my bank account",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Please send from app cash for 34 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Send from my balance, and this will be for 53 dollars.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Use my JCB, please. It will be a ninety eight bucks payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Take it out of my balance, if you would. 164 bucks.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Send 105 bucks from UnionPay.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "I want to transfer 121 dollars from my MasterCard.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Use my saving account and it's $116.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "It's for $155, and you can transfer it from my JCB.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "I need to pay 176 bucks from my saving account",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "I need to send her ninety six dollars from my checking account please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Could you transfer $47 from the money in app?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Send 79 bucks from my app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "One hundred and forty one dollars from the saving account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "Send twenty four dollars from my money in app.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_amount_INFORM_payment_method",
+    "utterance": "I will be sending sixty four dollars from my balance please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "Make the transaction to Rachel from my visa.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "Make it to Yumi from my bank account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "please send via my visa to bob",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "The payment should be sent from my balance to the person named Diego.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "The name is Margaret. I have to make the transaction from my Visa card",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "The contact individual is Margaret, and you should transfer using my saving account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "Please make the transaction with Mahmoud from my saving account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "I would like to use my in-app balance and make it with Mahmoud.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "I am going to make a payment from my checking account to Svetlana.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "Transfer it to Peter from my saving account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "Please make the transaction with Victoria from my in-app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "I'd like to send some money from my bank account to Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "The contact's name is Mary. Please send it from my credit card instead.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "I want to use my JCB to make the transaction with Wilson.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "I want to transfer money from my bank account to Peter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "The transaction will be to Amelia from my credit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method_INFORM_receiver",
+    "utterance": "I'd like it from my checking account and the name is Mahmoud.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Transfer money out of my checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my master card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I would like to make a payment from my MasterCard.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I'd like it from my in-app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Go ahead and send it from the money in app.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I would like to transfer it from my bank account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Let's transfer it from my in-app balance",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send the money from my debit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send from money in app, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my credit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Transfer the money from my amex account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send it from UnionPay please",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Please make the payment from my debit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Transfer it from my check card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "From my app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send from my check card, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send the payment from my in-app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my checking account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my credit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my debit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Neither, my credit card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send that from my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Please send the money from my mastercard.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I will pay via in-app balance please",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I prefer from my bank account",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Please send it from my balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Do it with my MasterCard please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I want the money to be send from my JCB.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Take it out of my MasterCard please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I would like you to send it from my bank account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I would like to make the transfer from Master Card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my master card.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send it from my in-app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I'd like it to come from UnionPay please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Please transact from my money in app.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my debit card, please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "I would prefer to sent it via UnionPay.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Choose my saving account for sending.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Please take it from my in-app balance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send it from my JCB",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my checking account please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Use my UnionPay.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_payment_method",
+    "utterance": "Send the money from my bank account.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Now I'd like to request a payment",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Yes, I'd like to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I remember now that I have to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Okay, good. May I also do a payment request?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Okay, great. Now, would you assist me with a payment request?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Can you also help me request a payment?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I want to request funds.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I need to collect money from someone who purchase a basket from my online store.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Yes actually. I'd like to request a payment from someone.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Okay, thanks. I also need to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Yes. I just remembered that I need to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I just recalled that I have a payment to request.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I need to request payment from someone.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Yes, I need to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Just remembered that I need to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I will need to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I also need to request someone to pay me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "If I need to request a payment, can you help me to do so?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I need to collect money from someone who has yet to pay me back.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Oh, I need to request a paymnent.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "OK, thanks. I just remembered that I am supposed to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Yes. I need to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Can you request a payment for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Yes, I also will need help with requesting a payment from someone.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Right now yes, request a payment for me",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I will also need to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Could you also help me request a payment please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I'm also going to need a payment request please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I need to make a payment request.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "Thanks so much, I would also like to request a payment from another friend.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "OK, now help me request a payment",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  },
+  {
+    "intent": "INFORM_INTENT_RequestPayment",
+    "utterance": "I want to request a payment.",
+    "origin": "DSTC8-SGD",
+    "domain": "Payment"
+  }
+]

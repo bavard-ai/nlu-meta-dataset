@@ -1,0 +1,410 @@
+[
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Great, thanks. Can you check when I'm free Thursday next week?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thank you. When am I free on the 5th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "thanks, whats my calendar like on march 13th",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. What time am I free on the 9th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. What open times do I have on the 12th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks so much. Will I be free on the 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. What hours do I have free on March 12th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "thank, what is my calendar on the 10th",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. When's my free time the 1st of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks a bunch! When will I be free on Wednesday next week?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. May I know my availability on 10th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks much. Please can you check if I'm free on March 4th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. What time am I free on March 11th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks! When will I be free on the 10th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "What's my availability this Sunday?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thank you. When will I be free on this Saturday?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks.Can you look when I am free on the 14th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "thanks, when am i free on the 11th of march, by the way?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks a lot. Do I have free time on March 7th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "thanks, do i have an open slot on my calendar on the 9th",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Great, thanks! Can you check what time I'm free for on the 1st?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks a lot. When do I have free time on the 2nd?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. Find what time I am free on the 4th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. When's my free time the 13th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. What time do I have open on the 11th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. Please check when I'm free Friday next week.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. When do I have free time on the 2nd of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. Can you check when I'm free on the 7th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. Tell me what time I am free on the 6th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks, can you tell me what free time I have on the 12th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks, what is my availability on the 8th of March?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks! May I know when am I free on March 9th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thanks. When am I free on the 10th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_INFORM_event_date_THANK_YOU",
+    "utterance": "Thank you. When am I free on that date? Its the 6th of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thank you. When am I available that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks, Please tell me, when am i free on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "What's my availability on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Great! Thanks. When will I be free on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thank you. What's my schedule like that day, when am I free?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. When am I free on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks a lot. Do you have free slots for that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thank you. When am I free that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. Can you tell me what my schedule looks like that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "What's my schedule like that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. When am I available on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks, what other times am I free on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Great, how much free time do I have on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Could you find out when am I free on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Cool, thanks! Can you check if I have any free time on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks for that. When am I free on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. Tell me when I am free.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Great thanks, when am I free that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. When do I have free time on that day.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thank you for your help. What time am I free on that date?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Can you tell me what my schedule looks like on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Great. Can you tell me what my schedule looks like that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks a lot. Can you check my free slots for that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "thanks a lot",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks, am I free that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "when am I free?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks! When am I available on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "thanks, when am i free on my calendar",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Check my calendar for that day and let me know when I am free.",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "May I also know when am I free on that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. When's my free time that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks a lot. At what time am I free?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. When is my free time that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  },
+  {
+    "intent": "INFORM_INTENT_GetAvailableTime_THANK_YOU",
+    "utterance": "Thanks. When am I free that day?",
+    "origin": "DSTC8-SGD",
+    "domain": "Calendar_Services"
+  }
+]

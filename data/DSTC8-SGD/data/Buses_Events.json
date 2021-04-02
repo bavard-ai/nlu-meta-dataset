@@ -1,0 +1,122 @@
+[
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not right now, I need to get a bus ticket to go there first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Let's do that later. I need to get a bus there first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not right now. I need to find bus tickets to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Let's hold off for a bit and check on bus tickets to get there, first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not now. I want to buy bus tickets first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Possibly later. Right now I'd like to reserve the bus to go there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not at this time, though I would like to purchase bus tickets.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not yet, but I want to reserve the bus to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Maybe at a later date I'd like to buy bus tickets there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not at the moment, but I would like find a bus to this place.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "I have to think. please check for bus tickets to go to that place of event.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "It can be done later. I wish to book a bus to go to that event.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not at the moment. I need to see if I can get bus tickets first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not now exactly but might be later on. Right now, I wish to get the bus tickets to reach that place. Can you help me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Maybe later, not yet. I want to reserve a bus so I can go there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not right now, I would like to purchase a bus ticket to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "not right now, i am looking for a bus ticket to get there",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "In a bit, I need to make sure I can find a bus there first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "No, maybe later. I'd like to buy bus tickets to get there first.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  },
+  {
+    "intent": "INFORM_INTENT_BuyBusTicket_NEGATE_INTENT",
+    "utterance": "Not at this time, however I would like to buy a bus ticket o the game.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Events"
+  }
+]

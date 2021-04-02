@@ -1,0 +1,86 @@
+[
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "Great. Could you find me something interesting to do on the 5th of March near Las Vegas? I like Play.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "That sounds good! Can you help me find a Stage Show I could catch when I visit Chi-town on the 13th?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "That's great. I'd like something interesting to do around there eon March 13th in NYC. I'm into Musical performance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "It is good. I am looking for something interesting on next Tuesday around Philly. I love to hear Musical Performance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "That sounds good to me. Can you find me some stage show around Chi-town on 2nd of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "Okay, cool. I also want to find interesting Music related things to do on the 10th around SF.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "I'm intrigues. Let's switch to something else now, find some musical shows in vancouver on the 6th of this month",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "I would like to attend a Drama event in Toronto, Ontario on March 14th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "That sounds nice. I'd like to find something interesting to do there that day the 4th of this month. I need something around Portland, OR. I like Drama a lot.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "Sounds good. Could you find me something interesting to do in Toronto, Ontario on the 4th of march, like a play o rsomething.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "That sounds good. Can you find me something interesting to do on the 9th of this month? I would like to find some Music events around Berkeley.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "Okay, that sounds good. Can you also help me find something fun to do on the 5th of this month? Is there a good stage show happening in Los Angeles?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "Seems as a nice one. Though now I am interested in finding something to do there on 14th of March somewhere in NYC, and more specifically I enjoy Musical performance.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  },
+  {
+    "intent": "INFORM_INTENT_FindEvents_INFORM_city_INFORM_date_INFORM_event_type_SELECT",
+    "utterance": "That's good. I'd like to search for some fun ting to do on March 9th near Chicago; I enjoy Stage show.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Movies"
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hm, can you tell me about what entertainment venues might be on the west side of town instead?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hi! Could you help me find a museum to go in town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm looking for a theatre. Can you recommend one?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about a theatre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Could you help me find a place to go? I'd like to find some architecture.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm looking for some architecture to visit. What are my options?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I would like to visit some of the architecture here in town. Can you help me with this?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about a museum then?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you recommend a nightclub?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Okay. How about a boat anywhere in town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hello, can you help me find a museum?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Sure, is there a nightclub in that part of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Do you have information about nightclubs?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am looking for a theatre to visit. Would you have any suggestions?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'd like to visit a museum in town. What can you suggest?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "What museum would you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I would like to find information on boats in town",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am looking for nearby museums",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you give me information about local parks I can visit while I am in Cambridge?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Are there any colleges I could visit?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Okay, what about an attraction that is in the type of entertainment?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Good afternoon. It's such a beautiful day out and I am visiting here. Can you tell me if there is a park nearby to where I am?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Okay, are there any cinemas in the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Are there any places that have multiple sports?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "It doesn't really matter. What's your recommendation?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about any that are about architecture?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you recommend any good museums there?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I would love to maybe tour a college if I can.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Are there museums instead?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hi I am looking to go to a museum in town please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am looking for a museum to visit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I want to find places to go in town, specifically college attractions.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about something with entertainment?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hello I am looking for a college, can you help me?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "What about colleges?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I like looking at the architecture of old buildings. I think it says a lot about how we used to live.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "What about a type of college?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "should be in the type of architecture in the South part of town",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm looking for a museum in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm trying to find a good museum in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "No. How about colleges?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm looking for boating activities in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Please help me find general information about park type places to go in Cambridge.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am looking for a museum to visit!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about an entertainment attraction instead?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am looking for a museum in town",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Either or would be fine!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm hoping to find a nightclub in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm looking for an entertainment spot in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I have no preference. What do you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am looking for things to do in Cambridge. Can you tell me if there are any nightclubs?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "What about a museum?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am trying to find a really neat museum to visit. Would you be able to tell me whats available out there?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you find information about nightclubs?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Yes, hi. Can you help me locate a cinema.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you find me a cinema in town that I can go to?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'm looking for a nightclub.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am looking to visit some places of interest while I am in Cambridge. Perhaps some colleges?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Do you have any colleges in the centre area?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "A museum, please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about a college in the west?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hey there. I am hoping you might be able to tell me what kind of entertainment is happening tonight in town near where I am staying.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hey, are there any good cinemas in Cambridge?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I would really like it to be entertainment.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hi, I am looking for a entertainment attraction to visit. Do you have any recommendations?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I would prefer the cinema.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hi I am looking to go see a college while in Cambridge. Can you tell me about any of them?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Could you help me find a museum to visit?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Do you have a suggestion?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hi, I want to find some water and go boating somewhere around town. What do you have listed?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about a college?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I am getting ready to go off to college. I thought while I was in town maybe I could visit one.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I need a recommendation for some entertainment in the city.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "How about a museum instead?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I would like to visit a museum.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you help me find a swimmingpool?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you please help me find a museum?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Are there any theatres in town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Can you tell me the different museums please",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Yes, I would consider a museum.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hi, I'd like to find a museum please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "No. Which one do you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I need to find a place to go for entertainment.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I'd like a nightclub please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "What about a type of park?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "Hello, I would like information on museums in town",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_type",
+    "utterance": "I think visiting a College sounds interesting.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Do you have any in the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am looking for sports facilities in the town centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am looking for an east-based place to go in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am looking for a place to go in the south.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'm in the centre of town and need suggetions on things to see.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Are there any places to go in the town centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I would like them to be in the Centre area of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Yes, I'd like more information on one in the centre area please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hi! I'm looking for somewhere to go in the centre area.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I would like the attraction to be in the centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am looking for information on the town centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am looking for a swimming pool to go to in the north.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Are any of them in the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "What part of town is that in? I'd like to stick to the east side, if possible.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'd like a sports place in the centre please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I think I'd like to visit the centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am open to any side of town!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "is there a nice night club in the west that you can recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'm looking for an attraction to visit. Is there anything located in the west part of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "What attractions are in the town centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hi! Can you help me find an attraction to visit in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hello, I'm hanging around town tomorrow due to an appointment and want to do something fun while I'm there. I'll be on the town centre most of the day.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hello. I'm looking for a place to go in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Any area would be fine. Can you recommend one for me?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I need some recommendations for attractions in Cambridge at the centre, what would you suggest?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Nothing particular. What is your favorite attraction in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Do you have anything else closer to the centre of town? Or perhaps a theater?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "What's fun to do on the south side?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'm looking for a place to go in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "It is in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I need information on the town centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Yes, I'm looking for a place to go in the south.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I don't care which part of town it's in. I don't mind doing some walking.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "No particular attraction but I do need it to be in the centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Thanks. I'm looking for a place to go on the south.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I would like it in the centre, please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'm looking for a sports facility in the town centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I do not have a preference.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'm looking for a place to go in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I would like some information about interesting places to go in the center of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hello. What sort of attractions are available in the center of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am looking for attractions in the town centre",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Would you happen to know if there is a swimming pool in the north?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I don't mind but I'd prefer something in the east",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'd like to find some place to go on the east side of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I want to find some good places to go in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Well, I guess I forgot to specify that I need something on the south end of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I need a concerthall on the west area of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I'm trying to find a concert hall in the east part of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Actually yes, find me a mutliple sports attraction in the centre please",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Something in the North, please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I want to know what attractions are in the centre, please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Can you found me a swimming pool in the south part of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hello, I am trying to find an attraction in the west part of town. Can you help me?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Are there any attractions at all on the south side of the city?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am in the northern part of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Are there places in town centre of architectural interest?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Is that a multiple sports attraction in the centre? How much does it cost?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "What kind of attractions are available in the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Can you find me an attraction in the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hello, are there any fun places to go in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Hi, I'm curious about attractions located in the center of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I think maybe the north for this trip.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "Yes I would like the center.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "What theaters are on the east side of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "What's in the center of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "I am looking for interesting places to go in the south part of town. Can you help me with that?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area",
+    "utterance": "What attractions do you have in town, preferably near the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Can you recommend one please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No, what can you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "I am trying to get some suggestions on where I can take my wife for our anniversary. We want to try to find something fun to do.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Yes, please!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No, just tell me one you think is nice.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "I don't have a preference. Can you recommend me one?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No, that's all I need.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "I'm not sure yet. Which one do you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Yes, can you call them for me please. I am not from the area and do not want charges on my phone.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Entrance fee is not an issue.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Maybe you could give me one other option?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "no that takes crare of it",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "I would prefer a museum. One with free entry if possible.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Please tell me one of the free ones, please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "What would you suggest?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Sure! Which one do you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "That is everything I need.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No specific area. Can you recommend one for me?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "There are no colleges in all of Cambridge? I don't believe that is true",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "Nothing in particular. What do you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No, that's all.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No, which one do you think is the best?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "What would your best recommendation be for one?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No, I am only looking for entertainment or museums in the centre of town. Can you look again?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "No, I don't have a preference. May I please have some suggestions?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_name",
+    "utterance": "That sounds interesting. How much do they charge for entrance?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "What is the postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Yes, and the postcode please!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Sounds perfect. What is the postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Could you also provide me with the postcodes for these establishments?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Can I have their postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "How about All Saints? And could I have a postcode please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "What is the postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Yes. What is the postcode for Churchill College?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Thanks so much, that's very helpful. Could I get the postcode as well, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Well, the price is great. What is there postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Not at this moment. I would like the museum's postcode, though.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "What's their postcode, and how much is it to get in?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Yes that would be fine and I need the postcode of the one you suggest.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Not really. Can you just tell me your favorite and let me know how it will be for me to get in? Oh, and the postcode, for my GPS.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Can you let me have their postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "No, thanks. Can I get the postcode for Funky Fun House, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "What is the postcode for your recommended one? You choose.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Can I get the postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "What is their postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Yes, do you have the Abbey Pool postcode, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Oh cool! What is the postcode for that please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "That would be great. Can I get the postcode, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_postcode",
+    "utterance": "Can you tell me the postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Yes, Hello. I would like info on Milton Country Park?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Are there any museums in the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Please help me find people's portraits exhibition at girton college.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Do you have information about the Saint Barnabas Press Gallery?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Can you tell me about the Cambridge university botanic gardens.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Do you have any details for Jesus Green Outdoor Pool?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I need information on the fitzwilliam museum",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Yes, please. That would be great.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "My brother told me about this attraction place called Abbey Pool and Astroturf Pitch. Would you be able to tell me where it is?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I'm looking for an attraction called Cambridge Artworks. Do you have any information on it?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Yes, hello. I'm looking for a particular attraction called Downing College.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I'm looking for some info on an attraction called Kettle's Yard.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Hello, I am looking for information on kambar. What do you know about that attraction?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Do you know where I can find the Holy Trinity Church?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I am looking for information on the Kings college attraction",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I am trying to find the Parkside Pools.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "The Mumford Theatre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Hello, I am looking for People's Portraits Exhibition at Girton College, can you help me?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I need more information about Nusha.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I'm looking for an attraction called Williams Art and Antiques.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I'm looking for the Kings Hedges Learner Pool. Can you give me their contact info?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I'm looking for information about a particular attraction. It's called the Man on the Moon.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Hi! Can you please help me? I'm looking for information on Great Saint Mary's Church.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I would like information on The Cambridge Corn Exchange",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I need information on the scott polar museum",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Hello, I would like information on club Salsa",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "What is the full address and zipcode of Cafe Jello Gallery?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Someone told me about a place called Old Schools. It's supposed to be some kind of attraction. Can you tell me anything about it?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "I am trying to find information about ADC Theatre, can you help me?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_name",
+    "utterance": "Hello, I'm looking for the museum of classical archaeology, could you tell me more about it?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Can you please help me find a place to go?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "I am looking for a place to go in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Can you help me locate a swimming pool?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Can you suggest some places I can go on my upcoming visit? I'm super excited to be able to see some of the local attractions.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "That is fine. Book me a ticket and get me a reference number.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Can you help me find a concert hall?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Yes, i need help finding a place to go?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "I have the name of an attraction that I need help finding.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "I'm looking for a cool place to go in town later.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Yes, i would like help locating an attraction.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "I am looking for a place to go.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "I am looking for information in Cambridge.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "I am looking for a place to go!",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Can you recommend a favorite place to go?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Hey there. Can you help me find a swimming pool here in the city?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_none",
+    "utterance": "Would you be able to help me with a particular attraction?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Do you have in attractions in a type of park in the south?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for some entertainment related places to go in the centre of Cambridge.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Can you find me a theatre in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Tell me what colleges are in the west side of town",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a multiple sports attraction in the centre of town",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Can you help me find a college to visit in the centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Hi, I am looking to go to a place with multiple sports in the centre. Can you help me?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a nightclub to go to. Are there any in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking to go to a college in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Can you help me find a college in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Are there museums in the town centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I would like to find a place to go in the centre of town, that includes multiple sports",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Can you help me find a nightclub in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a place in the centre of town that is a nightclub.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I want general information on entertainment type places to go in the south.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Yes, i was wondering if there are any cinemas in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Can you help me find a place to go in the west section of town? I would like to go to an architecture attraction.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Are there any entertainment spots in the town centre?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Tell me about museums on the west side of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Good Morning, I am looking for a place to on the east side that has entertainment",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Could you help me find a place for entertainment? Something on the east side of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I am looking for a college in the west part of town to visit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Can you see if there are any entertainment attractions in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Could you help me find a boat to visit on the north side?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for some entertainment in the center of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Hello, I am looking for something to do in the west part of town. It sould involve multiple sports.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a park in the south part of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Are there any multiple sports in the centre of town?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I would like to go to a park in the center of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I am looking for a college to visit in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Give me information about museums in the west side of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I am looking for a museum in the town centre.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I want to find a museum in the centre of town please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I would like to visit a cinema of the west side.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'd like to visit a college in the center of town. Could you help me find something interesting?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a park in the centre of town to visit.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for places to go in Cambridge. I want to go somewhere in the south, and I want it to be a museum.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a museum to visit in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a place to go in town to have fun. Are there any nightclubs in the west?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'm looking for a nightclub to visit in the centre area.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I want to go visit a college in the east part of town please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I want to tour a college in the centre of town. What's available?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I want to visit a college in the centre of town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I'd like to definitely see something in the centre of town. How about a museum? Can you recommend a nice one?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I am looking for a college in the West in town.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "I really wanted to stay in the centre. How about a museum?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Hi, I'm looking to visit a park in the east part of town, do you have any recommendations?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Inform_area_type",
+    "utterance": "Are there any places in the south section of town the has to do with multiple sports?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "What is the entrance fee for that?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Sounds awesome! Is there an entrance fee?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "No, can you tell me what the entrance fee is?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Okay, I'd like to a see a college that you recommend. I will need the entrance fee.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Is there an entrance fee?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Surprise me. What are the entrance fees?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Could you tell me the entrance fee for that?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Do you know the entrance fee?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Can you tell me what the entrance fee is?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Can you tell me what the entrance fee is for those?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "What are their entrance fees?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Which is your favorite? And what is its entrance fee?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "What is the entrance fee?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Is there an entrance fee for Ballare?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "how much is its entrance fee?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_entrancefee",
+    "utterance": "Sounds fun. Do you know the entrance fee?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Perfect, can I get the address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Yes, can you tell me their address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Great! Can I have the address, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Please send me their address.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Sounds good. Could you give me their address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Sounds good, could I get the address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "What's the address of that college?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Really anything will do. I have to kill some time in between appointments. Can you recommend something and send me the address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "How about an address?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Could I get the address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Can I get the address for that please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address",
+    "utterance": "Could I get the complete address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Do you have their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That sounds good, what is their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That sounds great, can I please get their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "No thanks, I just need their phone number, please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That sounds good, what's the phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Yes please. I would love the phone number.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Can i get their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That sounds good. What is their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "I'd like to go to a museum. Can you tell me your favorite? And if you have their phone number that would be really great.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Can I get the phone number for that?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Yes, that will work great. Can I get their phone number please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Awesome, could you please give me their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Great can I get their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "What is their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Yes, give me the phone number please.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That would be great, can you please give me their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Yes, please give me the phone number.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That sounds great! Can you give me the phone number as well?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "I think I would like to visit both Churchill and Magdalene Colleges. May I have their telephone numbers please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "No, I just need the phone number. Thanks so much. Have a good day.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That sounds good. What is the phone number there?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "May I have the phone number please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Please recommend one in the centre and I would also like the phone number.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "What is their phone number?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "No particular area. May I have the phone number of one you recommend?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Can you please tell me what the phone number is for The Soul Tree?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That would be perfect. Can I get the phone number, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "What are the phone numbers for these colleges?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Which is the best college in the Centre and how can I contact them by phone?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "That sounds interesting. Can you just give me their phone number please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_phone",
+    "utterance": "Which is your favorite? Get me their phone number, and I'll check them out.",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Can I have the address and postcode for Magdelene College?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Can you give me the address and postcode for that nightclub?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "What is their postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Can I have the postcode and address for that college?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Actually, can I get the address and postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "That sounds perfect. Can you tell me their address and postcode, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "What is the postcode and address please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "That sounds like it will work. Can I get their address and postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "what's the postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Can you recommend one and give me their address and postcode?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Please pick one and send me their address and postcode",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "That sounds interesting! What is the post code?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "That sounds good. Can I get the address and postcode, please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Could you give me the address and postcode of one in the North please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  },
+  {
+    "intent": "Attraction-Request_address_postcode",
+    "utterance": "Excellent, can I get the address and post code please?",
+    "origin": "MultiWOZ 2.2",
+    "domain": "attraction"
+  }
+]

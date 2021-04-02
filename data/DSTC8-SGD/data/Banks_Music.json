@@ -1,0 +1,224 @@
+[
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you so much. I wish to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you, I almost forgot that I need to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks for the info. Now I should make a transfer",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks. I want to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you. Can you help me make a transfer?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks, now I need a transfer",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks so much! I also have to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you. Can you help me with a transfer?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you, i need to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Sure, could you help me make a transfer please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks. Will you make a transfer?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Oh ok, thanks. I need to make a transfer real quick please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "you're so reliable. can you make a transfer for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "thanks a lot",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks! Oh, I also need to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks. I also need to transfer some money.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks. Will you make a transfer?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks! Now I want to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "I see. While I listen to it, do you think you can make a money transfer on my behalf?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "I appreciate it! Now I want to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you so much. I wish to make a transfer",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you, I also need to make a transfer please!",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks. I need to transfer some money.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "help me make a transfer",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "I also need to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you. Can you help me with a transfer?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Okay thanks. I need to make a bank transfer too.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks. Will you make a transfer?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks. I would like to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks so much, now I need to make a money transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Awesome, I want to make a money transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks! I need to make a transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks, I also need to transfer some cash.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank you, I also need to make a bank account transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thanks a lot. I also need to make a money transfer.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "I see. Could you make a transfer for me please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  },
+  {
+    "intent": "INFORM_INTENT_TransferMoney_THANK_YOU",
+    "utterance": "Thank, I also need to transfer some cash.",
+    "origin": "DSTC8-SGD",
+    "domain": "Banks_Music"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Labyrinth is good. I wish to see some attractions there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "I would like Once Upon a Time. thank you. Will you show me some attractions in the area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Pulp Fiction sounds great. Now please find me some attractions in that place.",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Where'd You Go, Bernadette is a good one. I want some attractions there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "paprika is good. can you show me some cool places here?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Steel Magnolias sounds great.Some attractions there you can find me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "I would enjoy watching Labyrinth. Will you now search for attractions nearby?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "The Movie My Big Fat Greek Wedding is good. I want you to search some attractions there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "After the Wedding will work. Are there any attractions there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "I like Theatre of Blood. I also want to look for attractions.",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Good Boys sounds good. Can you search attractions please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Yes, Paprika sounds great. I'd also like to search for some attractions.",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Rojo sounds good. What are some things nearby to see?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Tel Aviv on Fire would be great. I'd like to find something to do. Can you help me find some attractions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Madeline's Madeline sounds great. Can you show me some attractions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Lord of the Rings is lovely. Could you tell me about several attractions there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Midsommar sounds great. Can you find me some attractions?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "I would love to see Once Upon a Time. Can you show me attractions in a similar area?",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  },
+  {
+    "intent": "INFORM_INTENT_FindAttractions_SELECT_title",
+    "utterance": "Fabric sounds great.Show me some attractions there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Media_Travel"
+  }
+]

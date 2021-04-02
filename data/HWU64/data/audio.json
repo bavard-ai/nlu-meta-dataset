@@ -1,0 +1,1826 @@
+[
+  {
+    "intent": "volume_up",
+    "utterance": "turn the volume up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up the volume on my speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up your volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "make the speaker volume on maximum",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please unmute the settings",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "lower my music player volume by fifty percent of its current level",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please increase volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i need the volume to be <unk>",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up the volume of my speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "rise volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "just increase the volume a little",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn it up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "unmute after",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "could you speak a little more softly",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "the volume of the music playing now should be raised",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "up the volume the sound is too low",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "heyturn the volume high",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i can't hear you",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "speaker volume <unk>",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "audio up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up down the sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i need a high volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please increase volume in music player",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "could you speak up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "speak louder please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "change the volume level to nineteen please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "audio on",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "volume up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i can't hear you can you say it again louder",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please raise the volume of speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please increase the volume of the music hips don't lie",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise the volume to sixty",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please turn up the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "can you turn it up a little",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume of the left speaker by ten",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn my audio higher",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise your volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "more volume please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i cant hear a thing",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "hey sound is low can u tune it up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "bring back talking after",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "can you turn up your volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase volume to fifty percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "volume up down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "unmute my sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i need to hear sound on my speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "the music volume should increase to ninety",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "play it louder",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please speak loud",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please turn my speakers on google",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise speaker volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please turn up the speaker volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "volume louder softer",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn the volume up on music player",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i can't hear you speak up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up the volume on the music",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please speak up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i can barely hear you",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "move the volume up a little",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "unmute",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "can you speak a little louder",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "louder volume please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "main apne speaker ka volume kam karna chahta hu",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "louder",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume of the speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i want the speakers turned up high",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please increase the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "made media volume louder",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume to seventy percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise the volume of the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "louder please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume so that i can hear it in other room",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise volume to level seven on music player",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i need to hear the volume of the current music",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "where is the fire",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "fast",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i need you to have the volume louder",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "on the music player set the volume level at sixty",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "turn volume up to highest level",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume to fifty",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please increase the volume of the current song",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "hello beef up the volume little bit",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase the volume a bit",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "please turn the music up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "i am unable to hear you can you speak little loud",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "can u increase the volume of the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "speak louder please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "can you turn the volume up",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise the volume of the speakers to fifty five percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "raise the volume to ma <unk>",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_up",
+    "utterance": "increase volume please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "cutoff noise",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silence for two hours",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please keep quiet for the next hour",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn the vibrate off from speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "i want you to mute",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute sound on speakers please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "can you mute when i am not home",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn off sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "must yourself when i am in a meeting",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "quiet on",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "keep quite",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please hold for the next hour",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute the sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "don't talk",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "quiet please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "will you please mute my speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "touch the mute button",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute volume now",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please be quiet for the next two hours",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "stop it",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please unmute yourself",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "set the settings to mute",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "no speaking please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please u don't speak in eight to ten pm",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "stop",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "be silent for thirty minutes",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "quiet mode on until i am home from work",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "don't talk until i ask you to",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silence please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "get yourself muted",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn of speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silence",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "don't respond for fifty seconds",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "stop the audio",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "go silent until three pm",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "no notifications for five minutes",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silently adjust",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "google please be extra quiet the baby is sleeping",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "can you please stop speaking",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "set mute mode for one hour",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "i need you to be quiet until tomorrow",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "can you please be muted for a while",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silence speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "off the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silent mode on for the next three hours",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "be quiet",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "don't speak for a while",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please mute the television for one hour",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn the sound off",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "goodnight",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "down the speaker volume at the end of level",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute immediately",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "set the speakers to mute",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute audio",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "do not speak today",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please mute the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please be quiet",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn sound off",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "i need to mute the speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute for one hour",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "volume control",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silence for <unk> amount of hours",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "clear data",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "set volume to zero",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "activate silent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "quite",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute for fifteen minutes",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please be silent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "stop making sounds for forty minutes",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "i want to mute the speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please pause yourself",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "i've got a meeting by tonight seven pm please mute the music for an hour",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute for two hours",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn down the noise",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn the volume off",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "shutup",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute for the next hour please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "be mute",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please quiet the speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "quiet mode four hours",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "go silent for a day",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "turn off the sounds",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "not use",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "pause for ten seconds",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please mute yourself",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "stop playing",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please mute for five minutes",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "silent mode",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please do not answer",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "can you place the sound on mute",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "quiet",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please pause the song",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "mute yourself until i say otherwise",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "quiet time",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_mute",
+    "utterance": "please stop talking",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please lower the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "talk quieter please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the volume of the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please decrease the volume of music player",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the volume on the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the volume to twenty",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower volume of music player",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower volume to half",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "decrease the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "make the volume lower",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "decrease volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "can you speak quieter please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "reduce volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "speak softer please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn down the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "can you make it a little quieter",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "decrease volume to very soft",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please turn down the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "could you please lower your volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "decrease twenty percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "it is too loud decrease the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "your volume is too high please repeat that lower",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please lower the speaker volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn down the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please turn the volume down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn down media volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the speak volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "decrease the volume to ten",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "low the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "slow down the speaker volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "can you turn that down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please adjust the speakers to a lower more comfortable level",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please speak quieter to me",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "too loud",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turh the music lower",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "down the valume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "decrease the volume to ten percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn speaker volumne down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "i want to slow down my speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower speaker volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn down volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower all volume on speakers please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower your volume please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "slow the volume speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn down speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "no no turn it down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn the speakers down to five percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please lower music volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the volume please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower volume by fifty percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "cut down the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lesson the speaker volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower audio",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please talk softer",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "decrease speaker volumne",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "quieter",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "it's really loud can you please turn the music down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please slow down volume of speaker",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn off the bass from the audio",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower the volume ten percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn down volume twenty percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "start the radio now on low volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "you're too loud",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please change the volume low of the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please reduce the speaker volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "set the volume to low",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn the volume down a little please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "volume down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "lower volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "turn the volume down",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "could you please lower the tone",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "softer",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_down",
+    "utterance": "please reducw the sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "could you change the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "set the default audio setting",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "set the average of the device",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "change volume to thirty five percent",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "change volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "change the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "give a pleasant sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "improve volume clarity",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "how can i adjust the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "adjust sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "comfortably adjust sound",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "need to see volume settings",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "volume control please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "adjust the volume",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "change the audio settings",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "change the volume of the speakers",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "show volume settings",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "change volumne settings in the negative",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "where is volume setting",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "change volume level to maximum",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "give me the volume settings",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "volume settings please",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "can you change the volume at",
+    "origin": "HWU64",
+    "domain": "audio"
+  },
+  {
+    "intent": "volume_other",
+    "utterance": "volume level",
+    "origin": "HWU64",
+    "domain": "audio"
+  }
+]

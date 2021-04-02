@@ -1,0 +1,74 @@
+[
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Thank you so much for your help. Could you please search a hotel there. I need one room. I wish to search hotels around Long Beach, CA.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Thank you. I also need two hotel rooms in Los Angeles.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Thank you so much and I wish to find a hotel there. I wish to reserve 1 room around Vancouver, BC.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "I also would like two hotel rooms in the Sydney, NSW area.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Great, thanks for your assistance. I'm also looking for a hotel in that area. Specifically something around ATL. I would like to book two rooms all together.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "I'd also like 1 hotel room in Philadelphia.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Thanks for reserving the car. I also need to book two hotel rooms in Portland.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "I also need to book 1 room around Delhi, India",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "I appreciate your help, though I need you to help me find 1 room in a hotel in Paris, so I have a place to sleep.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Thank you, let's also search for a hotel there. I will need 1 room in Las Vegas.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Thank you for your assistance. Could you also help me book 1 room in a hotel in Seattle, WA.",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchHotel_INFORM_location_INFORM_number_of_rooms_THANK_YOU",
+    "utterance": "Thank you for the help. Can you book me 1 room in a hotel located around London, England?",
+    "origin": "DSTC8-SGD",
+    "domain": "Hotels_RentalCars"
+  }
+]

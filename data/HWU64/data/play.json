@@ -1,0 +1,3002 @@
+[
+  {
+    "intent": "music",
+    "utterance": "open playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play metallica",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "put summer lovin in third position in my queue",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the song let it go",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "put classic rock on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i want to hear country music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play greenday",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "load spotify",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my r. n. b. playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "put poker face by lady gaga next in the play queue",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "tune in some music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play all indie pop songs",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play all third day",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i want to hear rock",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play me last year's hits",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "please play songs in music player only arijit singh's",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "find me a good pop song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my latest playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play song aces high",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "music on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play song <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "put on some led zeppelin",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "find some smooth jazz for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play rein in blood by slayer at five am tomorrow to make sure i actually wake up",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the footloose song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the music of justin bieber",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play blackeyed pees song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play me some radiohead",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i want to hear tum hi ho next",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play romantic english songs",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i would like to hear aretha franklin's call me after this song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play classical chamber music playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "can you put on my playlist of metal music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "pink nobody knows",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the track eight from google play music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play jazz from jennifer's latest album",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "spotify",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i would like to listen to some rap music right now",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play hula hoop next",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play hip hop music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play get happy by ella fitzgerald",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play country playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "can you open my itunes",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "mukkala mukkabilla",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play irene from tobymac",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i want to liston arijit's songs please tune that",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "my desire is to listen to some country music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play fork songs intamil",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "please play some jazz misic",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "please play only songs from the genre rap in my playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my first favorite song on loop",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play foke",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play music by korn",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "favorite foke",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play atmosphere next",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play top forty dance",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the barney theme song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play item one",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "can you please play imogen heap",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play sholay",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the latest song adele",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "can you play my music file",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play bilando",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "let's play that song again",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "please play my pop playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play edms",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the first song on my playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "can you play some country music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my pop playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i want to hear chopin now",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "let's listen to some jazz",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play new rihanna song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "please i want to hear we will rock you from queen",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i want to hear <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play i walk the line by johnny cash",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "hey siri start a playlist of nine inch nails",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "no body knows",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i like to listen to jazz",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play sufi songs",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my jazz playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play for me jazz music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play songs by sia",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "i'dl like to hear any classical except for bach or schubert",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play boneym",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play the song immediately",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "want to play songs depends on my mood",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "let me hear some bluegrass music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my favorite music",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play songs from favorite",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play music from my favorite pandora artist station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play song all the small things",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my <unk> insert genre <unk> playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "please play next song",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play bu. s. d.river",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play my top rated playlist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "music please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play music from my fav pianist",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "play surfin usa",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "music",
+    "utterance": "turn on bjork",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "move to the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the previous podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "show me the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play my favorite podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play my latest podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "add podcast favourites to playlist and start",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "please start my podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play podcast favorites",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "to open up",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the next podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "rewind the episode of podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "can you play back to december",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "could you skip ahead to the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the next one",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "skip forward to the next episode of this podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "end this podcast start anew",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play stuff you should know",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "go to the last episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "start this week for dinner podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the most current episode of levin",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "get the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "following podcast episode start",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the next episode of this podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "can you play the podcast from tomatojuicecom",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "show me the previous episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play my play list",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "jump to the next podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "please rewind to start of podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "skip this podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "up load all my podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "skip to next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play me the most popular podcast on itunes",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "next podcast play",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "please play next episode of",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "can you play the next episode please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "ted talks",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "find an interesting podcast about last pritzker price winners",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "favourite podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "skip this episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play podcast one",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "keep playing the episodes in order",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "can i have podcast of tvf",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "skip forward to the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play next doctor who episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play next",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "go to next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the seventh episode of the morning after",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play next episode of con man",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "skip to the next episode in this podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "next one please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "skip to next podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "network podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "please play the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "short and simple",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the next recording",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "open my podcasts",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "get me the latest episode of the <unk> podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play this week for dinner now",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "take me to the next episode if her story",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the podcast on the double down",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "can i see the previous episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "favourite",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "search for podcasts that cover men's issues",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "continue onto the next podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "load my playlist titled country favorites and play it",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play a pocast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play next episode of podcast please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "can you forward an episode in the podcast by a minute",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "just let me know the train time to california",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the newest morning show podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play shane dawson podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "forward to four hundred and twenty",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "i want to listen to podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "will you please play a podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "i want to listen to podcast about rock n roll",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play the next part in this series",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play musician play list",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "start with the first episode of that podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "start podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play good mythical morning podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "turn on the marc maron podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "proceed to the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "go to the podcast and play the next episode in <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "please go to next date",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "i want to listen to the latest mike and mike podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play ringcast the podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "can you backward an episode in the podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "start the podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play podcast episode new",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play most recent podcast upload",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play episode of stuff you should know in queue",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "find podcast and play it",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "go to beginning of previous episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "go to the next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play me the new podcast from npr",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "what are todays top podcasts",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play favorites listed in podcasts starting with first one",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "let me listen to the latest lovett or leave it podcast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "podcasts",
+    "utterance": "play next episode",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "rewind audiobook by thirty seconds",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "please open audible app and resume play",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume my audiobook where we paused last",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "i want to hear the book written by the mother of the shooter at columbine",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start play johns audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "read some more of the daisy goodwin book for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume mind reading book",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "lets listen to hunt for read october",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "i want you to fast forward the audio the resume",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play the game of thrones audio book from the last chapter i was on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume playing you are joking mr feynman",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play the book which i heard on some particular day",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play the audiobook swan from first",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play audiobook where we left off",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play audio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "keep playing secret garden",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "read me some more deadly death killers",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play the melody song from audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play wuthering heights from where i left off",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "please apuse this audio book now",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "please play this playback on audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "open book",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "can you play my favorite audio book of harry potter",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume my audiobook from the beginning of the last chapter i started",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume playing <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "using remote",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play this audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "please continue reading audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play next episode of harry potter by j. k. rowling",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "audio book play jai ho",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play audiobook <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start audio book the two towers",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play my book",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "playback tom clancy splinter cell",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "get me resume of newest release audio book",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play animal farm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start the audiobook file for where i left off in a tale of two cities",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "open song name",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play my bookmarked audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "please restart the handmaid's tale",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "continue pride and prejudice",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume play where i left off in book on audible",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play little women",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "pause the book",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start dune from where i left off",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "open harrypotter audiobook and play from last played",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume war and peace",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "continue playing <unk> where i left off",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume audiobook please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play audiobook of arijit singh",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play for me michael jackson song from audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play seven habits of effective people",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "pause resume",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start chapter five of physics for future presidents",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume the song from the audiobook by michael jackson",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start playing american gods where i last stopped",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play me a random audio book that has to do with love",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume the art of war",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start over the book legacy",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "pick up where we left off on battle royale",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "please continue reading the hunger games",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume audiobook player",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "i want to hear a book by torey hayden",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "begin playing the audiobook 'beauty and the beast",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play fault in our stars on audible",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume the last kingdom for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume recent audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "i want to resume where i last left off in my audio book",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "re start bill nye book",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "i want to hear more audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume harry potter book five",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play the davinci code",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "i want to play the audiobook good grief",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "open davinci code audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume the song from the audiobook by madonna",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "can you pause and rewindthe audio then resume",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start audiobook <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume pride and prejudice",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "restart american gods",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "please resume this playback in audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "my choice to play an objects from last",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "stop audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume joes book from where i left off last time",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume audio book history of rome",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "go back to the midnight series",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "pause the audiobook",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume the playback of zanes se <unk> chronicles",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play 'the two towers",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "keep reading",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play superstitions by rl stine",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start audiobook again",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "restart the audiobook heaven is for real",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "begin again book <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume 'the two towers",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "keep playing war and peace",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "play magic run after thirty min",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "resume play of american gods",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "start playing from where i left off on the goblet of fire",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "audiobook",
+    "utterance": "book please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "i want to listen radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play for me the programme americal idol",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "start playing npr in the kitchen",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play pdr on the am band radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play for me the channel star sports",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "radio stations",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "recorded program may be listened on future days",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play any pop fm channel",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play a news radio station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "please play radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "record the program and listen later on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on the radio please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "i would like to hear fresh air",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play rush limbaugh",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "just play nine hundred and thirty seven fm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "start drama from radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "open iheartradio and put on the top forty",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "i want to listen to nine hundred and forty one please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play music now from radio plus",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play the neal brennan episode of wait wait don't tell me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "set radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play the radio music band",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "find me the oldies channel",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "internals",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "channel <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "tune into the korn morning show please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "listen to rush limbaugh on ninety seven <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "could you find me a jazz station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "hello hello",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "put the radio on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "go to my favorite radio channel",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play bbc radio one",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play comedy from any fm channel",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "tune nine hundred and eleven suriyan fm on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "have remainder of the program to listen",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "open fm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "start my playlist on i heart radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "program y at radio <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "tune me song in radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play the radio for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play my favorite station at nine pm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on the oldies playlist on my radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on some npr and play them out of my speakers",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play all the programs pertaining to rock songs on the radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "i would like to listen to this programme on radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "start fm one hundred and nine",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play eight hundred and eighty nine",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on hot ninety seven",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn radio to nine hundred and eighty seven",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "can you turn msnbc on in the car",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "start radio and go to frequency on nine hundred and forty three",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play love songs radio on pandora",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "find the best rock station near my location and turn it on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "are you set radio on my favorite radio station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "switch on radio mango",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play npr on this station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "radioshowsmobi",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on one thousand and seventy five",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play this programmes in this 's",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "could play program in requried of the",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on talk radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "fm nine hundred and thirty five radio songs",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play rush limbaugh on ninety seven <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "rj raunak programme play on nine hundred and twenty seven fm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play dr demento on my bedside radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "please play <unk> on xmtune",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "i would like you to start up youtube",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play radio on five hundred and thirty on tere nagme show",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "open iheartradio rov the rock",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "i need ninety nine <unk> five please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "radio programm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play soundcloud",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "please play the local latin music channel on the radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "i want to hear this week's midweek motorsport",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "start bbc radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play rock radio station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on kiss radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "please tune my xm radio to cnn",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play bbc radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "turn on the radio for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "radio please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "open radio at <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play the rock radio station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "open pandora and play 'workout",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "tell me the name of the radio station that i want played",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "please play the radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "please play the news channel so that i can hear some news",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play the top forty station with rocket and theresa",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "create a new miley cyrus station",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "find radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "please play red fm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play the football game on the radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "play lite music in one thousand and sixty seven",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "tune to <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "put on the radio",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "go to channel one thousand and sixty nine",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "plesae tune in to channel nine fm",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "put on",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "radio",
+    "utterance": "listen to sports talk",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's play some pong",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "lets play chess together",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's roll the dice",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i want to play solitare with you",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "give me a company for playing football",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "can we play twenty questions",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "start words with friends",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play scrabble with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i want you to play this game for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play a game of chess with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open parcheese game for you and i",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open up angry birds",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open papa pear saga",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open up tetris",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play super mario brothers game with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play racing",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "start the poker game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "start the league of legends game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "load up ghost recon wildlands",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's play canasta",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's play a game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open this game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "start game temple runner",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play a game of contra as a second player",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play papa pear saga",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play football with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play keno",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "please open blokus game i would like to play with you",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "my games to play in my phones",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "lets play",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's play a game of truth or dare",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play solitaire with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play subway surfers with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i'd like to play monopoly",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play a angry bird",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i want to play rock paper scissors let's play",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "want to play a game with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's play nine ball against me adapt with my skill level always let me win",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i want to play blackjack",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play games",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "would you like to play never have i ever",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "lets solve the puzzle",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open solitaire play with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play for me the game temple run",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "start up league of legends for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "lets play checkers",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play me a game of tic tac toe",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "can you do name that tune",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "could you play poker with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "do you want to play",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i want to play a trivia game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play solitaire",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play chess app",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "please play my cricket game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "would you like to play a game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open fishdom game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "we are going to play poker together",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i feel like playing chess can you play that",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "please play clash of clans",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "we should play nfs at high speed",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "list the games you can play with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "how about a nice game of chess",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "anyone for tennis",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "chess playing",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play tic tac toe with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "tag you're it",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "paper scissors or stone",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "will play chess",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play for me the game cricket",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "game name",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's play fmod",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "would you like to play a game with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play tennis for me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "please open chess game i would like to play with you",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i want to play the game of life with you",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play chess",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "launch super mario",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "can you take a role of enemy in the game of coc",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "launch game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "please begin clash of clans",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play the latest games",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "get the duet game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "do you want to play solitaire",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "i want you to play my socceer game from fifth level",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play gta vice city game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "lets start fmod",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play scabble with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play for me the game harry potter and the chamber of secrets",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play angry bird",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play chess with me please",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "let's play checkers",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play snake with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "co play game <unk>",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "mario",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "open chess game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "lets go nazi hunting",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "play squash with me",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "please start clash of clans",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "want to play a game",
+    "origin": "HWU64",
+    "domain": "play"
+  },
+  {
+    "intent": "game",
+    "utterance": "puzzles and games app",
+    "origin": "HWU64",
+    "domain": "play"
+  }
+]

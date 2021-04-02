@@ -1,0 +1,260 @@
+[
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Yes. Can you help me locate a round trip flight for the event?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thank you very much. You've been very helpful. Now I'd like help finding a round trip flight going there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks, can you find me a round trip flight to get there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks. I will also need a round trip flight to get there please.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks very much. I would need a round trip flight to go to the game.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "thank you, please also find me a round trip flight",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thank you so much for your help. I want to search a round trip flight to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Ok great. I think I need a flight there and back.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Okay, and I need a round trip flight, too.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Perfect! I need to look for a flight to and from the event.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Great. Can you help me find a round trip flight?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thank you for your help. Would you possibly be able to help me book a flight to San Francisco?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks for the help, Can you find me a round trip flight to get there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks for the help. Can you help me book a flight out there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thank you! I want to board a round trip flight to go there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Great. Could you book me a round-tripper there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Great, I am also going to need a round trip flight to get to the show.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks a lot, now get flights for there",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks for your help. I'd like a round trip flight there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks a bunch. Now, I need a round trip plane trip to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks. I also need a round tip flight to there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks. I would like to find a round trip there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks so much for your help. I was wondering. Could you also help with my flight?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks so much for your help. I want to find a round trip flight to go.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks a lot for that, I also need a round trip flight.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks.You can find me a round trip flight to go there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks. Can you help me find a round trip flight to the event?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks a lot for everything. Can you also help with a round trip flight to there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thank you. Can you find a round trip flight?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks so much for everything. I need a round trip flight.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Awesome, thanks. I'll need a round trip flight.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks. I also need a round-trip flight to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks for that. Now I need a round flight to Philly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "thank you, i al so need around trip flight",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks, Now get round trip flight to there",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thank you and I need to search for a round trip flight to reach there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "I appreciate your help very much. I am also in need of planning a round trip flight to go there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "I appreciate your help. Though I will need a round trip flight to go there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks, now I need a round trip ticket.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks, I will need to get a round trip flight to go.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks. I'd also like to find a round trip flight to get there.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks, can you book a round trip flight so I can get there?",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_SearchRoundtripFlights_THANK_YOU",
+    "utterance": "Thanks I now need to find a round trip flight to see the game.",
+    "origin": "DSTC8-SGD",
+    "domain": "Events_Flights"
+  }
+]

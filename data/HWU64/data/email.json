@@ -1,0 +1,1742 @@
+[
+  {
+    "intent": "sendemail",
+    "utterance": "send and email to the survey group regarding answers",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to my assistant clara to cancel all appointments for tomorrow",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "email my sister about mom's birthday jane we should think about arranging the party at the park",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to c@emoteckco",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "respond to email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "email <unk>",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please send email to pawel with reminder",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please write to this email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to my supervisor",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "open terry's email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send email to mom want to go shopping tomorrow",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "mail <unk> @xorg",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to the mail with the following content",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "through mail server",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "i need to email susan and metion",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "open email to send to dad",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "email mom and ask how the weather is there",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "hey i want to send an email to my friend",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "email chelsea",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send john a mail for financial report two thousand and seventeen",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "hey send email to",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to my email from sasha saying thanks",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send a test email to",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "drop <unk> a line",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "let's email sandy",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "compose reply",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send email to mommy that i'll be going the party",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "schedule text messages for later",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "hey send an email to my friend",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to this please",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send email to robert",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "just let me know next weeks weather in california",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please send a mail to my friend divya how ru",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "hey email jan about our meeting",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please send an email to john saying i'm on leave",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to heather's latest email by answering no",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "go to contacts and add a new email to the list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send a reply to mike",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "could you send that email to chong",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to this email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "run reply to latest email received",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to bill about the upcoming weather for the week",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "make a new email for emily",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send email to comcast that their service sucks",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to most recent email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to my boss saying i will be late",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "open up my sister's email from yesterday click reply and turn on voice activation for my response",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "create an email to <unk>",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "go to ne mail compile",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "answer email from sally",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to christy's email and say thank you very much",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to robert's email of today morning",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "add bill's email to my address books and lets send him a message",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "i need an email to be sent to comcastcom about my service issues",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "compose email to my mom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "will you send an email to this new email address",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send email to chris tell him i will be late",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send answer to george",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "reply to all",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to grandma saying we are dropping by on saturday see you then",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "i need to add a new email to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please send the email to abc@gmailcom instaed of <unk> @gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "deaft an email to kailey about work later",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please respond",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "start a reply to marleen's most recent email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to sjobs@applecom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "add mail id subject content",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please email mary and tell her i'll have her files ready in the morning",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send give the details asap to john@gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "sent to",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to with the subject as test and no content",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "markpolomm@gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "inbo <unk> my family",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send this emai to reply to the latest emails",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "answer paul's email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "can you message back jean via e mail",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please send an email to my family",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send a response to my last email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "email my boss that i'm coming in late today",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send a remind email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to my brother and say wedding anniversary",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send email to rajesh",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to mom asking for a weather ute on the week to come",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "email to address",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send to sandy junable to make it to lunch today can we reschedule",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send a copy of the bills to mecky by email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "answer the email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to my manager",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send to jane only help",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "will you send the email to greg",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send an email to rohit saying 'i am busy tommorrow",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send a personal thank you email to george",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "create an email for my co worker with my recently saved documents",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "write an email about next week weather to my wife",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "send a hi to",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "start email to client",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "tell to joe\u252c\u2524s email that come to my house in this moment i am alone",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please sent this email to my friend",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "sendemail",
+    "utterance": "please send an e mail to larry's new e mail at <unk> @gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "where seth lives",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "do i have a work number for susan",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "is mary s.mith in my contacts list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "find john smith in contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "find my wife",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "where does fred work",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is mary s.'s birthday",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "look up in contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "seach the contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "is it joes birthday soon",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "mary's contact number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what's jesse's number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is mr taxi's phone number it is in my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "can i find out information about a contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is jeff's number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "did sara tried to call me",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "how many of my contacts live or work in detroit",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what street does sarah live on check my phone book",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "will you look up joe's contact information for me",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "please open my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is the address of tara john",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is jill's home phone number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "read the contact number <unk> from phone book",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "can u tell me the phone number of me",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "contact detail of <unk>",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "display address of john",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "show me my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "tell me the area code for jen k",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "path to hallway",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "do i have a home number for shelly",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "can you give me the newest phone number for bobby mcgee",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "open derek's contact information",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "can you give me details on john",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is the email address for tessa",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "call <unk>",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "when is the last time i contacted john smith",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "does bob live in france",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "google i need to call my mom will you check her work number for me",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "how many contacts are there named john",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "how do i dial sarah",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "do i have the address for the apple store in my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "how many contacts do i have in my phone book",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is joe joe's home address",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "apply search and check",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "is it anyone i knows birthday this month",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "are my contacts mostly female or male",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "show <unk> 's contact detail",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "is ale <unk> saved in my contacts list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "how can i contact this person",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "contacts please",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "please contact michael m from my list with this text",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is john's last name",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "open my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is jimmy johns's corporate number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "did i receive a message from kevin",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "have you responded my phone calls",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "which contact haven't i called in twelve months",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "please find a contact number of rahul judawa",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "who is the most frequently called person in my phone book",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "find me someone",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is this person'should contact information",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "please check and tell me where is the location of toms new business",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is job title of jan medvesek",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "check <unk> 's number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "how many numbers are saved for ale <unk>",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "tell me mary's cell number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "how many phone numbers do i have for brenden",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "show john's contact information",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "please let me know where david is travelling",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "tell me about joose",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "do i have the contact of tara john",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "do i have any missed call from patrick",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "show johns office number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "julie's information",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is bob stevens phone number it is in my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "give me the number to mom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "list phone and email id of robert",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "check and tell me the address of my friend ale <unk>",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "give me petey's telephone number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "open contacts and find john smith",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "tell me john's phone number",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what's the email address of silvia",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "can you please give me john's email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "is bills cell phone number in my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "show me the information of friend",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what's the address for ale <unk>",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "is there email id of john in the list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "do i have a number for jerry",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what is charles's email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "where does tar work currently",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "search <unk> in contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "could you get john's email address for me",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "make a call to",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "give me the details of friend",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "contact information for jay",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "do you have the mailing address for the electric company",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "what's leon's email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "send a text to alice",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "querycontact",
+    "utterance": "can you provide me with the contact information assigned to this person",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add jpearsonjessica@gmailcom to email contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add 'john@gmailcom to contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add this email to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this email to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "will you please put something something@gmailcom in my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "email <unk> @gmailcom add to email contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add contacts n mail",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "use that email address as a contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add contact e mail johndoe@yahoocom to john doe's contact information",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "here's an email address",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this email to my address book",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add tom to my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this email address to my contacts and send an email to",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add work email address",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "create new contact with email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add an email to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add a new email contact to my list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please create a new contact information about jo",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save email id",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add email address iamironman@gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add a new email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add something@gmailcom to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add email to contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add new email address",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add a new email in my contacts from sara",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add new email to contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this email to my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please place my new email address to the contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this new email with contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "edit contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "open contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save this email in contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "put sam@gmailcom in my email contacts list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "make this email a new contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "i want to and my email address",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add new email to anna",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "null",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add an e mail for john doe to my contacts johndoe@yahoocom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add a new email address which is",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add apahelp@yahoocom in my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add smithjoe@emailcom to the contact information for joe smith",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "send an email and save the contact information for samuelwaters@hotmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "make a new contact with this email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add johndoe@yahoocom to my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add carl's email to my contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save the email to my contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add sarah as email contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add the new email o my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add apahelp@yahoocom to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "store my cont",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add lowes hardware to my contact emails located in cleveland ohio",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this email to my contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "i need you to add gary's email to my favorites",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add dale@gmailcom to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add new email to my contacts <unk> @gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "open up contacts and add email something@gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this email to a new contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add dr rosenstock as an email contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add email to existing contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add a new email in my contacts from john",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save to contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "can you look up and add john's old email to my contacts again",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "just add a new email in my contacts from michael",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "remember this email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "i need to add this new contact for sam smith ssmith@yahoocom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add dan's email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add a new contact for daniel bell dbell@aolcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add dan's email to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this person's email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add smurfette@gmailcom to my email contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add the email <unk> @gmailcom to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "i would like you to add an email to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add sam@gmailcom to my contacts list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "please add to my contact lists and send them a reminder email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save this email in my contact for future use",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save that email as a new contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "i need you to add this email in my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add erosser@hotmailcom as a new contact for emily rosser",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save new email addresses to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add this new email",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "enter atdfd@yahoocom into my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "ute my contacts with the new contact sam@gmailcom",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "create new contact",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "save my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "get apahelp@yahoocom in my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "locate the email to giant eagle and put it into my contact list",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "add dan@dancom to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "can you add a new email to my contacts",
+    "origin": "HWU64",
+    "domain": "email"
+  },
+  {
+    "intent": "addcontact",
+    "utterance": "change my mum's email in my phonebook",
+    "origin": "HWU64",
+    "domain": "email"
+  }
+]

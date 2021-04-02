@@ -1,0 +1,206 @@
+[
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thanks a lot. I also want to share a location with Lori, it's 30 St Mary Axe (The Gherkin).",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thanks for the help. Will you share the location address of JFK International Airport with Joe.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thank you for your assistance. Can you also share the address? The location to share is 3912 MacArthur Boulevard, and I'd like to share it with Abigail.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thank you for your help. Oh, I need to share the location for Estacion Buenavista with Walter.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "I appreciate your help. I am in need of sharing a location with Amber, and the location to be shared is Admiralty Arch.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thanks so much. I want to share the location, Alley Pond Park, with Kimberly.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Okay. Could you share the location of Heathrow International Airport with Victoria?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thanks so much. Would you also help me with a location share? I need to share the address 1655 Post Street with Michael.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Great! Can you share the address of Union Plaza with Billy please?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "thanks. can you share the location for anz stadium with julia?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "I would like to share this address 900 Meadowood Lane with Rebecca.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "OK great, now share a location with Virginia, 3082 Marlow Road",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Okay. Thank you! And can you share the location 940 Blossom Hill Road with Roy?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thank you very much. You've been very helpful. Now, please share the Heathrow International Airport address with Scott.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thank you for the help. Would you be able to share the location? The address I want to share is 2241 First Street and I want to share it with Samuel.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thank you very much. You've been very helpful. Wait, I'd like to share the Downtown address with Jean.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Okay. I need the address for Benito Juarez International Airport and I need to also share it with Vincent.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thanks. Do one more thing. please share the location address 960 Moraga Road #1 to Keith.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thanks for helping. Could you share the location as 25 Lusk Street with Jerry.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_contact_name_INFORM_location_THANK_YOU",
+    "utterance": "Thanks for everything! Please share the location for 17385 Monterey Road with Keith?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thanks for everything. Could you please share the location for Intercity Terminal?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "OK, great. Also, would you mind sharing that location? The sharing address is downtown.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Very good, thanks! I want to share the location to 3950 Middlefield Road",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thank you, can you share the location? the address to share is 115 De Anza Boulevard",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "OK, great, thanks for your help. I would also like to share the location of that 3D Toronto sign.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thanks a lot. I also need to share a location of 2203 Loveridge Road.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thanks for the help. Could you share the location address of 1890 West San Carlos Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thanks, can you share the location of the Santa Fe depot as well?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thank you so much. Could you share the location of Al-Farooq Masjid?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "You are so much help. Also, will you share the address of O'Hare International Airport?",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Can you share location of 2180 Third Street.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thank you very much. You've been very helpful. Wait, one last thing. Please share the Heathrow International Airport address.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thank you. I also need to share the location of Fresno Yosemite International Airport.",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  },
+  {
+    "intent": "INFORM_INTENT_ShareLocation_INFORM_location_THANK_YOU",
+    "utterance": "Thank you.I want you to share the location and address to share is Aga Khan Museum",
+    "origin": "DSTC8-SGD",
+    "domain": "Messaging_RentalCars"
+  }
+]

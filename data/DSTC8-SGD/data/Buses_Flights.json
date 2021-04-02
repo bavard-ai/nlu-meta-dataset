@@ -1,0 +1,146 @@
+[
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Awesome. Could you help me find a bus that's going there? I'd like to leave next Monday.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Cool. I also need a bus, planning on leaving the 14th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Next, can you help me find a bus there on the 4th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Thanks, can you help book at bus to get to the airport on march 13th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Thanks. Find a bus there on the 3rd of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Thank you for the help. Is there a bus that goes there? I wanna leave on the 3rd of this month.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Great. I need a bus for the 8th of March.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Great, can you also search for a bus going there on the 6th of this month?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Thanks so much. Could you help me find a bus going there? I'd like to leave on March 5th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Perfect. I need a bus going there March 5th.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_FindBus_INFORM_leaving_date_THANK_YOU",
+    "utterance": "Thanks, but I also need a bus headed there for next Monday.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "Hold on. I don't want the bus tickets. Can you book me a flight ticket on the flight that you found?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, not right now. Can you go back and book that flight actually?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "Naw, not right now. Will you go ahead and get me the flight you found?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, not for the bus now but I need to book the flight tickets that you have selected for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, I won't be buying bus tickets. I want to book the flight we were talking about.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, not right now. Book me those flight tickets.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, but can you reserve flight you found for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "Nope. It can be done later. Could you book the flight for me?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "no, not yet but can you book the flight ticket for me",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, we will continue with the tickets booking for the flight that you have found for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "Not now. Book that flight though.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, not right now. What about the flight? Go ahead and book it for me.",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  },
+  {
+    "intent": "INFORM_INTENT_ReserveOnewayFlight_NEGATE_INTENT",
+    "utterance": "No, but can I book a flight?",
+    "origin": "DSTC8-SGD",
+    "domain": "Buses_Flights"
+  }
+]
