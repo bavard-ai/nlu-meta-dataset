@@ -5,7 +5,10 @@ This intent classification dataset is a conglomeration of 6 task-oriented dialog
 datasets and intent classification datasets, all unified under a common, simple format. It is suitable for training
 few-shot intent classification models as it spans 78 dialogue domains and has 1629
 intents, with each intent having between 11 and 100 natural language
-utterance examples. There are a total of 84212 utterances in the dataset.
+utterance examples. There are a total of 84212 utterances in the dataset. For more information on
+how this dataset was curated, please see our
+[article](https://figshare.com/articles/preprint/Announcing_The_New_Bavard_NLU_Intent_Service/14403380) announcing
+the release of this dataset.
 
 Here is a tabulation of the datasets used to create this dataset:
 
@@ -98,6 +101,20 @@ derivative works are open-sourced under the same license.
 | HINT3 | [Open Data Commons Open Database License (ODbL) v1.0](https://github.com/hellohaptik/HINT3/blob/master/LICENSE.md) |
 | HWU64 | [Attribution 4.0 International (CC BY 4.0)](https://github.com/xliuhw/NLU-Evaluation-Data/blob/master/LICENSE) |
 | MultiWOZ 2.2 | [MIT](https://github.com/budzianowski/multiwoz/blob/master/LICENSE) |
-| taskmaster2 | [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| Taskmaster2 | [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) |
+
+To cite this dataset:
+
+```
+@misc{peterson_2021,
+    title={Announcing The New Bavard NLU Intent Service},
+    url={https://figshare.com/articles/preprint/Announcing_The_New_Bavard_NLU_Intent_Service/14403380/1},
+    DOI={10.6084/m9.figshare.14403380.v1},
+    publisher={figshare},
+    author={Peterson, Evan},
+    year={2021},
+    month={Apr}
+}
+```
 
     
